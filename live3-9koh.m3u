@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Nick Jr.
+http://live3.9koh.com:8000/live/aplay/live/7.m3u8
+#EXTINF:-1,National Geographic HD
+http://live3.9koh.com:8000/live/aplay/live/10.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://live3.9koh.com:8000/live/aplay/live/9.m3u8
+#EXTINF:-1,Fox Thai
+http://live3.9koh.com:8000/live/aplay/live/6.m3u8
+#EXTINF:-1,Fox Crime HD
+http://live3.9koh.com:8000/live/aplay/live/4.m3u8
+#EXTINF:-1,Fox Action Movies
+http://live3.9koh.com:8000/live/aplay/live/5.m3u8
+#EXTINF:-1,Baby TV
+http://live3.9koh.com:8000/live/aplay/live/8.m3u8
+#EXTINF:-1,FX HD
+http://live3.9koh.com:8000/live/aplay/live/3.m3u8
+#EXTINF:-1,Workpoint
+http://live3.9koh.com:8000/live/aplay/live/2.m3u8
