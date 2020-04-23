@@ -1,0 +1,1590 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="AMARIN TV HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/AMARIN-TV-HD.png",AMARIN TV HD
+http://27.254.130.64/live01/ch13.m3u8?p=amarin34
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="AMARIN TV HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/AMARIN-TV-HD.png",AMARIN TV HD (1)
+http://27.254.130.64/live01/ch13.m3u8?p=
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 8" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch8_65x66.png",CH 8
+http://27.254.130.64/live02/ch2.m3u8?p=ch8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 8 (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch8_65x66.png",CH 8 (1)
+http://main-a.for-our.info:8081/tv2/ch2.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="TNN 24" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png",TNN 24
+http://27.254.130.64/live01/ch5.m3u8?p=tnn24
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Thairath TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Thairath-TV.png",Thairath TV
+http://27.254.130.64/live01/ch9.m3u8?p=thairaht
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Thairath TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Thairath-TV.png",Thairath TV (1)
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="NBT" tvg-logo="http://www.totiptv.com/Product/Channel/images/NBT.png",NBT
+http://27.254.130.64/live01/ch14.m3u8?p=nbt
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="NBT (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/NBT.png",NBT (1)
+http://27.254.130.64/live01/ch14.m3u8?p=nbthd2
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="PPTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png",PPTV 
+http://27.254.130.64/live01/ch2.m3u8?p=pptv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="PPTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/PPTV-HD.png",PPTV (1) 
+http://27.254.130.64/live01/ch2.m3u8?p=pptv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH3 HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH3 HD(1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3 HD (1)
+http://27.254.130.64/live01/ch0.m3u8?p=3hd
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH3 HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3 HD (2)
+http://27.254.130.64/live01/ch0.m3u8?p=3hd
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 3 Family (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-Family.png",CH 3 Family
+http://main-a.for-our.info:8081/tv2/ch1.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH5" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch5.png",CH5
+http://27.254.130.64/live01/ch6.m3u8?p=5hd1
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH5" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch5.png",CH5 (1)
+https://m88.intersteam-idc.com/live41/0x777_2tv5_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH5" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch5.png",CH5 (2)
+http://27.254.130.64/live01/ch6.m3u8?p=5hd1
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 7" tvg-logo="http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png",CH 7 
+http://27.254.130.64/live01/ch1.m3u8?p=7hd
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 7" tvg-logo="http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png",CH 7 (1) 
+https://bbtvalive-a.bugaboo.tv/liveedgech7/_definst_/smil:auto.smil/chunklist_b2000000_sleng.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CH 7" tvg-logo="http://www.totiptv.com/Product/Channel/images/BBTV-CH7.png",CH 7 (2) 
+http://27.254.130.64/live01/ch1.m3u8?p=7hd
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-logo="http://www.totiptv.com/Product/Channel/images/CH2.png",CH 2
+http://stream.rs.co.th/ch2-hi/index.m3u8?
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="BRIGHT TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Bright-TV.png",BRIGHT TV
+http://27.254.130.64/live99/47/brighttv.m3u8?p=%20brighttv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="BRIGHT TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/Bright-TV.png",BRIGHT TV (1)
+http://27.254.130.64/live99/47/brighttv.m3u8?p=brighttv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="ช่อง 1 เวิร์คพอยท์ " tvg-logo="http://www.totiptv.com/Product/Channel/images/workpoint.png",ช่อง 1 เวิร์คพอยท์ 
+http://27.254.130.64/live01/ch7.m3u8?p=workpiont
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="ช่อง 1 เวิร์คพอยท์ " tvg-logo="http://www.totiptv.com/Product/Channel/images/workpoint.png",ช่อง 1 เวิร์คพอยท์ (1)
+http://27.254.130.64/live01/ch16.m3u8?p=daradaily 
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="ช่อง 1 เวิร์คพอยท์ " tvg-logo="http://www.totiptv.com/Product/Channel/images/workpoint.png",ช่อง 1 เวิร์คพอยท์ (2)
+http://27.254.130.64/live01/ch7.m3u8?p=workpiont
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Voice TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/voiceTV.png",Voice TV
+https://live3.intersteam-idc.com/iheartmovie53/00_voice_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Voice TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/voiceTV.png",Voice TV (1)
+http://27.254.130.64/live02/ch6.m3u8?p=voice
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Thai PBS" tvg-logo="http://www.totiptv.com/Product/Channel/images/thaiPBS.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Thai PBS (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/thaiPBS.png",Thai PBS(1)
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="NOW26" tvg-logo="https://www.isranews.org/images/2017/Thairefrom/02/now2601.jpg",NOW26
+http://nationstream.nationgroup.com/hls/th_low.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="NOW26" tvg-logo="https://www.isranews.org/images/2017/Thairefrom/02/now2601.jpg",NOW26 (1)
+http://27.254.130.64/live01/ch12.m3u8?p=now26
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="One HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/one-HD.png",One HD
+http://live.seesantv.com/live/chone1/playlist.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="One HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/one-HD.png",One HD (1)
+http://27.254.130.64/live01/ch10.m3u8?p=one31
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Nation TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/nationchannel.png",Nation TV 
+http://live.nationtv.tv/hls/ntv_th_hd.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Nation TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/nationchannel.png",Nation TV (1)
+http://27.254.130.64/live99/46/money.m3u8?p=mony
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD
+http://main-a.for-our.info:8081/tv2/ch7.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD (1)
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD (2)
+http://27.254.130.64/live02/ch7.m3u8?p=mcot
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="MCOT HD" tvg-logo="http://www.totiptv.com/Product/Channel/images/ch9.png",MCOT HD (3)
+http://27.254.130.64/live02/ch7.m3u8?p=mcothd30
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="MCOT family" tvg-logo="https://www.img.in.th/images/35188e53240a3ef855745b66694f3d57.png",MCOT family
+http://main-a.for-our.info:8081/tv2/ch4.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Spring News" tvg-logo="http://www.totiptv.com/Product/Channel/images/springnews.png",Spring News
+http://27.254.130.64/live02/ch5.m3u8?p=spingnew
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Spring News" tvg-logo="http://www.totiptv.com/Product/Channel/images/springnews.png",Spring News(1)
+
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="GMM CHANNEL (1)" tvg-logo="http://www.totiptv.com/Product/Channel/images/GMMChannel.png",GMM CHANNEL
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_b1628000.m3u8
+
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="TRUE 4U" tvg-logo="http://www.totiptv.com/Product/Channel/images/TRUE-4-U.png",TRUE 4U 
+http://27.254.130.64/live01/ch4.m3u8?p=true4u
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="TRUE 4U" tvg-logo="http://www.totiptv.com/Product/Channel/images/TRUE-4-U.png",TRUE 4U (1)
+http://27.254.130.64/live01/ch4.m3u8?p=
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="TNN 2" tvg-logo="https://www.img.in.th/images/e7bcc0a519e86983e907be4a1bba5f6a.jpg",TNN 2 
+http://27.254.130.64/live01/ch15.m3u8?p=ch2
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="New 18" tvg-logo="https://www.img.in.th/images/4fc2126d8ecb7c008edb4ef0c33c36fc.png",New 18
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="new)tv" tvg-logo="http://www.totiptv.com/Product/Channel/images/new)tv.png",New)tv
+http://27.254.130.64/live99/47/newtv.m3u8?p=%20new%20tv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="CABLE 37HD" tvg-logo="https://www.img.in.th/images/65326e500d5eec03fe6a063f8853e255.jpg",CABLE 37HD
+http://27.254.130.64/live99/47/tptv.m3u8?p=tptv
+
+#EXTINF:-1 group-title="ชื่นชอบ" tvg-id="Series Channel 143" tvg-logo="https://www.img.in.th/images/2829393bfd56f42af9b50b0f7f268522.jpg",Series Channel 143
+http://stream.rs.co.th/you-hi/index.m3u8
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://a.lnwpic.com/s8r5bc.png",HBO HD
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://a.lnwpic.com/s8r5bc.png",HBO HD (1)
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="MONO29" tvg-logo="http://api.psitv.tv/uploads/channel/122.png",MONO29
+http://27.254.130.64/live01/ch3.m3u8?p=pptv
+
+#EXTINF:-1 group-title="Movies" tvg-id="MONO29" tvg-logo="http://api.psitv.tv/uploads/channel/122.png",MONO29 (1)
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="HIT TV" tvg-logo="https://www.img.in.th/images/bbd89e8de4c048002771a3c48d12652c.jpg",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="UP1 MOVIE" tvg-logo="https://www.img.in.th/images/48df15f4e6ffe89975d4ebdf9a0a3ff9.png",UP1 MOVIE
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="MOVIE 1" tvg-logo="https://www.img.in.th/images/9d83de4ca6b2e16b2c8124eefcce9139.png",MOVIE 1
+http://live.seesantv.com/live/chmonoplus/chunklist_w1875327427.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="MOVIE 2" tvg-logo="https://www.img.in.th/images/80a9b06414613b876af1e247a7462f7e.jpg",MOVIE 2
+http://27.254.130.64/live99/46/zeenung.m3u8?p=%20zeenung
+
+#EXTINF:-1 group-title="Movies" tvg-id="MOVIE 3" tvg-logo="https://www.img.in.th/images/968cc83ef1baa2dc31d01467ce70dc31.jpg",MOVIE 3
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="MOVIE HD" tvg-logo="https://www.img.in.th/images/95526db277e9cf90920de22160b3b66c.png",MOVIE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="http://thaiptv.com/img/tcctv.jpg",Thai CCTV
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="FOX FAMILY MOVIES (Eng)" tvg-logo="https://a.lnwpic.com/g35cax.jpg",FOX FAMILY MOVIES
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox" tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch408.jpg",Fox
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Action Movies (Eng)" tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch408.jpg",Fox Action Movies
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDE4IDEwOjEwOjUzIEFNJmhhc2hfdmFsdWU9VHgvRk5HSi9XS2xWZUlwNjZXNGkrUT09JnZhbGlkbWludXRlcz0yJmlkPUNob3l8MTAxN3xpcHR2aGVyb3wxNTMwMDk0MjUzfDU4LjguMjI3Ljkz
+
+#EXTINF:-1 group-title="Movies" tvg-id="FOXLife" tvg-logo="https://www.img.in.th/images/8efe170fcafa1236b0dd7cdfb88e26ce.png",FOXLife
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Crime (Thai)" tvg-logo="http://www.brand-news.it/wp-content/uploads/2016/11/foxcrime.jpg",Fox Crime
+http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Action Movies" tvg http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Movies Premium" tvg-logo="https://a.lnwpic.com/7wd6gr.png",Fox Movies Premium
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Thai (Thai)" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai
+http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="Movies" tvg-id="Fox Thai (Thai1)" tvg-logo="http://www.thaiptv.com/img/fxth.png",Fox Thai (1)
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="FX" tvg-logo="https://a.lnwpic.com/b9k0wm.jpg",FX
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="FX" tvg-logo="https://a.lnwpic.com/b9k0wm.jpg",FX HD
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="Movies" tvg-id="M Channel" tvg-logo="http://www.totiptv.com/Product/Channel/images/Mchannel.jpg",M Channel
+http://27.254.130.64/live01/ch19.m3u8?p=
+
+#EXTINF:-1 group-title="Movies" tvg-id="M Channel" tvg-logo="http://www.totiptv.com/Product/Channel/images/Mchannel.jpg",M Channel (1)
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1653004079.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="M Channel" tvg-logo="http://www.totiptv.com/Product/Channel/images/Mchannel.jpg",M Channel (2)
+http://27.254.142.207:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="http://thaiptv.com/img/major_channel_mix.jpg",major channel mix
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://coacabletv.com/wp-content/uploads/2014/04/ctb.jpg",CTB หนังดี
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://coacabletv.com/wp-content/uploads/2014/04/ctb.jpg",CTB (1)
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel8Thailand หนังดี
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist_w1526117386.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/281db6740f617ca3e9996d4639ddfcce.png",AXN HD
+http://210.210.155.35/session/27b55516-a9dd-11e8-ab59-9ac3a67208b9/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/06be839dab4df473ae614c33bd0783da.png",True asianseries HD
+http://103.7.57.17:1935/live1/TRUE-FLA.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.sine.tv/images/icon/truemoviehits.png",True movie hits
+http://103.7.57.17:1935/live1/TRUE-MOVIEH.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.img.in.th/images/c0229f6498c2dadfc635aeceb4b29cd8.jpg",TRUE EXPLORE LIFE
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.sine.tv/images/icon/tfa.png",True film asia
+http://103.7.57.17:1935/live1/TRUE-FLA.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.sine.tv/images/icon/truethaifirm.png",True thai film
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/5e8c5e73ecaa6314fb9ced6fe83fac31.jpg",True film HD
+http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",TV Movies
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/154efb2412f955785225657f6dfa8458.png",True WB
+https://m88.intersteam-idc.com/live54/0x777_warnertv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.img.in.th/images/154efb2412f955785225657f6dfa8458.png",True WB (1)
+
+
+#EXTINF:-1 group-title="Movies" tvg-id="H2" tvg-logo="https://www.img.in.th/images/cab82f37c2eb3dc6f3c475826f79f1e7.jpg",H2
+http://103.7.57.17:1935/live1/H2HDrut.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="H2" tvg-logo="https://www.img.in.th/images/cab82f37c2eb3dc6f3c475826f79f1e7.jpg",H History
+http://103.7.57.17:1935/live1/Rhistory.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="http://www.doo2free.com/icon/SeriesChannel.png",Series Channel
+http://27.254.130.64/live99/46/youchannel.m3u8?p=%20serieschannel
+
+#EXTINF:-1 group-title="Movies"tvg-logo="http://thaiptv.com/img/major_channel_mix.jpg",major channel mix
+http://mvtv.dyndns.tv:1935/live/mixmajor/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBt6vyOoAeNP6BBeC67M4-zII1diM_qj1swiBip00MY7rJ-fpR9g",SONY MAX HD
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1 group-title="Movies"tvg-logo="https://www.img.in.th/images/94ab23cbfa1f1f117e5558f0dbf75cc0.jpg",TV 1000 Action
+http://iliketot.dyndns.tv/e584e0adae6440eab366f5fe3a824f91.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/ts.png",True Series
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SETANTA HD" tvg-logo="https://www.img.in.th/images/46d757680aad1461d8dad83db67e4fa8.png",SETANTA HD 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/232.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="MANU TV" tvg-logo="https://www.img.in.th/images/b8647bf6b46ea88f9b1756cb3e00b64f.png",MANU TV 
+https://live3.intersteam-idc.com/iheartmovie41/0x444_mutv_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD (Thai)" tvg-logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",TrueSport HD 
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+
+logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",TrueSport HD (1)
+
+
+logo="http://tvdode.com/files/lives/cc364e49809b49321d6d278ea777dbf2.png",TrueSport HD (2)
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 2" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",TrueSport HD 2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 2" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",TrueSport HD 2 (1)
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 2" tvg-logo="http://tvdode.com/files/lives/87c891b115b94a77d973ee694db381c4.png",TrueSport HD 2 (2)
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 3 (Thai)" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 3" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3 (1)
+https://live3.intersteam-idc.com/iheartmovie54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 3" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3 (2)
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 3 (Thai)" tvg-logo="http://tvdode.com/files/lives/ec106de4d59ee2cf6b4a625998d828f7.png",TrueSport HD 3 (4)
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="TrueSport HD 4" tvg-logo="http://tvdode.com/files/lives/328d78fbc41e35bd4ce24893ed264a65.png",TrueSport HD 4
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSport2.png",True Sports2
+https://m88.intersteam-idc.com/live136/00_2sport2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSport5.png",True Sports5
+https://m88.intersteam-idc.com/live136/00_2sport5_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSport6.png",True Sports6
+https://m88.intersteam-idc.com/live136/00_2sport6_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSport7.png",True Sports7
+https://m88.intersteam-idc.com/live53/00_2sport7_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 1" tvg-logo="http://tvdode.com/files/lives/44de83aaee8d10f914627c8a4bc70d27.png",BEIN SPORTS 1
+https://m88.intersteam-idc.com/live136/0x777_beinsport1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 1" tvg-logo="http://tvdode.com/files/lives/44de83aaee8d10f914627c8a4bc70d27.png",BEIN SPORTS 1 (1)
+https://109-ssl.sai8.live/spider/0x777_beinsport1_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 1" tvg-logo="http://tvdode.com/files/lives/44de83aaee8d10f914627c8a4bc70d27.png",BEIN SPORTS 1 (2)
+https://live3.intersteam-idc.com/iheartmovie136/0x777_beinsport1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 2" tvg-logo="http://tvdode.com/files/lives/5998ac2507aa3720ec884fc382c75c22.png",BEIN SPORTS 2
+https://m88.intersteam-idc.com/live136/0x777_beinsporthd2_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 2" tvg-logo="http://tvdode.com/files/lives/5998ac2507aa3720ec884fc382c75c22.png",BEIN SPORTS 2 (1)
+https://109-ssl.sai8.live/spider/0x777_beinsporthd2_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="BEIN SPORTS 2" tvg-logo="http://tvdode.com/files/lives/5998ac2507aa3720ec884fc382c75c22.png",BEIN SPORTS 2 (2)
+https://live3.intersteam-idc.com/iheartmovie136/0x777_beinsporthd2_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvdode.com/files/lives/33e645e681b1bd2c51d56050b6910b45.png",BEIN SPORTS 3
+https://m88.intersteam-idc.com/live136/0x777_beinsporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvdode.com/files/lives/33e645e681b1bd2c51d56050b6910b45.png",BEIN SPORTS 3 (1)
+https://109-ssl.sai8.live/spider/0x777_beinsporthd3_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvdode.com/files/lives/33e645e681b1bd2c51d56050b6910b45.png",BEIN SPORTS 3 (2)
+https://live3.intersteam-idc.com/iheartmovie136/0x777_beinsporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvdode.com/files/lives/9a60982d90b122a89a87dee59485110e.png",BEIN SPORTS 4
+https://m88.intersteam-idc.com/live136/0x777_beinsporthd4_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvdode.com/files/lives/9a60982d90b122a89a87dee59485110e.png",BEIN SPORTS 4 (1)
+https://109-ssl.sai8.live/spider/0x777_beinsporthd4_720p.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/03634dc55952963934562abd890375fc.png",BEIN SPORTS 6
+https://m88.intersteam-idc.com/live136/0x222_beinsporthd6_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/f2f8daf84de89558e39ba559ed97701c.png",BEIN SPORTS 7
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/6aef0ee97e2ea85c359736ef52a96f63.png",BEIN SPORTS 8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/177cd56c80011041b1f157bfd60a4261.png",BEIN SPORTS 9
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/4f277046c80296f9cd84e3b4c1fabf97.png",BEIN SPORTS 11
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/d55f3eb920c7fe9fe492c85bfa646d15.png",BEIN SPORTS 12
+http://iliketot.dyndns.tv/31dbe17e0c1b4c8684200f83b85b007b.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/dd12ebc9b1cfa3e495638fdc72163234.jpg",EUROSPORT HD
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/dd12ebc9b1cfa3e495638fdc72163234.jpg",EUROSPORT HD1
+https://m88.intersteam-idc.com/live54/0x444_eurosportuk1_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/6ba99fb0481d9f424c937a7db2314ca3.jpg",Sky sportHD
+https://m88.intersteam-idc.com/live41/0x777_skynetsporthd_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports1.png",Sky sport1
+https://m88.intersteam-idc.com/live41/00_skynetsport1_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports2.png",Sky sport2
+https://m88.intersteam-idc.com/live41/00_skynetsport2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports3.png",Sky sport3
+https://m88.intersteam-idc.com/live41/00_skynetsport3_480p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports4.png",Sky sport4
+https://m88.intersteam-idc.com/live41/00_skynetsport4_480p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports5.png",Sky sport5
+https://m88.intersteam-idc.com/live41/00_skynetsport5_480p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/SkyNetSports6.png",Sky sport6
+https://m88.intersteam-idc.com/live41/00_skynetsport6_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox sports HD" tvg-logo="http://www.fifa55u.com/images/icon/FOXSportsHD.png",Fox sports
+https://m88.intersteam-idc.com/live54/0x777_foxsport1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox sports HD" tvg-logo="http://www.fifa55u.com/images/icon/FOXSportsHD.png",Fox sports 1
+https://live3.intersteam-idc.com/iheartmovie54/0x777_foxsport1_720p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2
+https://m88.intersteam-idc.com/live54/0x555_foxsport2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sport 2" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports2.png",Fox Sport 2(1)
+https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport2_480p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sport 3" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sport 3
+https://m88.intersteam-idc.com/live54/0x555_foxsport3_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sport 3" tvg-logo="http://www.fifa55u.com/images/icon/FOXSports3.png",Fox Sport 3 (1)
+https://live3.intersteam-idc.com/iheartmovie54/0x555_foxsport3_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSportTennis.png",True Tennis HD
+http://vippool.unlimit-livestream.com:19357/pool136/0x777_truetennis_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSportTennis.png",True Tennis HD 1
+https://m88.intersteam-idc.com/live41/0x444_tsn1_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSportTennis.png",True Tennis HD 2
+https://m88.intersteam-idc.com/live41/0x444_tsn2_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/TrueSportTennis.png",True Tennis HD 3
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="WWE" tvg-logo="http://tvdode.com/files/lives/a5aad627c80cde95f26469e88d3d294c.png",WWE
+https://m88.intersteam-idc.com/live41/0x444_wwe_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="WWE" tvg-logo="http://tvdode.com/files/lives/a5aad627c80cde95f26469e88d3d294c.png",WWE (1)
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="DUBAI RACING" tvg-logo="https://www.img.in.th/images/2120a23020c263316d117165b0dd8cce.jpg",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.sine.tv/images/icon/NBAPremiumTVHD.png",NBA TV
+https://m88.intersteam-idc.com/live54/0x777_2nba_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img.in.th/images/99f4cf9988af0d67176624bb159431df.jpg",FSI
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="GOLF TV (Eng)" tvg-logo="http://www.skynetdth.com/images/channal_logo/Golf.png",GOLF TV (Eng)
+https://m88.intersteam-idc.com/live54/0x777_golfchannel_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY TEN 1" tvg-logo="https://www.img.in.th/images/d7903611d7882e114d3985e10254434b.jpg",SONY TEN 1
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY TEN 2" tvg-logo="https://www.img.in.th/images/5ea93d297fa6f1cc2ccabada8bd9bfce.png",SONY TEN 2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY TEN 3" tvg-logo="https://www.img.in.th/images/876e068b700a5b541e627652246a2215.jpg",SONY TEN 3
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY TEN 3" tvg-logo="https://www.img.in.th/images/876e068b700a5b541e627652246a2215.jpg",SONY TEN 3(1)
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY ESPN HD" tvg-logo="https://www.img.in.th/images/dacfe914ae8254782082c72d5c28d02c.png",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw2904361558_1370897693/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SONY ESPN HD" tvg-logo="https://www.img.in.th/images/dacfe914ae8254782082c72d5c28d02c.png",SONY ESPN HD(1)
+http://iliketot.dyndns.tv/3f35c4428a0d4004a38ff0adba7664f4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="T SPORT" tvg-logo="https://www.img.in.th/images/f107e56cf591176793b936bcad5fbc5e.png",T SPORT
+https://live3.intersteam-idc.com/iheartmovie54/0x777_golfchannel_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="EUROSPORT HD" tvg-logo="https://www.img.in.th/images/66f7cd6967bc7b7aee2f594777068d4b.jpg",EUROSPORT HD
+http://vippool.ddns.net:19357/pool136/0x777_eurosport_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="DSPORT" tvg-logo="https://www.img.in.th/images/0134ea9b66b4303e54d05e5c9ec58417.jpg",DSPORT
+https://m88.intersteam-idc.com/live41/0x444_sportv1br_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="FIGHT SPORTS HD" tvg-logo="https://www.img.in.th/images/61a27b3c94dc6921169e50c14f734e25.jpg",FIGHT SPORTS HD
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.amazonaws.com/speedsport-news/speedsport-news/wp-content/uploads/2017/08/26175028/nssn-logo-flat-300x300.png",Speed Sport
+https://m88.intersteam-idc.com/live136/00_speedchannel_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://teevee-hd.com/img/play.png",TRUE SPARK PLAY
+http://iliketot.dyndns.tv/1e2041858ca543fa90ec95d28197e907.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://teevee-hd.com/img/jump.png",TRUE SPARK JUMP
+http://iliketot.dyndns.tv/31b003ab7e7749a798fe00424e3dd9ff.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.img.in.th/images/94dc99a877b0702c0d5828ffeae80a0e.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.img.in.th/images/506357b22bdd303d2ca7304ddd4751cd.png",SMM SPORT
+http://edge4-bkk.3bb.co.th:1935/SMMTV_Livestream/smmtv_high.stream/playlist.m3u8
+
+*********************************************************************************************************************************
+*********************************************************************************************************************************
+*********************************************************************************************************************************
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEY XD
+http://main-a.for-our.info:8081/tv11/disneyxd/chunks.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี" tvg-logo="https://www.img.in.th/images/46760ab245d14867ff02ded3e4dd1743.jpg",National Geographic
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDE4IDEwOjEwOjUzIEFNJmhhc2hfdmFsdWU9VHgvRk5HSi9XS2xWZUlwNjZXNGkrUT09JnZhbGlkbWludXRlcz0yJmlkPUNob3l8MTAxN3xpcHR2aGVyb3wxNTMwMDk0MjUzfDU4LjguMjI3Ljkz
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://www.img.in.th/images/5df89ab3f43716796c374775628234e6.jpg",CN
+https://vod.cartoonnetworkasia.com/cn3.x/20161122/1836/0_cexvdnmd_0_k5w2usw1_2.mp4
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://www.img.in.th/images/2bbc3e41de8767439f2a7bc06c8dda91.jpg",DISCOVERY ASIA
+http://main-a.for-our.info:8081/tv11/discovery/chunks.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://www.img.in.th/images/78cc27012b0b9686bd141fbf3509bb98.jpg",DISCOVERY CHANNEL
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL
+http://main-a.for-our.info:8081/tv11//disney/chunks.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://teevee-hd.com/img/disney.png",DISNEY CHANNEL (1)
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/45.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://teevee-hd.com/img/disney.png",BBC EARTH
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน,สาระคดี"tvg-logo="https://teevee-hd.com/img/disney.png",BBC LIFESTYLEhttp://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
+*********************************************************************************************************************************
+*********************************************************************************************************************************
+*********************************************************************************************************************************
+
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Live-Free-or-Die-Hard.jpg",ดายฮาร์ด ภาค 4 ปลุกอึด ตายยาก Live Free or Die Hard
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Die_Hard_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/Clash-of-the-Titans.jpg",สงครามมหาเทพประจัญบาน Clash of the Titans
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Clash_of_the_Titans_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Dark-of-the-Moon-185x278.jpg",ทรานส์ฟอร์เมอร์ส ภาค 3 ดาร์ค ออฟ เดอะ มูน
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Transformers_3_Dark_of_The_Moon_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/cWkZQqS2IxMcvH7UZSHFR8YYRfk-185x278.jpg",ต้องฆ่าให้หมด!! Kill ’em All
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Kill_em_All_en.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/The-Hunters-Prayer.jpg",ล่าคนระอุ The Hunter’s Prayer
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Hunters_Prayer_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/Code-of-Honor.jpg",ล่าแค้นระเบิดเมือง Code of Honor
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Code_of_Honor_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Bastille-Day.jpg",ดับเบิ้ลระห่ำ ปารีสระอุ Bastille Day
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Bastille_Day_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/A-Good-Day-to-Die-Hard.jpg",ดายฮาร์ด ภาค 5 วันดีมหาวินาศ คนอึดตายยาก A Good Day to Die Hard
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Die_Hard_5_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Shooter.jpg",คนระห่ำปืนเดือด Shooter
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Shooter_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Saving-Private-Ryan.jpg",เซฟวิ่ง ไพรเวท ไรอัน ฝ่าสมรภูมินรก Saving Private Ryan
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Saving_Private_Ryan_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Inside-Man.jpg",ล้วงแผนปล้น คนในปริศนา Inside Man
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Inside_Man_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 1 แหกมฤตยูแดนข้าศึก Behind Enemy Lines
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_1_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines-II.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 2 ฝ่าตายปฏิบัติการท้านรก Behind Enemy Lines II: Axis of Evil
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_2_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines-Colombia-185x278.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 3 ถล่มยุทธการโคลอมเบีย Behind Enemy Lines III: Colombia
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_3_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Seal-Team-Eight-Behind-Enemy-Lines.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 4 ปฏิบัติการหน่วยซีลยึดนรก Seal Team Eight: Behind Enemy Lines
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/11062018092842-Hitman-Agent-47-2015-ฮิทแมน-สายลับ-47.jpg",HITMAN AGENT 47 (2015) ฮิทแมน สายลับ 47 [master]
+http://107.150.51.251/disk3/Hitman%20Agent%2047%20%282015%29%20%20%2047%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/04062018121231-District-B13-คู่ขบถ-คนอันตราย-1.jpg",DISTRICT B13 คู่ขบถ คนอันตราย 1
+http://107.150.51.251/disk3/District%20B13%20%20%201%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/06062018152210-Big-Game-2014-บิ๊กเกม-เกมล่าประธานาธิบดี.jpg",BIG GAME (2014) บิ๊กเกม เกมล่าประธานาธิบดี [master]
+http://107.150.51.251/disk3/Big%20Game%20%282014%29%20%20%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/06062018152053-Chinese-Zodiac-วิ่งปล้นฟัด.jpeg",CHINESE ZODIAC วิ่งปล้นฟัด [master]
+http://107.150.51.251/disk3/Chinese%20Zodiac%20%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/30112017091110-MV5BMjM0MjY4MTk5NV5BMl5BanBnXkFtZTgwNDE2NTQyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg",American Assassin (2017) อหังการ์ ทีมฆ่า [master]
+http://107.150.51.251/disk2/AmericanAssassin.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/27112017030127-Frozen (2010).jpg",Frozen นรกแขวนฟ้า[master]
+http://107.150.51.251/disk2/Frozen.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/28062018032951-Act-of-Valor-2012-หน่วยพิฆาตระห่ำกู้โลก.jpg",ACT OF VALOR (2012) หน่วยพิฆาตระห่ำกู้โลก [master]
+http://107.150.51.251/disk3/Act%20of%20Valor%20%282012%29%20%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/16062017153140-t1.jpg",Thi-Baan The Series ไทบ้าน เดอะซีรีส์ 2017 [master]
+http://107.150.51.251/disk2/ThiBaanTheSeries2017.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/27062016123742-Alien-Outpost-37-2014-สงครามมฤตยูต่างโลก (1).jpg",ALIEN OUTPOST (2014) 37 สงครามมฤตยูต่างโลก
+http://107.150.51.251/disk2/ALIENOUTPOST2014.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/30072016070117-1-40.jpg",Sniper : Ghost Shooter สไนเปอร์: เพชฌฆาตไร้เงา 2016  [master]
+http://107.150.51.251/disk2/GhostShooter2016.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/23102016132408-NoGoodDeed1.jpg",No Good Deed หักเหลี่ยมโฉด 2014 [master]
+http://107.150.51.251/disk3/NoGoodDeed2014.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/19102016134315-Persecuted.jpg",Persecuted ล่านรกบาปนักบุญ 2014 [master]
+http://107.150.51.251/disk2/Persecuted2014.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/24102016134810-Cellular-2004-สัญญาณเป็น-สัญญาณตาย.jpg",CELLULAR (2004) สัญญาณเป็น สัญญาณตาย [master]
+http://107.150.51.251/disk3/CELLULAR20041.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/29112016123742-Ben-Hur-2016-เบน-เฮอร์.jpg",BEN-HUR (2016) เบน-เฮอร์ [master]
+http://107.150.51.251/disk3/BEN-HUR2016.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/16112016143411-Act-of-Valor-หน่วยพิฆาตระห่ำกู้โลก-2012.jpg",ACT OF VALOR หน่วยพิฆาตระห่ำกู้โลก 2012 [master]
+http://107.150.51.251/disk2/ACTOFVALOR2012.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/07072018053253-The-33-2015-ใต้นรก-200-ชั้น.jpg:,THE 33 ใต้นรก 200 ชั้น [master]
+http://107.150.51.251/disk3/The%2033%20%20200%20%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://gclubmovie.com/wp-content/uploads/2018/06/deepwater-horizon-ฝ่าวิบัติเพลิงนรก-19284-poster.jpg",deepwater-horizon-ฝ่าวิบัติเพลิงนรก
+http://178.128.80.12/videos/f8ch4wi99fn5jcgh5acnugdxkc.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://2.bp.blogspot.com/-4haBMe9pFkk/Vd699rWweyI/AAAAAAAAUSU/1ddza_fqqi0/s320/fu02.jpg",ฟูลลี่ วันปฐพีเดือด
+http://178.128.23.92/videos/4f6k7mnht3gajrz5x41warom3h.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/28062018032404-Rampage-2018-เเรมเพจ-ใหญ่ชนยักษ์.jpg",RAMPAGE (2018) เเรมเพจ ใหญ่ชนยักษ์ [master]
+http://107.150.51.251/disk3/Rampage%20%282018%29%20%20%20-%20%20%20%20HD%20%20%20.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://image.tmdb.org/t/p/w300/zVycDWiWcv6KgTqSELIU4XkhqBp.jpg",ส่ม ภัค เสี่ยน E-San Love Story (2017)
+https://www2445.playercdn.net/185/0/CYm0hyZ27YmQaui9cvCb_A/1533074248/180302/504FOYOIFRFJ9QDVMI4XW.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.nungnew-hd.com/wp-content/uploads/2018/01/Geostorm-2017.jpg",Geostorm (2017) จีโอสตอร์ม เมฆาถล่มโลก
+https://www2433.playercdn.net/185/1/yf2v2rmtMqqKAFd3OIAk7A/1533074405/180302/739FOYYATVWJTDEMFRSIN.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.nungnew-hd.com/wp-content/uploads/2018/04/C-_yZgbXgAAHm3g.jpg",The Wall (2017) สมรภูมิกำแพงนรก
+http://178.128.23.92/videos/3erwrbn9m7bybxh598rswhsqir.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://www.nung2hd.com/wp-content/uploads/2018/02/Black-Panther-2018.jpg',Black Panther (2018) แบล็ค แพนเธอร์
+http://178.128.80.12/videos/zhoamrkp9fyabgxr3mmasq35go.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++",เร็ว..แรงทะลุนรก 8 The Fate of the Furious
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Fast8_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++",มิชชั่น อิมพอสซิเบิ้ล ภาค 4 ปฏิบัติการไร้เงา Mission: Impossible – Ghost Protocol
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Mission_Impossible_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++",มิชชั่น อิมพอสซิเบิ้ล ภาค 5 ปฏิบัติการรัฐอำพราง Mission: Impossible – Rogue Nation
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Mission_Impossible_5_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++",บุกอาณาจักรโลก 10,000 ปี 10,000 BC
+https://cdn-vod.livestream-cdn.com/hls/content/nss1/vod/TH_0011138_720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/21062017193954-t1.jpg",Transformers 1 ทรานฟอร์เมอร์ ภาค 1 2007 [master]
+http://107.150.51.251/disk2/Transformers%2012007.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://i0.wp.com/movie-gg.com/wp-content/uploads/2018/01/Transformers2.jpg?resize=217%2C295&ssl=1",Transformers 2 Revenge of The Fallen ทรานฟอร์เมอร์ส มหาสงครามล้างแค้น
+https://www3670.playercdn.net/187/0/FD1CYzkTD1C6Gy0sI1riVg/1533072395/180313/668FPBL61YKD2B7DTVPVL.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/21062017200945-t3.jpg",Transformers 3 ทรานฟอร์เมอร์ ภาค 3 2011 [master]
+http://107.150.51.251/disk2/Transformers%2032011.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://onlinemini-hd.com/wp-content/uploads/2015/08/Transformers-4-202x289.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="http://www.club-172hd.com/post-img/27062017011736-t1.jpg",Transformers The Last Knight ทรานส์ฟอร์เมอร์ส 5 อัศวินรุ่นสุดท้าย 2017 [zoom]
+http://107.150.51.251/disk2/TransformersTheLastKnight2017.MP4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://i0.wp.com/movie-gg.com/wp-content/uploads/2018/06/Escape-Plan-2-Hades-แหกคุกมหาประลัย-2.jpg?resize=402%2C603&ssl=1",แหกคุกมหาประลัย 2 ซูม
+https://www1231.playercdn.net/187/0/SNyPYz-JRTYrbma9H7A-lw/1533073537/180624/370hgWKSQ4X6AEW.mp4
+ 
+#EXTINF:-1 group-title="++เบิ่งหนังกันเด้อสู++"tvg-logo="https://i2.wp.com/movie-gg.com/wp-content/uploads/2018/06/Battle-Drone-สงครามหุ่นรบพิฆาต.jpg?resize=402%2C603&ssl=1",Battle Drone สงครามหุ่นรบพิฆาต
+https://www1164.playercdn.net/187/0/9maV_YAJ5Nx5lIR05S9phA/1533073936/180624/CrIXjdTAjBSNyF3.mp4
+
+**************************************************************************************************************************
+**************************************************************************************************************************
+**************************************************************************************************************************
+
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1524224285.jpg", พี่ปู พงษ์สิทธิ์ คำภีร์ คอนเสิร์ต 30 ปี คำภีร์ แกเพื่อนฉัน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_30y%20Kampee.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/6044.jpg",คอนเสิร์ต พงษ์สิทธิ์ คำภีร์ ใจบงการ 2016 
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Kham.Pi.Live.Ko.Chai.Man.Bongkan.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg",คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg", คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5293.jpg",Da Endorphine Magic Of The Night Concert
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Da.Endorphine.Magic.Of.The.Night.2012.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert.Rtsm.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert.Rtsm.D2.mp4/index.m3u8 
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2609.jpg",คอนเสิร์ต เสก โลโซ เพื่อเพื่อน
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_LOSO.For.Friend.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/642.jpg",ช็อต ชาร์จ ช็อค ร็อก คอนเสิร์ต
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Short_Charge_Shock_Rock_Legend.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2260.jpg",คอนเสิร์ต : Silly Fools FatLive V3
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Silly.Fools.Fatlive.V.3.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339742.jpg", Concert LinkinPark Rock In Rio Usa
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Linkin.Park.Rock.In.Rio.Usa.2015.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/6188.jpg", คอนเสิร์ต อัสนี วสันต์ 30 ปี สวัสดี ครับ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Atsani-Wasan.30.Year.Sawatdi.Khrap.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3678.jpg",บิ๊กแอสคอนเสิร์ต...เปิดพรหมลิขิต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Bigass.Concert.2007.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/374.jpg",คอนเสิร์ต บรรลุนิติภาวะ ๒๑ ปี ป้าง นครินทร์ กิ่งศักดิ์
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Pang.21Y.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D2
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/15786.jpg",คอนเสิร์ต 10 ปี แบล็คเฮด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_10th.black.head.concert.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc1.mp4/index.m3u8 
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494332074.jpg",จ๊ะ คันหู อัลบั้ม หนูเอาอยู่
+http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520767065.jpg",รหัสกระสุนเจาะกะโหลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_13-thirteen-2010-4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15207668891.jpg",คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506872.jpg",แบทเทิลชิป ยุทธการเรือรบพิฆาตเอเลี่ยน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Battleship%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506991.jpg",อาชญากลปล้นโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Now%20You%20See%20Me%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",จอมเวทย์มหากาฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154779.jpg",ทีมเงาอัจฉริยะ
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hidden%20Figures.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 เร็วแรงทะลุนรก 1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg", 2 fast 2 furious เร็ว คูณ 2 ดับเบิ้ล แรง ท้า นรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",เร็ว..แรงทะลุนรก 8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924128.jpg",ทรานส์ฟอร์มเมอร์ส1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.1.2007.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924530.jpg",ทรานส์ฟอร์มเมอร์ส 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.revenge.of.the.fallen.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927191.jpg",ทรานส์ฟอร์มเมอร์ส 3
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.dark.of.the.moon.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927384.jpg",ทรานส์ฟอร์มเมอร์ส4
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.age.of.Extinction.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507557503.jpg",ทรานส์ฟอร์มเมอร์ส 5
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.The.Last.Knight.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866593.jpg",วอร์คราฟต์: กำเนิดศึกสองพิภพ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866612.jpg",X-Men: Apocalypse
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875036.jpg", จี ไอ โจ ภาค 2 สงคราม ระห่ำ แค้น ค อบ ร้า ทมิฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_4K_G.I.Joe.2.Retaliation.Extended.Cut.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866800.jpg",สงครามเทวดา
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866979.jpg",ฮิทแมน: สายลับ 47
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hitman.agent.47.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866525.jpg",สงครามใหม่วันบดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Independence.Day.Resurgence.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866489.jpg",เจสัน บอร์น ยอดจารชนคนอันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jason.bourne.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875321.jpg",จอห์นวิค แรงกว่านรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_John.wick.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875470.jpg",จูราสสิค เวิลด์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jurassic.World.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875817.jpg",ทะลุเวลา อึดล่าอึด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Looper.2012.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",แมด แม็กซ์: ถนนโลกันตร์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866938.jpg",เมซ รันเนอร์ สมรภูมิมอดไหม้
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Maze.Runner.The.Scorch.Trials.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494881925.jpg",oblivion อุบัติ การณ์ โลก ลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867013.jpg",คู่โดยสารพันล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Passengers.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917010.jpg",San Andreas มหาวินาศแผ่นดินแยก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_San.Andreas.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866550.jpg",เต่านินจา 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Teenage.mutant.ninja.turtles.out.of.the.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866659.jpg",5th wave อุบัติ การณ์ ล้างโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.5.th.Wave.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917307.jpg",ดิ อะเมซิ่ง สไปเดอร์แมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Man.2012.4k.2500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866851.jpg",ตำนานแห่งทาร์ซาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.legend.of.tarzan.2016.2160p.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917734.jpg",เดอะ แมน ฟรอม อั.ง.เ.คิ.ล. คู่ดุไร้ปรานี
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.Man.From.U.N.C.L.E.2015.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917863.jpg",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Martian.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494918176.jpg",The Nice Guys กายส์...นายแสบมาก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.nice.guys.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917501.jpg",ดิ อะเมซิ่ง สไปเดอร์-แมน: ผงาดอสูรกายสายฟ้า
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501578936.jpg",Arrival ผู้มาเยือน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Arrival.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501405187.jpg",สวยสังหาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Salt.2010.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501318248.jpg", bad boy คู่หู ขวาง นรก 2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Bad.boys.ii.2003.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497095846.jpg",โลแกน เดอะ วูล์ฟเวอรีน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Logan.2017.4K.TH.1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496046938.jpg",ใหญ่・ปล้น・ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Railroad.Tigers.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496214903.jpg",xXx ทลายแผนยึดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Xxx.Return.Of.Xander.Cage.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866171.jpg",อัสแซสซินส์ครีด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Assassins.Creed.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867197.jpg",avatar อวตาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Avatar.Extended.Edition.2009.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866641.jpg",แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Batman.V.Superman.Dawn.Of.Justice.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867414.jpg",วันยึดโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Battle.Los.Angeles.2011.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867575.jpg",captain america civil war 
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866460.jpg",ฝ่าวิบัติเพลิงนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Deepwater.horizon.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869467.jpg",สงครามพลิกจักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866350.jpg",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1530273446.jpg",Pacific Rim:Uprising 2018:แปซิฟิค ริม ปฏิวัติพลิกโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1529928480.jpg",ยุทธภูมิทะเลแดง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Operation%20Red%20Sea%202018.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1529909800_battle-drone_cover.jpg",สงครามหุ่นรบพิฆาต
+http://cdn-movie1.movieclub.tv:8000/hls/content/nas03/mvc/m/inter/Battle-Drone/Battle-Drone_Z.mp4/index.m3u8?st=jXMtE_WtUHILofoyRXP_yg&username=177217&password=mmmm6ba01ec7e7cbb78cc23b&e=1529954650
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/Rush-อัดเต็มสปีด-(2013)_cover.jpg",อัดเต็มสปีด
+http://cdn-movie4.movieclub.tv:8000/hls/content/nas03/mvc/m/inter/Rush/Rush_T.mp4/index.m3u8?st=gz4oTc9iQNXeipREBr63dA&username=177217&password=mmmm0a725a6ff6ec73821bbd&e=1529851968
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520498958.jpg",Only the Brave คนกล้าไฟนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Only.the.brave.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15142861981.jpg",baywatch ไลฟ์การ์ดฮอตพิทักษ์หาด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Baywatch.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security 2017 โคตร ยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519901795.jpg",Justice League จัสติซ ลีก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Justice.League.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",ธอร์: ศึกอวสานเทพเจ้า
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518777044.jpg",PROFESSOR MARSTON AND THE WONDER WOMEN (2017) กำเนิดวันเดอร์วูแมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Professor.Marston.and.the.Wonder.Women.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",เกมดูดโลก บุกป่ามหัศจรรย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Jumanji.Welcome.to.the.Jungle.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2018/05/32202775_1820584951332242_1025779619262889984_n.png",Death-Wish2018 นักฆ่าโคตรอึด
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd013-Death-Wish2018_thd.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2018/06/Ready-Player-One-poster-600x890-22.jpg",Ocean's 8 โอเชียน 8 (2018)
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evb/sb080-Beyond-the-Edge-2018-zth.mp4/index.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/201806240823501487153053.jpg",Escape Plan 2 Hades แหกคุกมหาประลัย 2
+http://cdnstream1.podzone.net:443/movie/2018/Escape.Plan.2.2018.1080p.TH.zoom2.mp4/index.m3u8?u=h27892&st=sbdekPc2hjdezmwsuE8K2g&e=1529942522&ip=171.96.218.150
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1526551796_trtrt_cover.jpg",สาวน้อย ผู้ล้มยักษ์
+http://cdn-movie4.movieclub.tv:8000/hls/content/nas03/mvc/m/inter/I-Kill-Giants/I-Kill-Giants_eng.mp4/index.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2018/06/32202775_1820584951332242_1025779619262889984_n.png",7 Days in Entebbe เที่ยวบินนรกเอนเทบเบ้ 
+http://cdnstream1.podzone.net:443/movie/2018/7Days.in.Entebbe.2018.720p.EN.zoom.mp4/index.m3u8?u=h27892&st=1Wd7_bKtaLSb7Osm8f2wZw&e=1530034230&ip=119.76.152.3
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4319.jpg",Knock Knock ล่อมมาเชือด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Knock.knock.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4687.jpg",Retribution พลิกเส้นตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Retribution.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1506155902.jpg",เดอะ เกรท วอลล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.2016.TH.6500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494523380.jpg",007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_James.Bond.007.Casino.Royale.2006.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",ฝ่าวิกฤติ 12 รอบระห่ำนรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494327857.jpg",  2035 ข้ามเวลากู้โลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_2035.The.Forbidden.Dimensions.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 นัด ยมบาลล้างยมบาล
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3112.jpg",Act Of Valor หน่วยพิฆาตระห่ำกู้โลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Act.Of.Valor.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3586.jpg",โคตรคนปล้นระห่ำเมือง
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_American.Heist.2014.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4332.jpg",แผนระห่ำปล้นทะลุเกราะ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Armored.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3201.jpg",ภารกิจดุ กุมชะตาโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Babylon.a.d.2008.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5428.jpg",คู่เดือด...แสบเกินพิกัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Company.2002.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5204.jpg",เกียรติยศคนโฉดถล่มเมืองโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Lieutenant.Port.of.Call.New.Orleans.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2064.jpg",ยุทธการฝ่ารหัสทมิฬ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_Black.Hawk.Down.2001.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4399.jpg",เหาะทะลุฟ้า ซิ่งมหาประลัย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Black.lightning.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4378.jpg",บลิทซ์ ล่าโคตรคลั่งล้าง สน.
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Blitz.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512811671.jpg",ส่ม ภัค เสี่ยน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_SOM.PAK.SIAN.2017.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512636904.jpg",สาระแน เลิฟยูววว
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Saranair-Love%20You.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496148951.jpg",Z Storm คนคมโค่นพายุ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Z.storm.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495887600.jpg",มังกรหนุ่มผยองเดช
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Call.of.heroes.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497795640.jpg",เชือด เดือด ระอุ 2017
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Operation.mekong.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495286782.jpg",ไซอิ๋ว 2017 คนเล็กอิทธิฤทธิ์ใหญ่
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Journey.to.the.west.the.demons.strike.back.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495874155.jpg",โยคะสู้ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Kung.fu.yoga.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1493535522.jpg",วานรคู่ฟัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Monkey.Twins.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/6300.jpg",ก็อดซิลล่า: รีเซอร์เจนซ์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Shin.Godzilla.2016.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495107888.jpg", คน ล่า ฅน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_the.age.of.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1492853447.jpg", ยากูซ่า ปะทะ แวมไพร์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Yakuza.apocalypse.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4968.jpg",ฟ้าใส ใจชื่นบาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Blue.Sky.of.Love.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3299.jpg",ใหญ่พลิกแผ่นดินฟัด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Little.Big.Soldier.2010.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4157.jpg",แม่เบี้ย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Maebia.2015.Uncut.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3647.jpg",หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Rise.of.the.legend.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5225.jpg",เท่ง โหน่ง จีวรบิน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Teng.Nong.jiworn.bin.2011.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2599.jpg",โจโฉ
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.Assassins.2012.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2553.jpg",ล่าทะลุศตวรรษ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.Iceman.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1612.jpg",เจ้าพ่อเซี่ยงไฮ้คนสุดท้าย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.last.tycoon.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4801.jpg",เงือกสาว ปัง ปัง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Mermaid.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4761.jpg",ไซอิ๋ว 2 ตอน ศึกราชาวานรพิชิตมาร
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_The.monkey.2.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3388.jpg",เดชนางพญาผมขาว
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.White.Haired.Witch.Of.Lunar.Kingdom.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1797.jpg",8 ดาบทรมาน 6 ดาบสังหาร 
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_14.blades.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2627.jpg",1911 ใหญ่ผ่าใหญ่
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_1911.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4122.jpg",เชือดระอุ ทะลุองศา
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_-197C.Murder.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/251.jpg",7 เพชฌฆาต ทะเลทราย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_7.Assassins.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2956.jpg",มหาบุรุษ กู้แผ่นดิน
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Batter.Of.Wits.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1750.jpg",ผู้หญิงข้าใครอย่าแตะ 1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.1.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1526.jpg",ผู้หญิงข้าใครอย่าแตะ 2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.2.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1527.jpg",ผู้หญิงข้าใครอย่าแตะ 3
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.3.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/4727.jpg",พยัคฆ์ย่ำมังกรโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_A.War.Named.Desire.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2820.jpg",จอมโจรหัวใจไม่ลวงรัก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.World.Without.Thieves.2005.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3895.jpg",ศึกทะยานฟ้า กวดวิชาถล่มมาร
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_Arahan.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/936.jpg", สงครามธนูพิฆาต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Arrow.the.ultimate.weapon.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/20180428033114865950504.jpg",Avengers: Infinity War มหาสงครามล้างจักรวาล (2018)
+http://iptvthai4.webhop.net:443/wp/SA01/evb/sb001-Avengers-Infinity-War2018z2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/201806240821541938374956.jpg",Paul, Apostle of Christ (2018) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evb/sb063-Paul-Apostle-of-Christ2018_sth.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/201807011259221526541686.jpg",Gringo (2018):กริงโก้ซวยสลัด(HD) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd015-Gringo-2018_thd.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/201807011257111409621865.jpg",Zombiology: Enjoy Yourself Tonight:อย่าให้ผีมากัด(HD) พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evd/vd014-Zombiology_Enjoy-Yourself-Tonight2017_thd.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://iheartmovie.com/assets/20180624082517673712638.jpg",เปรมิกาป่าราบ พากย์ไทย
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evt/st004-Premika-Parab-f2017.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://3.bp.blogspot.com/-n_eVwPZoeU8/We36Gwwm16I/AAAAAAAAE6U/S701tW28r-oKoOnZD9cin9k5LVorx5aBACLcBGAs/s1600/005.jpg",Wolf Warrior วูฟวอริเออร์ ฝูงรบหมาป่า
+http://191.96.38.38/hls/content/nss1/vod/th00892-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1508141484.jpg",มหาสงครามพิภพวานร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_War.for.the.Planet.of.the.Apes.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://3.bp.blogspot.com/-hs83FY2wYeY/We10LxwXMcI/AAAAAAAAEUk/6IBzMTWB2IotMYOTZwLXNFTlXr8k2EP3ACLcBGAs/s1600/016.jpg", ตำนานสมเด็จพระนเรศวรมหาราช 1 องค์ประกันหงสา
+http://191.96.38.38/hls/content/nss1/vod/th00175-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://1.bp.blogspot.com/-Ipf6p5kHF5c/We10L3l9vRI/AAAAAAAAEUo/d-4mGfZzSQIyOEBCDbeChJMcGzym_3REgCLcBGAs/s1600/017.jpg",ตำนานสมเด็จพระนเรศวรมหาราช 2 ประกาศอิสรภาพ
+http://191.96.38.38/hls/content/nss1/vod/th00174-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://4.bp.blogspot.com/-KvDcIUIRk2Q/We10MBnQeEI/AAAAAAAAEUs/lKGt7whPG6IieSFKP7tGkRNzkCgT44QEQCLcBGAs/s1600/018.jpg",ตำนานสมเด็จพระนเรศวรมหาราช 3 ยุทธนาวี
+http://191.96.38.38/hls/content/nss1/vod/th00173-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://3.bp.blogspot.com/-VHLoIc88pvU/We10MBOGpOI/AAAAAAAAEUw/vlj9yEBdukMhh5XAAVK7uATIWxjOOuj_gCLcBGAs/s1600/019.jpg",ตำนานสมเด็จพระนเรศวรมหาราช 4 ศึกนันทบุเรง
+http://191.96.38.38/hls/content/nss1/vod/th00172-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://1.bp.blogspot.com/-gZKH_l_5RG4/We10MZN6zDI/AAAAAAAAEU0/TalOclsNKA4Hmh90oE5q_xwo1i1KPCXGwCLcBGAs/s1600/020.jpg",ตำนานสมเด็จพระนเรศวรมหาราช 5 ยุทธหัตถี
+http://191.96.38.38/hls/content/nss1/vod/th00171-720p.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/07/poster_theme-TH1-230x300.jpg",ตำนานสมเด็จพระนเรศวรมหาราช 6 อวสานหงสา
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/king_naresuan_6.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1aeUsXeUbL._RI_.jpg", Anthropoid
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Anthropoid_en.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515MSM6FQYL._SY445_.jpg", Transporter 2 ทรานสปอร์ตเตอร์ 2 ภารกิจฮึด...เฆี่ยนนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/Transporter_2_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://movie.mthai.com/app/uploads/2017/06/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-The-Foreigner-2.jpg", The Foreigner 2 โคตรพยัคฆ์ผู้ยิ่งใหญ่
+https://kh67.sai8.live/hollywood/http/disk-j/The_Foreigner_2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://variety.eduzones.com/movie/files/2011/04/Ironclad-poster.jpg", Ironclad ทัพเหล็กโค่นอำนาจ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Ironclad_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://203.144.224.125/dvdcover/Gang42/789313_f.jpg", Battle: Los Angeles วันยึดโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Battle_Los_Angeles_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://f.ptcdn.info/414/048/000/ojcd4h4vt87weG7d97T-o.jpg", Patriots Day วินาศกรรมปิดเมือง
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Patriots_Day_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://image.free.in.th/v/2013/iq/180705031749.jpg",47 ดิ่งลึกเฉียดนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/47_Meters_Down_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://f.ptcdn.info/096/051/000/opso95gb5eKHhci4pcV-o.jpg",เอเลี่ยน โคเวแนนท์
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/01/TheHobbit3-230x300.jpg", The Hobbit 3: The Battle of the Five Armies เดอะ ฮอบบิท: สงครามห้าเหล่าทัพ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/The_Hobbit_3_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2017/04/new-kong-skull-island-poster-16291-2.jpg", The Fast of the Furious 8 เร็ว..แรงทะลุนรก 8
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Fast8_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRT72LsHV2jay5G3xMjhc_xwef_J0zSjbKih1PvOvYyyytr0501", Independence Day 2: Resurgence ไอดี 4 สงครามใหม่วันบดโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Independence_Day_2_Resurgence_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/3/38/Poster1%284%29.jpg/250px-Poster1%284%29.jpg", Rambo 4 แรมโบ้ 4 นักรบพันธุ์เดือด
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/Rambo_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/02/Pearl-Harbor-2001.jpg", Pearl Harbor เพิร์ล ฮาร์เบอร์
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Pearl_Harbor_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/04/2012.jpg",2012 วันสิ้นโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/2012_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaHg8Vs7A5xzZC4FxH9fx8la0szdsM-neecg36gE86CAe0i3NOg", A Monster Calls มหัศจรรย์เรียกอสูร
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/A_Monster_calls_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.boomerangshop.com/web/files/product/201505/01163573-20150511173314-0.jpg", Blackhat ล่าข้ามโลก แฮกเกอร์มหากาฬ
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Blackhat_2015_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://vignette.wikia.nocookie.net/cinemorgue/images/6/60/Ninja-Assassin-2009.jpg/revision/latest?cb=20161012215919",Ninja_Assassin นินจา แอซแซสซิน แค้นสังหาร เทพบุตรนินจามหากาฬ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/Ninja_Assassin_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.majorcineplex.com/uploads/movie/1478/thumb_1478.jpg", Bastille Day ดับเบิ้ลระห่ำ ดับเบิ้ลระอุ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Bastille_Day_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i.ytimg.com/vi/znab23p_0ZY/movieposter.jpg", I Am Legend ข้าคือตำนานพิฆาตมหากาฬ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/I_Am_Legend_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.mangpong.co.th/ProductImage/product/020776.jpg",Shooter คนระห่ำปืนเดือด
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Shooter_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://moovie.cc/images/movies/28616/a_visszatero.jpg", The Revenant เดอะ เรเวแนนท์ ต้องรอด
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/The_Revenant_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i.ytimg.com/vi/S_boRWHrSls/maxresdefault.jpg", Hacker อัจฉริยะแฮกข้ามโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Hacker_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/06/Kill-Bill-Vol.1.jpg", Kill Bill: 1 นางฟ้าซามูไร
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Kill_Bill_1_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/0/08/%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.jpg/250px-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3.jpg", Dawn of the Planet of the Apes กำเนิดพิภพวานร
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Rise_of_the_Planet_of_the_Apes_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/thumb/Apocalypto1.jpg", Apocalypto ปิดตำนานอารยชน
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Apocalypto_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i1.wp.com/nungsub.com/wp-content/uploads/2016/05/Deadpool.jpg", Deadpool 1 เดดพูล 1
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Deadpool_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://s.isanook.com/mv/0/ui/4/20863/19360_012.jpg",The Sorcerer and the White Snake ตำนานเดชนางพญางูขาว
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/The_Sorcerer_and_the_White_Snake_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://2.bp.blogspot.com/-CDGEK96Ly6A/VOqXU97JgHI/AAAAAAAAKkI/F1h2S7zmmY8/s1600/American%2BSniper-S.jpg",American Sniper สไนเปอร์มือพระกาฬ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/American_Sniper_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.boomerangshop.com/web/files/product/201409/01076459-20140910151800-0.jpg",Jarhead 2 Field Of Fire พลระห่ำสงครามนรก 2
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Jarhead_3_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://f.ptcdn.info/148/049/000/ol3xps106lxT1kAFMHK-o.jpg",Hacksaw Ridge วีรบุรุษสมรภูมิปาฏิหาริย์
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Hacksaw_Ridge_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.ajbomb.com/wp-content/uploads/2016/09/%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81.jpg", Deepwater Horizon ฝ่าวิบัติเพลิงนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Deepwater_Horizon_th.MP4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2015/09/26.jpg",Transporter_4 คนระห่ำคว่ำนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-f/Transporter_4_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://bizweb.dktcdn.net/100/009/820/products/poster-medium-38-11ed8605-970b-4e2e-9097-8d8bc3992a1f.jpg", Warcraft วอร์คราฟต์ กำเนิดศึกสองพิภพ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Warcraft_The_Beginning_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://t0.gstatic.com/images?q=tbn:ANd9GcRxiutndBw25E_Sp4-X1lONU5Wh0i0Wilz7ckZvfaJGLiu84WU9", Mechanic 2: Resurrection โคตรเพชฌฆาต แค้นข้ามโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Mechanic_2_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.wrpawprint.com/wp-content/uploads/2016/10/deepwater_horizon_ver10.jpg",Deepwater Horizon ฝ่าวิบัติเพลิงนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Deepwater_Horizon_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://ptcdn.info/movies/2017/WA9Y4AIDIa-1483949096_m.jpg",Resident Evil The Final Chapter อวสานผีชีวะ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Resident_Evil_6_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video117/v4/4a/44/62/4a446254-fad4-9e96-b0c6-f9bf3b99ae83/source/227x227bb.jpg", Kong: Skull Island คอง มหาภัยเกาะกะโหลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Kong_Skull_Island_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://4.bp.blogspot.com/-uy_WmzQ8Zc0/WV5NDRUtOFI/AAAAAAAAAT8/Dl2_o6czmkAYEI3RBGx6FEvC4SRz1vJLQCLcBGAs/s1600/behind_enemy_lines_xlg.jpg", Seal Team Eight 4 : Behind Enemy Lines แหกมฤตยูแดนข้าศึก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/9831926/p9831926_p_v8_aa.jpg", Hammer of the Gods นักรบค้อนเทพทวงบัลลังค์
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Hammer_of_the_Gods_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.boomerangshop.com/web/files/product/201412/01121683-20141201145854-0.jpg", Clash of the Titans สงครามมหาเทพประจัญบาน
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Clash_of_the_Titans_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://203.144.224.125/dvdcover/Gang14/387915_f.jpg", The Sorcerer’s Apprentice ศึกอภินิหารพ่อมดถล่มโลก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/The_Sorcerers_Apprentice_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.bktube.net/wp-content/uploads/2015/05/13601863491.jpg", Parker ปล้นมหากาฬ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Parker_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2017/05/new-kong-skull-island-poster-16291-2-230x300.jpg",Thong Dee Fun Khao ทองดี ฟันขาว
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Thong_Dee_Fun_Khao.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/33749a20f33b0e88340b7d6b9b1b6001.jpg",Transformers 1
+https://cdn-movie4.movieclub.tv/hls/content/nas03/mvc/m/inter/Transformers-1-5/Transformers-1_T.mp4/index.m3u8?st=bePJ8rmJNycfNceeDkfvJg&username=126275&password=mmmme801916de04cc543ebbf&e=1527085166
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/Transformers-2-Revenge-Of-The-Fallen-2009_cover.jpg",Transformers 2 Revenge Of The Fallen
+https://cdn-movie1.movieclub.tv/hls/content/nas03/mvc/m/inter/Transformers-1-5/Transformers-2_T.mp4/index.m3u8?st=6AkzLGFgVD_-Lu9v61QijA&username=126275&password=mmmm0be46d06c317546a878e&e=1527085428
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/a57338f6077507841dafc69a3ecf05f6.jpg",Transformers 3 Dark of the Moon
+https://cdn-movie2.movieclub.tv/hls/content/nas03/mvc/m/inter/Transformers-1-5/Transformers-3_T.mp4/index.m3u8?st=3guw6K8spP9NH2GUE6ar7Q&username=126275&password=mmmmbf1b978f2b7524fb44d0&e=1527085830
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/788bf075e2171063d5803ddd98a39c2d.jpg",Transformers 4 Age Of Extinction
+https://cdn-movie3.movieclub.tv/hls/content/nas03/mvc/m/inter/Transformers-1-5/Transformers-4_T.mp4/index.m3u8?st=HLyocmD16zEzvorOUpPydg&username=126275&password=mmmm0a6b4eb92df92d51b089&e=1527086027
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.sine.tv/wp-content/uploads/2017/06/Transformers-The-Last-Knight-185x278.jpg",Transformers 5 The Last Knight
+http://vod-lineballsod.ddns.net:443/movies/_definst_/mp4:http2/disk-b/Transformers_The_Last_Knight_th.mp4/chunklist_w1527230040.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1526971428_oldboy_cover.jpg",Old-Boy
+https://cdn-movie3.movieclub.tv/hls/content/nas03/mvc/m/inter/Old-Boy/Old-Boy_T.mp4/index.m3u8?st=hNdKtJp8dtMNs5o5GaWR9g&username=126275&password=mmmm04ee252f3ee2440c3893&e=1527078711
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/69b13beee4fdd2b9372aeb4f5b043f65.jpg",John-wick 1
+https://cdn-movie4.movieclub.tv/hls/content/nas03/mvc/m/inter/John-wick1-2/John-wick_T.mp4/index.m3u8?st=ihV7hkGnG-Q9vioO1oVCTg&username=126275&password=mmmm5018185431a8d9c7024e&e=1527081260
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/e3e4af91d627d9931c1fa1b5991ebddc.jpg",John-wick 2
+https://cdn-movie4.movieclub.tv/hls/content/nas03/mvc/m/inter/John-wick1-2/John-wick-2_T.mp4/index.m3u8?st=is_ScPW4JJsFfgY6VKG1Hw&username=126275&password=mmmm980b852d7d6f658abb7a&e=1527081559
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/Star-Trek-(2009)_cover.jpg",Star-Trek-1
+https://cdn-movie1.movieclub.tv/hls/content/nas03/mvc/m/inter/Star-Trek-1-3/Star-Trek-1_T.mp4/index.m3u8?st=mmrWcnr6MWBSp5wyYQdb4w&username=126275&password=mmmm4a4c8cc1786e0ed06c00&e=1527082210
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/Star-Trek-Into-Darkness-(2013)_cover.jpg",Star-Trek-Into-Darkness-2
+https://cdn-movie4.movieclub.tv/hls/content/nas03/mvc/m/inter/Star-Trek-1-3/Star-Trek-Into-Darkness_T.mp4/index.m3u8?st=nie1_myRS515gMnzyLUt9g&username=126275&password=mmmm210ae3d4b07faad9089a&e=1527082507
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/3837f46a50d302091d2f84b92689c328.jpg",Star-trek-beyond-3
+https://cdn-movie1.movieclub.tv/hls/content/nas03/mvc/m/inter/Star-Trek-1-3/Star-trek-beyond-3_T.mp4/index.m3u8?st=MPRLzBIyjfxcvYwmrNJSeg&username=126275&password=mmmm8c85ee337a4f0e71c0c1&e=1527084824
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/a5df6064e44822ee7b86b10d31b09ff0.jpg",The Mummy 2017
+https://cdn-movie3.movieclub.tv/hls/content/nas03/mvc/m/inter/The-mummy/The-mummy_T.mp4/index.m3u8?st=dGhlaCxycp6UXg5uMqX6LQ&username=126275&password=mmmm4ed56fb50754e9c13164&e=1527086636
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/5e87f17b9a06029fdbc41f712c8ea44f.jpg",Iron Man 1
+https://cdn-movie3.movieclub.tv/hls/content/nas03/movie33/inter/iron-man-1-3/iron-man-1_T.mp4/index.m3u8?st=ppggZdU92jQMHgRqaYwjFQ&username=126275&password=mmmm615f8c563e08f1677e2e&e=1527086921
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/bc06497d0221de1904af1b80d8ce0646.jpg",Iron Man 2
+https://cdn-movie4.movieclub.tv/hls/content/nas03/movie33/inter/iron-man-1-3/iron-man-2_T.mp4/index.m3u8?st=LYGpqfe2QV8PxTd4wG4IuA&username=126275&password=mmmm7a738d660b293a63bc65&e=1527087127
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/d6db74e2d9ca55fa7d49402c4885696b.jpg",Iron Man 3
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/iron-man-1-3/iron-man-3_T.mp4/index.m3u8?st=_fLIrujSCxv5icuBGB4xIg&username=126275&password=mmmmd40f32e4a2d571870c63&e=1527087243
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/3243bfcdf937c247a4ffe8713ce7c383.jpg",Thor 1 2011
+https://cdn-movie4.movieclub.tv/hls/content/nas03/movie33/inter/Thor-1-2/Thor-1_T.mp4/index.m3u8?st=nSLpiQkwDVli_HhF_ybg0A&username=126275&password=mmmma8450a36a1095fb16c9f&e=1527087357
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/d25b57c6f7f89263433a5ac27a025ce9.jpg",Thor 2 The Dark World
+https://cdn-movie1.movieclub.tv/hls/content/nas03/movie33/inter/Thor-1-2/Thor-2_T.mp4/index.m3u8?st=AhUzQje-B8AMbfgZsY--8g&username=126275&password=mmmm53b25158b94110cf5307&e=1527087464
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/f2b725831aa36ee563e533ca76a88388.jpg",Paradox 2017
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Paradox/Paradox_T.mp4/index.m3u8?st=GgPZPHAQe_pM5WDV3zT3NA&username=126275&password=mmmm57e2a4e2456a11c55f5d&e=1527087572
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1db1361bf4dee365a93210a6c4d74276.jpg",12 Strong
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/12-Strong/12-strong_T-1.mp4/index.m3u8?st=LnZTYfgA82rLPwBzSpNwgQ&username=126275&password=mmmm96fd9b0594dbf4b0f93c&e=1527087715
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/Olympus-Has-Fallen-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-2013_cover.jpg",Olympus Has Fallen2013
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Olympus-Has-Fallen/Olympus-Has-Fallen_T.mp4/index.m3u8?st=9cxKS5TxTSmxLdf7VIrJ1w&username=126275&password=mmmmca220fa8c4e708352621&e=1527087881
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/White-House-Down-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2013_cover.jpg",White House Down
+https://cdn-movie4.movieclub.tv/hls/content/nas03/movie33/inter/white-house-down/white-house-down_T.mp4/index.m3u8?st=iuHWTZvaVHxTRy6zNYj1xg&username=126275&password=mmmmc9e43ecb4c03b5a862af&e=1527088003
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/7330595d7e8067bef3049c0e44ff7bb1.jpg",Doctor Strange (2016)
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Doctor-strange/Doctor-strange_T.mp4/index.m3u8?st=YtZDN3SXfw7XycCJcHjvnA&username=126275&password=mmmmc8d1216d1af0b5470c57&e=1527088218
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/a848067fe3ea2548fb9b7e104cb8b2d6.jpg",The Commuter
+https://cdn-movie3.movieclub.tv/hls/content/nas03/movie33/inter/The-Commuter/The-commuter_T.mp4/index.m3u8?st=usm3BA4i--9ms7P8Ot9fMg&username=126275&password=mmmmcc763601ae5618876adb&e=1527088340
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://art-s.nflximg.net/8bdcc/c67297dc8a358b22168116ae7191a4692218bdcc.jpg",Mission Impossible 1 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Mission_Impossible_1_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://is4.mzstatic.com/image/thumb/Video1/v4/a5/67/4b/a5674b0b-7e91-04ae-3720-6400638cd42b/source/1200x630bb.jpg",Mission Impossible 2 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Mission_Impossible_2_th.MP4/playlist.m3u8?
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.jackasscritics.com/images/movies/mission_impossible_3_01.jpg",Mission Impossible 3 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Mission_Impossible_3_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://is4.mzstatic.com/image/thumb/Video5/v4/7b/b8/7f/7bb87f90-50d1-1ff5-053f-bd92bde70183/source/1200x630bb.jpg",Mission Impossible 4 (thai)
+ 
+http://191.96.38.38:443/hls/content/nss1/vod/TH_0010127_720p.mp4/index.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://s2.thcdn.com/productimg/600/600/11154179-8694502692383141.jpg",Mission Impossible 5 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Mission_Impossible_5_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/db/2c/f7/db2cf70afe282d6fa0569dc1c84ecc5f--hitman-agent--august-.jpg",Hitman Agent 47 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Hitman_Agent_47_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.bringthenoiseuk.com/wordpress/wp-content/uploads/Interview-With-a-Hitman.jpg",Hitman 1 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Hitman_1_th.MP4/playlist.m3u8?  
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.thewildbore.com/wp-content/uploads/2014/08/NeedForSpeed.jpg",Need for speed (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Need_For_Speed_th.MP4/playlist.m3u8?  
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://is1.mzstatic.com/image/thumb/Video122/v4/66/27/d7/6627d799-46d5-c29e-e17f-7848bd3d635e/source/1200x630bb.jpg",Passengers (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Passengers_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://images2.fanpop.com/image/photos/10300000/Keanu-Reeves-as-Klaatu-2008-the-day-the-earth-stood-still-10318816-244-348.jpg",The day the earth stood still (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Day_The_Earth_Stood_Still_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Live-Free-or-Die-Hard.jpg",ดายฮาร์ด ภาค 4 ปลุกอึด ตายยาก Live Free or Die Hard
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Die_Hard_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/Clash-of-the-Titans.jpg",สงครามมหาเทพประจัญบาน Clash of the Titans
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Clash_of_the_Titans_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/cWkZQqS2IxMcvH7UZSHFR8YYRfk-185x278.jpg",ต้องฆ่าให้หมด!! Kill ’em All
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Kill_em_All_en.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/The-Hunters-Prayer.jpg",ล่าคนระอุ The Hunter’s Prayer
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Hunters_Prayer_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Fist-Fight-1-185x278.jpg",ครูดุดวลเดือด Fist Fight
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Fist_Fight_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/04/Code-of-Honor.jpg",ล่าแค้นระเบิดเมือง Code of Honor
+http://191.96.38.39:443/movies/_definst_/mp4:http2/disk-b/Code_of_Honor_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Bastille-Day.jpg",ดับเบิ้ลระห่ำ ปารีสระอุ Bastille Day
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Bastille_Day_th.mp4/playlist.m3u8 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/the_maze_runner_2sht_campb_11_sept_new_0.jpg",The Maze Runner 1 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Maze_Runner_1_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i.ytimg.com/vi/m0ppeYBqdGo/movieposter.jpg",The Maze Runner 2 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Maze_Runner_2_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://4.bp.blogspot.com/-4RxFcAAcHns/V8Oo8_4AyZI/AAAAAAAAo28/6kIMpKvBR_M2D4Sj89LvY5dbHkmbLRXjACLcB/s320/The%2BMechanic%2B%25282011%2529.jpg",The Mechanic 1 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Mechanic_1_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.cinema.com.my/images/movies/2016/7mechanic201600_450.jpg",The Mechanic 2 (thai)
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/The_Mechanic_2_th.MP4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/A-Good-Day-to-Die-Hard.jpg",ดายฮาร์ด ภาค 5 วันดีมหาวินาศ คนอึดตายยาก A Good Day to Die Hard
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Die_Hard_5_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Shooter.jpg",คนระห่ำปืนเดือด Shooter
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Shooter_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Saving-Private-Ryan.jpg",เซฟวิ่ง ไพรเวท ไรอัน ฝ่าสมรภูมินรก Saving Private Ryan
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Saving_Private_Ryan_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Inside-Man.jpg",ล้วงแผนปล้น คนในปริศนา Inside Man
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-e/Inside_Man_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 1 แหกมฤตยูแดนข้าศึก Behind Enemy Lines
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_1_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines-II.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 2 ฝ่าตายปฏิบัติการท้านรก Behind Enemy Lines II: Axis of Evil
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_2_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Behind-Enemy-Lines-Colombia-185x278.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 3 ถล่มยุทธการโคลอมเบีย Behind Enemy Lines III: Colombia
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_3_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.doo2free.com/wp-content/uploads/2018/03/Seal-Team-Eight-Behind-Enemy-Lines.jpg",บีไฮด์ เอนิมี ไลน์ ภาค 4 ปฏิบัติการหน่วยซีลยึดนรก Seal Team Eight: Behind Enemy Lines
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-c/Behind_Enemy_Lines_4_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://f.ptcdn.info/569/048/000/ojpxwhk9n5DoflDPTBU-o.jpg",ผู้มาเยือน Arrival
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Arrival_th.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i2.wp.com/postto.me/iq/nayteeree.png",อวตาร
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Avatar_th.MP4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.boomerangshop.com/web/files/product/201503/01104278-20150313172441-0.jpg",จอมใจบัลลังก์เลือด
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/An_Empress_and_the_Warriors.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/ceb0d597caabcf9a0eada5e4589fb705.jpg",Star Wars Episode Viii
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Star-Wars-Episode-VIII-The-Last-Jedi/Star-wars-episode-viii-the-last-jedi_T.mp4/index.m3u8?st=xQDZD8tLGDNjhl_AHlkyAw&username=126275&password=mmmmd55da3e49298abf21575&e=1527175220
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1526372536_the-teacher-s-diary_cover.jpg",คิดถึงวิทยา
+https://cdn-movie1.movieclub.tv/hls/content/nas03/mvc/m/thai/The-Teacher-s-Diary/The-Teacher-s-Diary_T.mp4/index.m3u8?st=X1Z1YMwvP7ry3uFH2wBE0A&username=126275&password=mmmmdf099a93904a116c9e42&e=1527174283
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/3e61e82112a10311b055d7dde51a494d.jpg",เน็ต ไอ ดาย #สวยตายล่ะมึง!
+https://cdn-movie3.movieclub.tv/hls/content/nas03/mvc/m/thai/Net-i-die/Net-i-die_THD.mp4/index.m3u8?st=1KMt7NIm6GO3BhgTchQwIg&username=126275&password=mmmm2e01a89b01b50850f974&e=1527088668
+ 
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1526370228_samui.song_cover.jpg",ไม่มีสมุยสำหรับเธอ  
+https://cdn-movie4.movieclub.tv/hls/content/nas03/mvc/m/thai/Samui-Song/Samui-Song_T.mp4/index.m3u8?st=NkJSIGsiqhmRPg3pnaF9FA&username=126275&password=mmmm113a7cc986d3a725535c&e=1527088747
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1525316246_sss_cover.jpg",ขรัวโต อมตะเถระกรุงรัตนโกสินทร์ สิ้นชีพิตักษัย
+https://cdn-movie1.movieclub.tv/hls/content/nas03/movie33/thai/Krua-Toe_The_Immortal_Monk_of_Rattanakosin/Krua-Toe_The_Immortal_Monk_of_Rattanakosin.mp4/index.m3u8?st=ru8_F13csBtZs_y1GuU_pQ&username=126275&password=mmmm6e92db21dfe3fda444e2&e=1527088970
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/07cc21b5138d9897d7439fafdd838595.jpg",1174 ห้องผีจองเวร
+https://cdn-movie3.movieclub.tv/hls/content/nas03/mvc/m/asia/Haunted-hotel/Haunted-hotel_T.mp4/index.m3u8?st=RLl6WhtLHwUb4S6nNE6wTQ&username=126275&password=mmmm0c657a675b5b345f0503&e=1527089078
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/1525316916_embracing-khemarat_cover.jpg",อ้อมกอดเขมราฐ
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/thai/Embracing_Khemarat/Embracing_Khemarat.mp4/index.m3u8?st=rsmjVy74IqXclnoItIC5dQ&username=126275&password=mmmmd1dfe81b445868842bed&e=1527089235
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/33ee20cb3a8839d127e0e1c5b4dedf93.jpg",ผีห่าอโยธยา
+https://cdn-movie1.movieclub.tv/hls/content/nas03/movie33/inter/The-Black-Death/The-Black-Death_T.mp4/index.m3u8?st=gcGMScSqm-GyT18RiIfRow&username=126275&password=mmmm134517fd7f7d630efa6b&e=1527089419
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/51931803d5fb9e52ad36d08d54902106.jpg",พี่มากพระโขนง
+https://cdn-movie1.movieclub.tv/hls/content/nas03/movie33/inter/Pee-Mak/Pee-Mak_T.mp4/index.m3u8?st=XAGaGUqIfx_-DIiTQUFj1Q&username=126275&password=mmmm43e51c8937f95db5e51c&e=1527089510
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/8b6b82c20f25e4108cc5b656d4ba933a.jpg",องค์บาก 1
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Ong-Bak-1/Ong-Bak_T.mp4/index.m3u8?st=NXewJcFs7ZM2eoqD678f9g&username=126275&password=mmmmcc373442e44a2dfd1c33&e=1527089820
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movieclub.tv/img_movies_vertical/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%B2%E0%B8%A5-2012_cover.jpg",2499 อันตพลานครองเมือง
+https://cdn-movie2.movieclub.tv/hls/content/nas03/movie33/inter/Gangster/Gangster_T.mp4/index.m3u8?st=T8GxKCEZQ6FXlY9jlcse7A&username=126275&password=mmmm513eb3b4994e81c24e83&e=1527090205
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://www.movie2free.com/wp-content/uploads/2016/10/1-25.jpg", ป๊าด 888 แรงทะลุนรก
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Pard888.mp4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="http://www.majorcineplex.com/uploads/movie/1876/thumb_1876.jpg",ไทยแลนด์โอนลี่ #เมืองไทยอะไรก็ได้
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/THAILAND_ONLY.mp4/playlist.m3u8?
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/0/03/%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD.jpg/250px-%E0%B8%A3%E0%B8%96%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%98%E0%B8%AD.jpg",รถไฟฟ้า มาหานะเธอ
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/BangkokTrafficLoveStory.mp4/playlist.m3u8
+ 
+#EXTINF:-1 group-title="หนัง "tvg-logo="https://i.pinimg.com/originals/e9/8d/a7/e98da79ad28d5da60a50a644dd2a18a0.jpg",อวสานโลกสวย
+http://191.96.38.39:443/movies/_definst_/mp4:http/disk-b/Awasarn-Lok-Suey.mp4/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
