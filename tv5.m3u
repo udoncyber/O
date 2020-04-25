@@ -1,0 +1,379 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3 HD
+http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/ch5hd.jpg",CH5 HD
+http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7 HD
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/ch7hd.jpg",CH7 HD
+http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv30_mcothd/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv02_nbthd/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/thairath.png",Thairath TV
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV
+http://103.120.113.90:1935/psilive1a/Nation.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv25_gmmchannel/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",GMM25
+http://103.120.113.90:1935/psilive1a/GMM25.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/hd-amarin.jpg",Amarin TV
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv31_onehd/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/hd-gmmone.jpg",ONE
+http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/mono29.png",Mono29
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/hd-mono.jpg",Mono29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist_w1522095171.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/newtv.png",New 18
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/tnn24.png",TNN24
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv24_true4u/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/sd-24u.jpg",True4U
+http://103.120.113.90:1935/psilive1a/True4U.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
+http://103.120.113.90:1935/psilive1a/Workpoint.stream_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
+http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://images.ufoiptv.com/channels/sd-voice.jpg",Voice TV
+https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/9169UmKcn-L._AC_SL1500_.jpg",Pacific Rim(2013)
+https://4kmovie2.cloud-streaming.com/content/Pacific.Rim.2013.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wevRCZkL._AC_SL1500_.jpg",Pacific Rim Uprising(2018)
+http://191.96.77.198:8081/4kmovie/i/Pacific.Rim.Uprising.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917U-oahX-L._AC_SL1500_.jpg",Transformers 1 (2007)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Transformers.2007.4K.2160p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91w7squJjnL._AC_SL1500_.jpg",Transformers 2 Revenge Of The Fallen(2009)
+https://4kmovie2.cloud-streaming.com/content/Transformers2.2009.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hs-gVcliL._AC_SL1500_.jpg",Transformers 3 Dark Of The Moon(2011)
+https://4kmovie2.cloud-streaming.com/content/Transformers.Dark.of.the.Moon.2011.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91p46aesvML._AC_SL1500_.jpg",Transformers 4 Age Of Extinction(2014)
+https://4kmovie2.cloud-streaming.com/content/Transformers.4.2014.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DSnFSUMAL._AC_SL1500_.jpg",Transformers 5 The Last Knight(2017)
+https://4kmovie2.cloud-streaming.com/content/Transformers.The.Last.Knight.2017.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1wEaVoiR0L._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men(2000)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/X-Men-2000-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1-7lOvDXqL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men The Last Stand(2006)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/X-Men-The-Last-Stand-2006-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1PtaeEJD0L._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men Origins Wolverine(2009)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/X-Men-4-Origins-Wolverine-2009-th-en-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91IDdtEUYfL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Man First Class(2011)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/X-Men-First-Class-2011-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1EQ7gXIzjL._AC_SX354_SY510_FMwebp_QL65_.jpg",The Wolverine(2013)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Wolverine-2013-Extended-Cut-th-en-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1TBm3QfH1L._AC_SX354_SY510_FMwebp_QL65_.jpg", X-Men Day Of Future Past(2014)
+http://cdnstream1.podzone.net:443/bluray1/4k2017/X-men-Days-of-Future-Past-2014-TH-EN-2160p-4K.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91CZs9BjGeL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men Apocalypse(2016)
+https://4kmovie2.cloud-streaming.com/content/X-Men.Apocalypse.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tOpnKSupL._AC_SL1500_.jpg",X-Men Dark Phoenix(2019)
+https://4kmovie2.cloud-streaming.com/content/Dark.Phoenix.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XoqHVzG1L._AC_SL1500_.jpg",Spider Man1(2002)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2002-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zcFC%2BLjfL._AC_SL1500_.jpg",Spider Man2(2004)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2-2004-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._AC_SL1500_.jpg",Spider Man3(2007)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-3-2007-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8132WAye7mL._AC_SL1500_.jpg",The Amazing Spider-Man(2012)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Amazing-Spider-Man-2012-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81OaKpG2pYL._AC_SL1500_.jpg",Spider Man Homecoming(2017)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-Homecoming-2017-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LIALr0peL._AC_SL1500_.jpg",Spider-Man Far From Home(2019)
+https://4kmovie2.cloud-streaming.com/content/Transformers.2007.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71%2BVwyzgaaL._AC_SL1500_.jpg",Iron Man1(2008)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron-Man-2008-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Lye5wWP6L._AC_SL1500_.jpg",Iron Man2(2010)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Iron-Man-2-2010-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jCCBJAV-L._AC_SL1500_.jpg",Iron Man3(2013)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron.Man.3.2013.4K.1080p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Oe3YGQhLL._AC_SL1500_.jpg",The Avengers1(2012)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/The-Avengers-2012-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91S8HbxxbTL._SX600_.jpg",Avengers2 Age Of Ultron(2015)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Avengers-Age-of-Ultron-2015-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1aHRPvn5JL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers3 Infinity War(2018)
+https://4kmovie2.cloud-streaming.com/content/Avengers.Infinity.War.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91e9898R7QL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers4 Endgame(2019)
+http://191.96.77.198:8081/4kmovie/i/Avengers.Endgame.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91LmsuoBOIL._AC_SX354_SY510_FMwebp_QL65_.jpg", Captain America1 The First Avenger(2011)
+https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91JPOLgUj2L._SX600_.jpg", Captain America2 The Winter Soldier(2014)
+http://191.96.77.198:8081/4kmovie/h/Captain.America.The.Winter.Soldier.2014.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QeHriyBcL._SX600_.jpg",Captain America3 Civil War(2016)
+http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91AAWp-GlVL._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor1(2011)
+https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91166DmXV7L._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor2 The Dark World(2013)
+https://cdn175.cloud-streaming.com/4k/atmos/Thor.The.Dark.World.2013.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1VBHbAzoKL._SX600_.jpg",Thor3 Ragnarok(2017)
+https://4kmovie2.cloud-streaming.com/content/Thor 3 Ragnarok.2017.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DlBh6ZaWL._SX600_.jpg",Ant-Man1(2015)
+http://191.96.77.4/4kmovie/4K_holly_225_E/Ant-man.2015.4K.M.1080.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/911Gc+MRR1L._AC_SX354_SY510_FMwebp_QL65_.jpg",Ant-Man2 And The Wasp(2018)
+https://4kmovie2.cloud-streaming.com/content/Ant.Man.and.the.Wasp.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/61DECJRLJfL._AC_SX354_SY510_FMwebp_QL65_.jpg",Hulk1(2003)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Hulk-2003-Bluray-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91wFHajfFpL._AC_SX354_SY510_FMwebp_QL65_.jpg",Hulk2(2008) The Incredible 
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Incredible-Hulk-2008-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91BAMbEQHKL._AC_SX354_SY510_FMwebp_QL65_.jpg",Doctor Strange(2016)
+https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A124DSU-5HL._AC_SL1500_.jpg",Suicide Squad(2016)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Suicide.Squad.2016.4K.2160p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91331R4Xc3L._AC_SL1500_.jpg",Justice League(2017)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Justice-League-2017-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91rcZWDAVIL._AC_SL1500_.jpg",Black Panther(2018)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Black-Panther-2018-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51bF2a%2BE4LL._AC_SL1500_.jpg",Captain Marvel(2019)
+http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91l5eYrJJhL._AC_SX354_SY510_FMwebp_QL65_.jpg",Batman v Superman(2016)
+https://4kmovie2.cloud-streaming.com/content/Batman.Superman.Dawn.of.Justice.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1t7EBA+qvL._AC_SX354_SY510_FMwebp_QL65_.jpg",Aquaman(2018)
+https://4kmovie2.cloud-streaming.com/content/Aquaman.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91ZwG8Ytb3L._AC_SX354_SY510_FMwebp_QL65_.jpg",Venom(2018)
+https://cdn175.cloud-streaming.com/video/dts/4K_2018/Venom.2018.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",True Sport HD1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",True Sport HD2 
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",True Sport HD3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport4.jpg",True Sport HD4 
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier HD3
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",Fox Sports 1
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",Fox Sports 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา",SKYNET1 sport
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET2 sport
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET3 sport
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET4 sport
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET5 sport
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET6 sport
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+
+#EXTINF:-1 group-title="กีฬา",SKYNET8 sport
+http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
+
+#EXTINF:-1 group-title="กีฬา",FOX-SPORT SD
+http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา",FOX-SPORT2 SD
+http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา",FOX-SPORT3 SD
+http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://static.iptv-epg.com/nz/ESPN2.nz.png",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="",Fox Sports News Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://bit.ly/2nEH3Z5",Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.realmadrid.com/img/horizontal_940px/logotipo_rmtv_940x400thumb_h_20200128014053.jpg",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://teevee-hd.com/img/tennis.png",Tennis
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.doohdbox.com/assets/20190826162959832889144.jpg",Tennis TV
+http://203.154.243.31:8081/live/tennis/index.m3u8
+#EXTINF:-1 group-title="วาไรตี้" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="วาไรตี้"tvg-logo="https://teevee-hd.com/img/fantv.png",Fan TV
+http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="วาไรตี้"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvchina.png",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="วาไรตี้"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/SabaideeTV.png",Sabaidee TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+#EXTINF:-1,group-title="วาไรตี้" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png",WakuWaku Japan
+http://103.22.183.136:8081/live/wakuwakujapan/playlist.m3u8
+#EXTINF:-1 group-title="วาไรตี้" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",WFC TV International
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif",13 Siam TV
+http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="ข่าว"tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png", Fah Won Mai
+https://5cb6516c3cb37.streamlock.net/bluesky/bluesky/chunklist_w1506840154.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://news1live.com/images/social-share-logo.png",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/1476e49b-cf56-4fc0-873b-dc61e4207273.png",NHK World TV
+https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ข่าว"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png",TPTV
+http://146.88.46.49:9998/stream/channelid/905715609
+#EXTINF:-1 group-title="ข่าว" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-tv5pacific.png",TV5Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network UAE
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/disneyjr.jpg",Disney Junion
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",Gang Cartoon
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
+http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie
+http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
+https://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
+http://27.254.149.109:8081/tumlive/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",Mono Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg",Movies 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg",Movies 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg",Movies 3
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 4
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 6
+http://203.154.243.31:8081/live/ping/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 7
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg",UP Movies
+http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",Zee Nung
+http://27.254.130.64/live99/46/zeenung.m3u8?p=st
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg",True Film HD2
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
+#EXTINF:-1,group-title="หนัง" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w164085789.m3u8
+#EXTINF:-1,group-title="หนัง" tvg-logo="https://www.mx7.com/i/2ce/PGQWiX.png",Doonee TV
+http://103.120.113.90:1935/psilive2a/DOONEE.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/01/TVB_TEST-300x240.png",Drama Thai
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.mx7.com/i/0b8/LBGzj1.jpg"หนัง",KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+http://27.254.130.61/live01/ch19.m3u8?p=st
+
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96.5x.jpg",96.5 คลื่นความคิด
+https://mcotdigital-9ksau4.cdn.byteark.com/RadioLive/smil:fm965_live.smil/chunklist_w673711091_b500000.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/96x.jpg",96Sport radio
+http://110.164.48.215:8000/smmradio
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/97.5x.jpg",97.5 FM Seed FM
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/chunklist_w1644975532.m3u8
+#EXTINF:-1 group-title="วิทยุ"  tvg-logo="https://www.adintrend.tv/images/radio/94x.jpg",Chill FM
+http://real4.atimemedia.com/chill
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/93x.jpg",Cool 93
+http://111.223.51.7:8100/;stream/1    
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/105.5x.jpg",Eazy FM
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95x.jpg",Fm95 Looktung        
+https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/chunklist_w2109631206.m3u8
+#EXTINF:-1 group-title="วิทยุ" tvg-logo="https://www.adintrend.tv/images/radio/99x.jpg",Fm99 Active Radio
+https://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/chunklist_w1668071839.m3u8
+#EXTINF:-1group-title="วิทยุ" tvg-logo="http://image.free.in.th/v/2013/ij/180713075126.gif",Greenwave
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/met.png",met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/95.5x.jpg",Virgin Hitz
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://www.adintrend.tv/images/radio/100x.jpg",จส.100 (js100)
+http://112.121.151.133:8184/;&type=mp3
+#EXTINF:-1 group-title="วิทยุ"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mitikao905.png",มิติข่าว 90.5
+http://live3.smartbomb.co.th:8624/stream/1/
+
+#Open Chat: Android-แบ่งปัน
