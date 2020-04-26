@@ -165,7 +165,7 @@ https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CrsDklIdM8FMlyzIZdbwuY05XhC
 http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
-http://206.189.91.244:80/Workpoint/index.m3u8
+http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv23_workpointtv/playlist.m3u8
