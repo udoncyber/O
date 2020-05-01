@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV
-http://206.189.91.244:80/Amarin/index.m3u8
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/amarin.png",Amarin TV
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv34_amarintvhd/playlist.m3u8
@@ -15,7 +15,7 @@ http://119.59.125.74/stream/psi-play.php?id=74
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
-http://206.189.91.244:80/ch3hd/index.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv33_ch3hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
 http://119.59.125.74/stream/psi-play.php?id=66
@@ -24,7 +24,7 @@ http://119.59.125.74/stream/psi-play.php?id=66
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
-http://206.189.91.244:80/ch5hd/index.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5 HD
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv01_ch5hd/playlist.m3u8
@@ -36,7 +36,7 @@ http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7 HD
-http://206.189.91.244:80/ch7hd/index.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv35_ch7hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8
 http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
@@ -123,7 +123,7 @@ http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
-http://206.189.91.244:80/ThaiPBS/index.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://teevee-hd.com/img/thaipbs.png",Thai PBS
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv03_tpbshd/playlist.m3u8
@@ -193,10 +193,10 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang
-https://live.we-play.tv/android/boomerang/playlist.m3u8
+https://live.we-play.tv/weplayno1/boomerang/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang
-http://live.9koh.com:8000/live/a-play/stream/25.m3u8
+http://167.71.218.244:80/Boomerang/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang HD
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -205,7 +205,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
-http://live.9koh.com:8000/live/a-play/stream/26.m3u8
+http://167.71.218.244:80/CartoonClub/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
 https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
@@ -229,7 +229,7 @@ http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-citv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
-https://live.we-play.tv/android/disneych/playlist.m3u8
+https://live.we-play.tv/weplayno1/disneych/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
 http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
@@ -244,7 +244,7 @@ https://tv4.chang55.com/live2/tv4ch30.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",Disney XD
-https://live.we-play.tv/android/disneyxd/playlist.m3u8
+https://live.we-play.tv/weplayno1/disneyxd/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg",Gang Cartoon
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
@@ -256,10 +256,13 @@ https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick Jr.
-http://live.9koh.com:8000/live/a-play/stream/29.m3u8
+http://167.71.218.244:80/NickJr/index.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick Jr.
+http://128.199.175.13:8000/live/aplay/live/7.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://www.doohdbox.com/assets/201707121554061018416784.jpg",Nickelodeon
-https://live.we-play.tv/android/nickelodeon/playlist.m3u8
+https://live.we-play.tv/weplayno1/nickelodeon/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png",True Spark Jump
 http://live.9koh.com:8000/live/a-play/stream/28.m3u8
@@ -336,22 +339,28 @@ http://live.9koh.com:8000/live/a-play/stream/30.m3u8
 
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png",Nat Geo Graphic
-http://live3.9koh.com:8000/live/aplay/live/10.m3u8
+http://167.71.218.244:80/NatGeo/index.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png",Nat Geo Graphic
+http://128.199.175.13:8000/live/aplay/live/10.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeopeople.jpg",Nat Geo People
-http://live3.9koh.com:8000/live/aplay/live/12.m3u8
+http://128.199.175.13:8000/live/aplay/live/12.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
 http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
-http://live3.9koh.com:8000/live/aplay/live/9.m3u8
+http://167.71.218.244:80/NatGeoWild/index.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",Nat Geo Wild
+http://128.199.175.13:8000/live/aplay/live/9.m3u8
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeo.png",National Geographic
 http://160.119.77.50/iptv/hd-natgeo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeo.png",National Geographic
-https://live.we-play.tv/android/natgeo/playlist.m3u8
+https://live.we-play.tv/weplayno1/natgeo/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
 https://cdn-laos.workpoint.news/sd-explife_480/index.m3u8
@@ -372,7 +381,7 @@ http://203.154.243.32:8088/live/wsci/index.m3u8
 https://43.228.85.11/android/samruajlok/chunks.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",Samruajlok
-https://live.we-play.tv/android/samruajlok/playlist.m3u8
+https://live.we-play.tv/weplayno1/samruajlok/playlist.m3u8
 
 
 
@@ -400,7 +409,7 @@ https://live.we-play.tv/android/samruajlok/playlist.m3u8
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
-https://live.we-play.tv/android/axn/playlist.m3u8
+https://live.we-play.tv/weplayno1/axn/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/886f43a6-7655-4bdc-a4c2-4824667a980f.png",Blue Ant Entertainment
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
@@ -409,13 +418,13 @@ http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",Blue Ant Extreme
-https://live.we-play.tv/android/blue-ext/playlist.m3u8
+https://live.we-play.tv/weplayno1/blue-ext/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",Blue Ant Extreme
 
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://cms.dmpcdn.com/livetv/2018/02/07/52000162-ff01-48c1-93fa-07e641cc6ef6.jpg",Celestial Classic Movies
-https://live.we-play.tv/android/ccm/playlist.m3u8
+https://live.we-play.tv/weplayno1/ccm/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://cms.dmpcdn.com/livetv/2018/02/07/52000162-ff01-48c1-93fa-07e641cc6ef6.jpg",Celestial Classic Movies
 
@@ -439,16 +448,16 @@ https://tv4.chang55.com/live/foxacthai.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",Fox Action Movies
-http://live3.9koh.com:8000/live/aplay/live/5.m3u8
+http://167.71.218.244:80/FoxAction/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
-https://live.we-play.tv/android/fox-crime/playlist.m3u8
+https://live.we-play.tv/weplayno1/fox-crime/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
 http://27.254.149.109:8081/tumlive/Foxcrime/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxcrime.png",Fox Crime
-http://live.9koh.com:8000/live/a-play/stream/46.m3u8
+http://167.71.218.244:80/FoxCrime/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxfamily.png",Fox family movie
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
@@ -466,37 +475,37 @@ https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
 https://43.228.85.11/android/fox-movies/chunks.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",Fox Movies TH
-http://live.9koh.com:8000/live/a-play/stream/42.m3u8
+http://167.71.218.244:80/FOXMOVIES/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
-https://live.we-play.tv/android/foxth/playlist.m3u8
+https://live.we-play.tv/weplayno1/foxth/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
-http://live.9koh.com:8000/live/a-play/stream/45.m3u8
+http://167.71.218.244:80/FoxThai/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
-https://live.we-play.tv/android/fox-life/playlist.m3u8
+https://live.we-play.tv/weplayno1/fox-life/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/foxlife.png",Foxlife
-http://live.9koh.com:8000/live/a-play/stream/48.m3u8
+http://167.71.218.244:80/foxlife/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/fxhd.png",FX
-http://live3.9koh.com:8000/live/aplay/live/3.m3u8
+http://128.199.175.13:8000/live/aplay/live/3.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707110937561658162639.jpg",GEM
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
-https://live.we-play.tv/android/hbo-hd/playlist.m3u8
+https://live.we-play.tv/weplayno1/hbo-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohd.png",HBO
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
@@ -505,22 +514,22 @@ http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://www.doohdbox.com/assets/201707081537071034876677.jpg",HBO Family
-https://live.we-play.tv/android/hbo-fam/playlist.m3u8
+https://live.we-play.tv/weplayno1/hbo-fam/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbohits.png",HBO Hits
-https://live.we-play.tv/android/hbo-hit/playlist.m3u8
+https://live.we-play.tv/weplayno1/hbo-hit/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/hbosig.png",HBO Signature
-https://live.we-play.tv/android/hbo-sig/playlist.m3u8
+https://live.we-play.tv/weplayno1/hbo-sig/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-Def 1
-https://live.we-play.tv/android/hi-def1/playlist.m3u8
+https://live.we-play.tv/weplayno1/hi-def1/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20200313162436984117952.jpg",Hits
-https://live.we-play.tv/android/hits/playlist.m3u8
+https://live.we-play.tv/weplayno1/hits/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20200313103811109019915.jpg",Hits Movies
-https://live.we-play.tv/android/hitsmovies/playlist.m3u8
+https://live.we-play.tv/weplayno1/hitsmovies/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/sd-kix.png"หนัง",KIX
 http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
@@ -568,7 +577,7 @@ http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/red.png",RED By HBO
-https://live.we-play.tv/android/red/playlist.m3u8
+https://live.we-play.tv/weplayno1/red/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/red.png",RED By HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
@@ -577,7 +586,7 @@ https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
-http://live3.9koh.com:8000/live/aplay/live/13.m3u8
+http://128.199.175.13:8000/live/aplay/live/13.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/thrill.png",Thrill
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
