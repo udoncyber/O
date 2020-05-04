@@ -196,7 +196,7 @@ http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 https://live.we-play.tv/weplayno1/boomerang/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang
-http://167.71.218.244:80/Boomerang/index.m3u8
+http://206.189.154.65:80/Boomerang/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang HD
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -205,13 +205,16 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
-http://167.71.218.244:80/CartoonClub/index.m3u8
+http://206.189.154.65:80/CartoonClub/index.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doohdbox.com/assets/201707071723021769536352.jpg",Cartoon Club
+http://119.59.125.74/stream/psi-play.php?id=90
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
-https://live.we-play.tv/android/cnhd/playlist.m3u8
+https://live.we-play.tv/weplayno1/cnhd/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/01393493-1e29-4eb5-869b-1bd3e60b7b76.png",Cartoon Network
 http://live.9koh.com:8000/live/a-play/stream/19.m3u8
@@ -241,7 +244,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://tv4.chang55.com/live2/tv4ch30.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",Disney XD
-https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
+http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",Disney XD
 https://live.we-play.tv/weplayno1/disneyxd/playlist.m3u8
@@ -256,7 +259,7 @@ https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 http://160.119.77.50/iptv/sd-nickjr.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick Jr.
-http://167.71.218.244:80/NickJr/index.m3u8
+http://206.189.154.65:80/NickJr/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/nickjr.png",Nick Jr.
 http://128.199.175.13:8000/live/aplay/live/7.m3u8
