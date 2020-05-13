@@ -1,0 +1,429 @@
+#EXTM3U
+
+#EXTINF:-1,New Movie
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1,Star Chinese Movies Legend (SCM Legend)
+http://host4.dynns.com/stream/c8233976dbba4a06a101780907447375.m3u8
+#EXTINF:-1,Izaahd
+http://203.154.243.31:8081/live/izaahd/index.m3u8
+#EXTINF:-1,MONO Plus
+http://host4.dynns.com/stream/9623847065ba466e90632cf686fade0b.m3u8
+#EXTINF:-1,KIX HD
+http://host4.dynns.com/stream/e584e0adae6440eab366f5fe3a824f91.m3u8
+#EXTINF:-1,Thrill
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/chunklist_w12422825.m3u8
+#EXTINF:-1,Celestial Classic Movies (CCM)
+http://host4.dynns.com/stream/1c2276a2f1884b269ce281c3334e8f85.m3u8
+#EXTINF:-1,Fox Action Movies HD (EN)
+http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
+#EXTINF:-1,Fox Action Movies HD (TH)
+http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1,Fox Thai (TH)
+http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
+#EXTINF:-1,Fox Thai (EN)
+http://host4.dynns.com/stream/d0bfb50bee3741a09c53f8099a64ad52.m3u8
+#EXTINF:-1,Fox life
+http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:-1,Movie 1
+https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:-1,FOX TH
+https://tv4.chang55.com/live2/tv4ch91.stream/chunks.m3u8
+#EXTINF:-1,True Film HD 
+https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
+#EXTINF:-1,True Film HD1
+http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,HBO HITS
+https://tv4.chang55.com/live2/tv4ch87.stream/chunks.m3u8
+#EXTINF:-1,Movie 1
+https://tv4.chang55.com/live2/tv4ch90.stream/chunks.m3u8
+#EXTINF:-1,HBO TH
+https://tv4.chang55.com/live2/tv4ch79.stream/chunks.m3u8
+#EXTINF:-1,HBO FAMILY TH
+https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:-1,Fox Movie 
+https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
+#EXTINF:-1,Fox Movie TH
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1,True Movie hits
+http://160.119.77.50/iptv/sd-moviehits.stream/playlist.m3u8
+#EXTINF:-1,HBO HITS
+https://tv4.chang55.com/live2/tv4ch87.stream/chunks.m3u8
+#EXTINF:-1,Thai Old Movie
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1,HIDEF 1
+https://tv4.chang55.com/live2/tv4ch88.stream/chunks.m3u8
+#EXTINF:-1,Mangkorn
+http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
+#EXTINF:-1,Nang Dung
+http://103.120.113.90:1935/psilive2a/NungDung.stream_360p/playlist.m3u8
+#EXTINF:-1,Universal TH
+https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1,Warner TV HD
+http://cdn856.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Paramount HD
+http://cdn856.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Celestial Classic Movies True
+http://cdn856.stm.trueid.net/live4/224_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,หนังไทย
+http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
+#EXTINF:-1,True Thai Film
+http://cdn856.stm.trueid.net/live4/094_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Film Asia
+http://160.119.77.50/iptv/sd-filmasia.stream/playlist.m3u8
+#EXTINF:-1,CH3 HD
+http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
+#EXTINF:-1,CH5 HD
+http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
+#EXTINF:-1,CH7 HD
+http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8
+#EXTINF:-1,MCOT HD
+http://host4.dynns.com/stream/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
+#EXTINF:-1,NBT
+http://host4.dynns.com/stream/ce9a1585f45d4379970b95308df3f879.m3u8
+#EXTINF:-1,Thai PBS HD
+http://host4.dynns.com/stream/d7182fae6e9f4d929bdb5ae06059bda8.m3u8
+#EXTINF:-1,ONE HD
+http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8
+#EXTINF:-1,Thairath TV
+http://host4.dynns.com/stream/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8
+#EXTINF:-1,Workpoint TV
+http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
+#EXTINF:-1,MONO29
+http://host4.dynns.com/stream/fd23603db67344c69a8304a2fca268cd.m3u8
+#EXTINF:-1,PPTV HD
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
+#EXTINF:-1,TRUE4U
+http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8
+#EXTINF:-1,GMM25
+http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8
+#EXTINF:-1,CH8
+http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8
+#EXTINF:-1,TNN16
+http://host4.dynns.com/stream/77774220bb8e40aa94e549e29ff3ed8a.m3u8
+#EXTINF:-1,SMM TV
+http://cdn856.stm.trueid.net/live3/o031_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,New18TV
+http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
+#EXTINF:-1,Nation TV
+http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
+#EXTINF:-1,TPTV
+http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8
+#EXTINF:-1,Amarin HD
+http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
+#EXTINF:-1,ETV
+http://host4.dynns.com/stream/dbab2fe24ce643689045d3c81e1954d6.m3u8
+#EXTINF:-1,DLTV1 
+http://host4.dynns.com/stream/f128d0ea3136406d9c1cc7db91db03da.m3u8?
+#EXTINF:-1,DLTV2 
+http://host4.dynns.com/stream/8b4d5e8c92d44caf8ee144ce5cc5cd80.m3u8
+#EXTINF:-1,DLTV3 
+http://host4.dynns.com/stream/cf271364f6a64785932af875007bc0f7.m3u8?
+#EXTINF:-1,DLTV4 
+http://host4.dynns.com/stream/2b73e3b7fe1d4c7c885881b122288d9c.m3u8
+#EXTINF:-1,DLTV5 
+http://host4.dynns.com/stream/ab578d13d39d41b8b23dfda094550165.m3u8
+#EXTINF:-1,DLTV6 
+http://host4.dynns.com/stream/c8634a9ba7db4580bf486cad2efdba5c.m3u8
+#EXTINF:-1,DLTV7 
+http://host4.dynns.com/stream/eeeb920c736845dfbf79b5d6f39efbec.m3u8
+#EXTINF:-1,DLTV8 
+http://host4.dynns.com/stream/cd5f167f6d7041b295f8173323f9b332.m3u8
+#EXTINF:-1,DLTV9
+http://host4.dynns.com/stream/3b1edacbb4194fd4ae7c787fffddeceb.m3u8
+#EXTINF:-1,DLTV10 
+http://host4.dynns.com/stream/54841b55e45546b6b4ba4cc3ba4b5440.m3u8
+#EXTINF:-1,DLTV11 
+http://host4.dynns.com/stream/659562d7cd394e06bf5a2cd2e743bcf5.m3u8
+#EXTINF:-1,DLTV12 
+http://host4.dynns.com/stream/62a16d17536546629b1daa819e43470e.m3u8
+#EXTINF:-1,DLTV13 
+http://host4.dynns.com/stream/a358daf318cf46a2aeafa01a3644f5f0.m3u8?
+#EXTINF:-1,DLTV14 
+http://host4.dynns.com/stream/8b3884226a024af4ba6d89d10afb2194.m3u8
+#EXTINF:-1,DLTV15 
+http://host4.dynns.com/stream/f9603f5472034de7b897f30f1c687b84.m3u8
+#EXTINF:-1,Bhudda TV1
+http://cdn856.stm.trueid.net/live3/o015_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Bhudda TV2
+http://cdn856.stm.trueid.net/live4/o016_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Fah Wan Mai
+http://host4.dynns.com/stream/76221348029846b6a86cce2f76e60f82.m3u8
+#EXTINF:-1,News 1
+http://host4.dynns.com/stream/31dbe17e0c1b4c8684200f83b85b007b.m3u8
+#EXTINF:-1,Euronews
+http://host4.dynns.com/stream/3f35c4428a0d4004a38ff0adba7664f4.m3u8
+#EXTINF:-1,NHK WORLD TV
+http://host4.dynns.com/stream/cd25fccffa6f4a2f8d7190d3e8907440.m3u8
+#EXTINF:-1,France24 
+http://host4.dynns.com/stream/82c764aa2d7f42579348b8717cb5b9a4.m3u8
+#EXTINF:-1,Al Jazeera English
+http://host4.dynns.com/stream/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8
+#EXTINF:-1,CCTV News
+http://host4.dynns.com/stream/0ed1c715dc864ab3912d4015903a3d85.m3u8
+#EXTINF:-1,Fox News
+http://host4.dynns.com/stream/1e2041858ca543fa90ec95d28197e907.m3u8
+#EXTINF:-1,CN HD
+https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+#EXTINF:-1,True Tennis HD
+https://tv4.chang55.com/live2/tv4ch22.stream/chunks.m3u8
+#EXTINF:-1,CNN
+https://tv4.chang55.com/live2/tv4ch27.stream/chunks.m3u8
+#EXTINF:-1,BBC
+https://tv4.chang55.com/live2/tv4ch28.stream/chunks.m3u8
+#EXTINF:-1,CNN
+http://cdn856.stm.trueid.net/live1/001_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,BBC World News
+http://cdn856.stm.trueid.net/live1/193_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,CCTV4
+http://cdn856.stm.trueid.net/live3/027_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Aljazeera News
+http://cdn856.stm.trueid.net/live4/o002_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Australia Network
+http://cdn856.stm.trueid.net/live3/d24_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,NHK World TV
+http://cdn856.stm.trueid.net/live4/211_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Russia Today
+http://cdn856.stm.trueid.net/live4/ca03_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Arirang 
+http://host4.dynns.com/stream/2d5711cd22484490bd8a50bf990a6bdc.m3u8
+#EXTINF:-1,O Shopping HD
+http://host4.dynns.com/stream/08bcedc834b94e40a295cdd273f4f60d.m3u8
+#EXTINF:-1,M Channel
+http://host4.dynns.com/stream/97f3052bec96482584c5de84dda0d745.m3u8
+#EXTINF:-1,Sabaidee TV
+http://host4.dynns.com/stream/b9bedb1b0539456dbc84542cf2ebca7b.m3u8
+#EXTINF:-1,JKN
+http://host4.dynns.com/stream/fc8195dc989240348772d00dd9eba3d0.m3u8
+#EXTINF:-1,FanTV
+http://host4.dynns.com/stream/345a4277dd864037b6b4fb5a562af59c.m3u8
+#EXTINF:-1,Mix Major
+http://host4.dynns.com/stream/ab6acb38607a4aff9dc773a6772c91fc.m3u8
+#EXTINF:-1,CH 2
+http://host4.dynns.com/stream/4e38ed2fa4dd43999828eab81196deff.m3u8
+#EXTINF:-1,Zee ETC
+http://host4.dynns.com/stream/dcf0d550815947f3bacaf3521e118124.m3u8
+#EXTINF:-1,Fox Life HD
+http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:-1,Comedy Central HD
+http://host4.dynns.com/stream/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1,Fox Crime HD (EN)
+http://host4.dynns.com/stream/48773319e9324602b258e3f1d33ec111.m3u8
+#EXTINF:-1,Fox Crime HD (TH)
+http://host4.dynns.com/stream/5028f7ff1d1b4d5f8189690233364737.m3u8
+#EXTINF:-1,Fashion TV
+http://host4.dynns.com/stream/df468a12ae6547de9637486bdc2025aa.m3u8
+#EXTINF:-1,FX HD
+http://host4.dynns.com/stream/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+#EXTINF:-1,MediaTV
+http://cdn856.stm.trueid.net/live3/o072_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Fan TV
+http://cdn856.stm.trueid.net/live4/o023_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Super Bunteung
+http://cdn856.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Wish TV
+http://103.120.113.90:1935/psilive3a/WishCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Berng Dee
+http://103.120.113.90:1935/psilive2a/BERNGDEE.stream_360p/playlist.m3u8
+#EXTINF:-1,At TV
+http://103.120.113.90:1935/psilive2a/ATTV.stream_360p/playlist.m3u8
+#EXTINF:-1,UMM TV
+http://103.120.113.90:1935/psilive3a/UMMTV.stream_360p/playlist.m3u8
+#EXTINF:-1,AonZon TV
+http://103.120.113.90:1935/psilive2a/AonZon.stream_360p/playlist.m3u8
+#EXTINF:-1,Esa Ban Huao
+http://103.120.113.90:1935/psilive3a/EsanBanHuao.stream_360p/playlist.m3u8
+#EXTINF:-1,Zaap TV
+http://103.120.113.90:1935/psilive1a/Zabb.stream_360p/playlist.m3u8
+#EXTINF:-1,Unity TV
+http://103.120.113.90:1935/psilive3a/UnityTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Baan Baan TV
+http://103.120.113.90:1935/psilive2a/BBTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Buntean Thai
+http://103.120.113.90:1935/psilive1a/BTT.stream_360p/chunklist.m3u8
+#EXTINF:-1,Top TV
+http://103.120.113.90:1935/psilive2a/TopTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Tiger Shop
+http://103.120.113.90:1935/psilive2a/TigerShop.stream_360p/playlist.m3u8
+#EXTINF:-1,S Shop
+http://103.120.113.90:1935/psilive3a/R_fIlm.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD1
+http://103.120.113.90:1935/psilive1a/TVD1.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD3
+http://103.120.113.90:1935/psilive3a/TVD3.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo1
+http://103.120.113.90:1935/psilive1a/TVDMOMO.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo2
+http://103.120.113.90:1935/psilive2a/MOMO2.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo3
+http://103.120.113.90:1935/psilive2a/MOMO3.stream_360p/playlist.m3u8
+#EXTINF:-1,TGN
+http://cdn856.stm.trueid.net/live4/da1_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True PlookPanya
+http://cdn856.stm.trueid.net/live2/139_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Smart  SME 
+http://cdn856.stm.trueid.net/live4/171_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Rama Channel
+http://cdn856.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Zee Nung
+http://cdn856.stm.trueid.net/live4/sc001_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Very
+http://cdn856.stm.trueid.net/live3/114_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Thaithai
+http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Mangkorn
+http://cdn856.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Lao Star
+http://cdn856.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,MRTV4
+http://cdn856.stm.trueid.net/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Shopping
+http://cdn856.stm.trueid.net/live3/218_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Select
+http://cdn856.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,KBS World HD
+http://cdn856.stm.trueid.net/live2/142_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,TVN
+http://cdn856.stm.trueid.net/live3/096_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Reality HD
+http://cdn856.stm.trueid.net/live2/107_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True  Inside HD
+http://cdn856.stm.trueid.net/live2/040_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,BlueAnt Entertainment
+http://cdn856.stm.trueid.net/live2/177_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,BlueAnt Extreme
+http://cdn856.stm.trueid.net/live1/208_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://cdn856.stm.trueid.net/live1/174_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Food  Network
+http://cdn856.stm.trueid.net/live2/191_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 ,Fashion TV
+http://cdn856.stm.trueid.net/live2/178_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,KMTV HD
+http://cdn856.stm.trueid.net/live2/121_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,iConcerts HD
+http://cdn856.stm.trueid.net/live1/122_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Asian Food Network
+http://cdn856.stm.trueid.net/live3/214_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True X-zyte 
+http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Asian Series
+http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
+#EXTINF:-1,ID Station
+http://cdn150.stm.trueid.net/live6/he001_th_tv_high_ott.smil/playlist.m3u8?wowzasessionid=682179933&appid=trueid&type=live&visitor=mobile&uid=60940925&mpass=sFbTaf%2F0st%2BPl5IawCvUDpNZ0W4%2F7D4KmxA%2B9LrHNWHKgFo2wYjVLS2Y%2FPzxPSVYP1a5Wn2taVGh%2BmPTuchWrfrEmrMMARyLKS8K2811suA6Oo4zY0%2BFT3A8ZG%2BMj2NpFvw
+#EXTINF:-1,Sony Gem
+https://tv4.chang55.com/live2/tv4ch50.stream/chunks.m3u8
+#EXTINF:-1,ThaiCCTV
+http://103.120.113.90:1935/psilive2a/THAICCTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Action
+http://103.120.113.90:1935/psilive1a/action.stream_360p/playlist.m3u8
+#EXTINF:-1,TVN Thai HD
+http://103.120.113.90:1935/psilive3a/TVN_THAI.stream/playlist.m3u8
+#EXTINF:-1,Hit Varity
+http://103.120.113.90:1935/psilive2a/Hit_Variety.stream_360p/playlist.m3u8
+#EXTINF:-1,Hit Station
+http://103.120.113.90:1935/psilive3a/HitStation.stream_360p/playlist.m3u8
+#EXTINF:-1,Maya
+http://103.120.113.90:1935/psilive1a/MayaCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Mirror
+http://103.120.113.90:1935/psilive2a/MIRROR.stream_360p/playlist.m3u8
+#EXTINF:-1,Kaset News
+http://103.120.113.90:1935/psilive3a/KasetNEW.stream_360p/playlist.m3u8
+#EXTINF:-1,40-50 TV
+http://103.120.113.90:1935/psilive3a/40_50.stream_360p/playlist.m3u8
+#EXTINF:-1,MTV Live HD
+http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:-1,MTV Asia
+http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1,MTV China
+http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1,TopLine
+http://103.120.113.90:1935/psilive2a/Topline.stream_360p/playlist.m3u8
+#EXTINF:-1,True Music HD
+http://cdn856.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,แสงจันทร์
+http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+#EXTINF:-1,Cartoon Club
+http://host4.dynns.com/stream/860605f7e16d4c6cacef72ef02ffa2c1.m3u8
+#EXTINF:-1,Boomerang
+http://host4.dynns.com/stream/06c02432266f4f42b48947e075de38c5.m3u8
+#EXTINF:-1,Nick Jr. (TH)
+http://host4.dynns.com/stream/2b72986be9314c139db95f6098d1c413.m3u8
+#EXTINF:-1,Nick Jr. (EN)
+http://host4.dynns.com/stream/09fffe8d426745689f60cbc24da1bb49.m3u8
+#EXTINF:-1,Nickelodeon
+http://cdn150.stm.trueid.net/live6/089_th_m_high_tidapp.smil/playlist.m3u8?wowzasessionid=855558622&appid=trueid&type=live&visitor=mobile&uid=60940925&mpass=CmXqaTYfvkTPf1zsSEUM1qoGayzLizTkclxGh1nx1Ih%2F%2FIjesFmHiomn2U8UY3hqJoweBm6ahvnikXdbJ5pQV%2B9MDF3ytvmv7pzlvko2EaA6OiWGPE69rWD7MgFv9ozQ2tY
+#EXTINF:-1,Baby TV
+http://host4.dynns.com/stream/7773f3cef0334a28ad248552ea63d9e7.m3u8
+#EXTINF:-1,TooNEE
+http://103.120.113.90:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
+#EXTINF:-1,Doonee
+http://103.120.113.90:1935/psilive2a/DOONEE.stream_360p/playlist.m3u8
+#EXTINF:-1,Disney HD
+https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
+#EXTINF:-1,Disney Junior
+https://tv4.chang55.com/live2/tv4ch30.stream/chunks.m3u8
+#EXTINF:-1,AXN HD
+https://tv4.chang55.com/live2/tv4ch31.stream/chunks.m3u8
+#EXTINF:-1,True Spark Play 
+http://cdn856.stm.trueid.net/live3/007_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Spark Jump
+http://cdn856.stm.trueid.net/live3/101_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://cdn856.stm.trueid.net/live2/192_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,Ja Ting Ja TV
+http://cdn856.stm.trueid.net/live3/o014_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,National Geographic HD (TH)
+http://host4.dynns.com/stream/29fb241f985c468e8e6ffa8942b00a69.m3u8
+#EXTINF:-1,National Geographic HD (EN)
+http://host4.dynns.com/stream/850a8ca433184938bfaeaf770abc5d7a.m3u8
+#EXTINF:-1,Nat Geo Wild HD (TH)
+http://host4.dynns.com/stream/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
+#EXTINF:-1,Nat Geo Wild HD (EN)
+http://host4.dynns.com/stream/90d14bbf53d14b018d4439ffba6be283.m3u8
+#EXTINF:-1,Nat Geo People HD (TH)
+http://host4.dynns.com/stream/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
+#EXTINF:-1,CCTV-9 
+http://host4.dynns.com/stream/b08a8052e6724bedba5399f662715ad1.m3u8
+#EXTINF:-1,SMM TV
+http://host4.dynns.com/stream/48cac6380caf4f078eafccc63804ac23.m3u8
+#EXTINF:-1,Animal Planet
+https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
+#EXTINF:-1,Murder
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:-1,History HD
+http://cdn856.stm.trueid.net/live2/141_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,H2  HD
+http://cdn856.stm.trueid.net/live1/163_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Explore Wild
+http://cdn856.stm.trueid.net/live3/058_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Explore Life
+http://cdn856.stm.trueid.net/live4/060_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,True Explore Science
+http://cdn856.stm.trueid.net/live4/061_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1,T Sports Channel
+http://host4.dynns.com/stream/3ee1e656d6ae417a914743328d44f20f.m3u8
+#EXTINF:-1,Fox Sport 2 (TH)
+http://host4.dynns.com/stream/1fd48f2cd616439ca4162478e572d681.m3u8
+#EXTINF:-1,Fox Sport 2 (EN)
+http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
+#EXTINF:-1,Fox Sport 3 (TH)
+http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
+#EXTINF:-1,Fox Sport 3 (EN)
+http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
+#EXTINF:-1,True Sport HD1 EN
+http://cdn150.stm.trueid.net/live6/097_th_tv_high_ott.smil/playlist.m3u8?wowzasessionid=139561088&appid=trueid&type=live&visitor=mobile&uid=60940925&mpass=ZxKKMvZCpSkIHMz0F3w06oo6Y7tnDIlW9cPkrWCIbhF%2B%2FQE9ARuoBH4yAHYKW45GRuao4XeiIdclgJJk9sk06Bxq%2B6eGjLr0zR7c6fjuNBk6Ov8YTPSSMOYNCHOClf6DFc8
+m3u8
+#EXTINF:-1,True Sport HD2 TH
+https://tv4.chang55.com/live2/tv4ch15.stream/chunks.m3u8
+#EXTINF:-1,True Sport HD2 EN
+http://cdn150.stm.trueid.net/live5/ht112_th_tv_high_ott.smil/playlist.m3u8?wowzasessionid=553802039&appid=trueid&type=live&visitor=mobile&uid=60940925&mpass=M9BA4Oxnl53fCm87gAAxRM86At4yMISg5ZcoITjuPfUjEaPAdcMQMjtflQA7j6wpf%2BKqTPgRmZW8HB1X%2FdGjbY1X6bcRrx5gmF4G89oaC%2Bg6Oq1xp934NLYfQgjIy50wgFs
+#EXTINF:-1,True Sport HD3 TH
+https://tv4.chang55.com/live2/tv4ch17.stream/chunks.m3u8
+#EXTINF:-1,True Sport 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1,True Sport 5
+https://tv4.chang55.com/live2/tv4ch84.stream/chunks.m3u8
+#EXTINF:-1,True Sport 6
+https://tv4.chang55.com/live2/tv4ch85.stream/chunks.m3u8
+#EXTINF:-1,True Sport 7
+https://tv4.chang55.com/live2/tv4ch86.stream/chunks.m3u8
