@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1,PSI FHD
+http://103.120.113.90:1935/edgepsi/PSIHD.stream/playlist.m3u8
+#EXTINF:-1,CH3 FHD
+http://103.120.113.90:1935/psilive1a/3HD.stream/playlist.m3u8
+#EXTINF:-1,CH5 FHD
+http://103.120.113.90:1935/psilive1a/5HD.stream/playlist.m3u8
+#EXTINF:-1,CH7 FHD
+http://103.120.113.90:1935/psilive1a/7HD.stream/playlist.m3u8
+#EXTINF:-1,MCOT
+http://103.120.113.90:1935/psilive1a/MCOTHD.stream_360p/playlist.m3u8
+#EXTINF:-1,ThaiPBS FHD
+http://103.120.113.90:1935/psilive3a/TPBS.stream/playlist.m3u8
+#EXTINF:-1,Amarin TV FHD
+http://103.120.113.90:1935/psilive1a/AmarinHD.stream/playlist.m3u8
+#EXTINF:-1,Thairath TV
+http://103.120.113.90:1935/psilive1a/ThairatTV.stream_360p/playlist.m3u8
+#EXTINF:-1,PPTV FHD
+http://103.120.113.90:1935/psilive1a/PPTV.stream/playlist.m3u8
+#EXTINF:-1,ONE FHD
+http://103.120.113.90:1935/psilive1a/OneHD.stream/playlist.m3u8
+#EXTINF:-1,True4U
+http://103.120.113.90:1935/psilive1a/True4U.stream_360p/playlist.m3u8
+#EXTINF:-1,Nation TV
+http://103.120.113.90:1935/psilive1a/Nation.stream_360p/playlist.m3u8
+#EXTINF:-1,Workpoint
+http://103.120.113.90:1935/psilive1a/Workpoint.stream_360p/playlist.m3u8
+#EXTINF:-1,CH8
+http://103.120.113.90:1935/psilive1a/CH8.stream_360p/playlist.m3u8
+#EXTINF:-1,GMM25
+http://103.120.113.90:1935/psilive1a/GMM25.stream_360p/playlist.m3u8
+#EXTINF:-1,FAN TV
+http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Mono29
+http://103.120.113.90:1935/psilive1a/Mono.stream_360p/playlist.m3u8
+#EXTINF:-1,Mono Plus
+http://103.120.113.90:1935/psilive3a/Mono_plus.stream_360p/playlist.m3u8
+#EXTINF:-1,M Channel
+http://103.120.113.90:1935/psilive3a/M_Channel.stream_360p/playlist.m3u8
+#EXTINF:-1,Asian Movies
+http://103.120.113.90:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
+#EXTINF:-1,ThaiCCTV
+http://103.120.113.90:1935/psilive2a/THAICCTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Doonee
+http://103.120.113.90:1935/psilive2a/DOONEE.stream_360p/playlist.m3u8
+#EXTINF:-1,Action
+http://103.120.113.90:1935/psilive1a/action.stream_360p/playlist.m3u8
+#EXTINF:-1,TVN Thai HD
+http://103.120.113.90:1935/psilive3a/TVN_THAI.stream/playlist.m3u8
+#EXTINF:-1,Hit Varity
+http://103.120.113.90:1935/psilive2a/Hit_Variety.stream_360p/playlist.m3u8
+#EXTINF:-1,Hit Station
+http://103.120.113.90:1935/psilive3a/HitStation.stream_360p/playlist.m3u8
+#EXTINF:-1,Movie Hit
+http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8
+#EXTINF:-1,Nang Dung
+http://103.120.113.90:1935/psilive2a/NungDung.stream_360p/playlist.m3u8
+#EXTINF:-1,JaTingJa
+http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/playlist.m3u8
+#EXTINF:-1,Cartoon Club
+http://103.120.113.90:1935/psilive3a/CARTOON_CLUB.stream_360p/playlist.m3u8
+#EXTINF:-1,Maya
+http://103.120.113.90:1935/psilive1a/MayaCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Mirror
+http://103.120.113.90:1935/psilive2a/MIRROR.stream_360p/playlist.m3u8
+#EXTINF:-1,Kaset News
+http://103.120.113.90:1935/psilive3a/KasetNEW.stream_360p/playlist.m3u8
+#EXTINF:-1,40-50 TV
+http://103.120.113.90:1935/psilive3a/40_50.stream_360p/playlist.m3u8
+#EXTINF:-1,JKN
+http://103.120.113.90:1935/psilive3a/JKN.stream_360p/playlist.m3u8
+#EXTINF:-1,Mangkorn
+http://103.120.113.90:1935/psilive3a/Mangorn.stream_360p/playlist.m3u8
+#EXTINF:-1,TopLine
+http://103.120.113.90:1935/psilive2a/Topline.stream_360p/playlist.m3u8
+#EXTINF:-1,Wish TV
+http://103.120.113.90:1935/psilive3a/WishCH.stream_360p/playlist.m3u8
+#EXTINF:-1,Berng Dee
+http://103.120.113.90:1935/psilive2a/BERNGDEE.stream_360p/playlist.m3u8
+#EXTINF:-1,At TV
+http://103.120.113.90:1935/psilive2a/ATTV.stream_360p/playlist.m3u8
+#EXTINF:-1,UMM TV
+http://103.120.113.90:1935/psilive3a/UMMTV.stream_360p/playlist.m3u8
+#EXTINF:-1,AonZon TV
+http://103.120.113.90:1935/psilive2a/AonZon.stream_360p/playlist.m3u8
+#EXTINF:-1,Esa Ban Huao
+http://103.120.113.90:1935/psilive3a/EsanBanHuao.stream_360p/playlist.m3u8
+#EXTINF:-1,Zaap TV
+http://103.120.113.90:1935/psilive1a/Zabb.stream_360p/playlist.m3u8
+#EXTINF:-1,Unity TV
+http://103.120.113.90:1935/psilive3a/UnityTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Baan Baan TV
+http://103.120.113.90:1935/psilive2a/BBTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Buntean Thai
+http://103.120.113.90:1935/psilive1a/BTT.stream_360p/chunklist.m3u8
+#EXTINF:-1,Top TV
+http://103.120.113.90:1935/psilive2a/TopTV.stream_360p/playlist.m3u8
+#EXTINF:-1,Zee Nung
+http://103.120.113.90:1935/psilive3a/ZeeNung.stream_360p/playlist.m3u8
+#EXTINF:-1,Tiger Shop
+http://103.120.113.90:1935/psilive2a/TigerShop.stream_360p/playlist.m3u8
+#EXTINF:-1,S Shop
+http://103.120.113.90:1935/psilive3a/R_fIlm.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD1
+http://103.120.113.90:1935/psilive1a/TVD1.stream_360p/playlist.m3u8
+#EXTINF:-1,TVD3
+http://103.120.113.90:1935/psilive3a/TVD3.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo1
+http://103.120.113.90:1935/psilive1a/TVDMOMO.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo2
+http://103.120.113.90:1935/psilive2a/MOMO2.stream_360p/playlist.m3u8
+#EXTINF:-1,Momo3
+http://103.120.113.90:1935/psilive2a/MOMO3.stream_360p/playlist.m3u8
+#EXTINF:-1,S Shop
+http://103.120.113.90:1935/psilive1a/ShopCH.stream_360p/playlist.m3u8
+#EXTINF:-1,True Shopping
+http://103.120.113.90:1935/psilive2a/TimeTV.stream_360p/playlist.m3u8
