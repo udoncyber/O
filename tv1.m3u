@@ -278,13 +278,14 @@ http://live.9koh.com:8000/live/a-play/stream/28.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play
 
-#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
 http://96.30.124.100:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
 http://119.59.125.74/stream/psi-play.php?id=99
 
-
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
+http://49.231.36.174/ais/play/origin/LIVE/scorpio/V0176/05.m3u8
 
 
 
@@ -300,7 +301,7 @@ http://119.59.125.74/stream/psi-play.php?id=99
 
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/2019021010055866420992.jpg",Animal Planet 
-https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
+http://49.231.36.174/ais/play/origin/LIVE/scorpio/V0182/05.m3u8
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doohdbox.com/assets/2019021010055866420992.jpg",Animal Planet 
 https://43.228.85.11/android/animalplanet/chunks.m3u8
@@ -315,7 +316,7 @@ https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery
-https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+http://49.231.36.174/ais/play/origin/LIVE/scorpio/V0180/05.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery
 http://live.9koh.com:8000/live/a-play/stream/33.m3u8
@@ -324,7 +325,7 @@ http://live.9koh.com:8000/live/a-play/stream/33.m3u8
 http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery Asia
-https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
+http://49.231.36.174/ais/play/origin/LIVE/scorpio/V0181/05.m3u8
 
 #EXTINF:-1 group-title="สารคดี"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
 http://160.119.77.50/iptv/hd-history2.stream/playlist.m3u8
