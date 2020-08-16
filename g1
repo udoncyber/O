@@ -1141,6 +1141,8 @@ http://203.154.243.32:8088/live/wanimal/index.m3u8
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
 http://203.154.243.31:8081/live/boomerrang/index.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=godzhelm
 #EXTINF:-1 group-title="Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg",Cartoon Network HD
 http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg",Cartoon Network HD
