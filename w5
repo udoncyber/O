@@ -1,0 +1,1063 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-1
+http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-2
+http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-3
+http://ip2121.com:8081/at1/ENG1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-4
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1-6
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/dooball66-epl1/liveorigin/dooball66-epl1_720/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-1
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-2
+http://dootvthai-hd.com/cmd/true/ep2-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-3
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-4
+http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-5
+http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier HD2-6
+https://doomovielive.b-cdn.net/epl-x2_720/index.m3u8|Referer=https://doomovie.com
+
+
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-1
+http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-2
+http://dootvthai-hd.com/cmd/true/ep3-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-3
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-4
+http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-5
+https://doomovielive.b-cdn.net/epl-x3_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball3.png,Premier HD3-6
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-3/liveorigin/epl-3_1080/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-1
+http://doo2you.com/tv/WE-PlAY-True-Premier-Football-HD-4.php
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-2
+http://dootvthai-hd.com/cmd/true/ep4-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-3
+http://ip2121.com:8081/at1/ENG4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-4
+http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-5
+http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-6
+https://doomovielive.b-cdn.net/epl-x4_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball4.png,Premier HD4-7
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-4/liveorigin/epl-4_1080/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-1
+http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-2
+http://dootvthai-hd.com/cmd/true/ep5-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-3
+http://ip2121.com:8081/at1/ENG5/playlist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-4
+http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-5
+https://doomovielive.b-cdn.net/epl-x5_720/index.m3u8|Referer=https://doomovie.com
+#EXTINF:-1 group-title="SPORT EPL"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5-6
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-5/liveorigin/epl-5_1080/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD1-1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD1-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tsport1/liveorigin/hd-tsport1_1080/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",True Sport HD2-1
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",True Sport HD2-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tsport2/liveorigin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",True Sport HD3-1
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",True Sport HD3-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tsport3/liveorigin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",True Sport HD4-1
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png",True Sport HD4-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tsport4/liveorigin/hd-tsport4_1080/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 2-1
+http://160.119.77.50/iptv/sd-tsport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sport 2-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-tsport2/liveorigin/sd-tsport2_480/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_original.png",True Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7-1
+http://160.119.77.50/iptv/sd-tsport7.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-tsport7/liveorigin/sd-tsport7_480/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-1-Live.png",Arena Sport 1
+http://139.99.17.52:8081/liveorigin/rs-arena1_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://tvprofil.net/img/kanali-logo/arenasport_2_logo.png",Arena Sport 2
+http://139.99.17.52:8081/liveorigin/rs-arena2_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://tvprofil.net/img/kanali-logo/arenasport_3_logo.png",Arena Sport 3
+http://139.99.17.52:8081/liveorigin/rs-arena3_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://3.bp.blogspot.com/-vS9ltiJ8Qj8/WPVChgieuFI/AAAAAAAAFPc/wkVPaZiKBVEb-MD_hE2wXAzzRz85jeuPACLcB/s1600/arena_sport_hr_4.png",Arena Sport 4
+http://139.99.17.52:8081/liveorigin/rs-arena4_480/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BEIN 3
+http://160.119.77.50/iptv/hd-bein3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",BEIN 4
+http://160.119.77.50/iptv/hd-bein4.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png",BEIN 5
+http://160.119.77.50/iptv/hd-bein5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://i.pinimg.com/originals/88/4b/a8/884ba87e8f359cb5d4a92a03692423d9.png",beIN SPORTS HD 1-1
+http://203.150.107.30:8081/tested2iptv/core2/chunklist_w353411422.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://i.pinimg.com/originals/88/4b/a8/884ba87e8f359cb5d4a92a03692423d9.png",beIN SPORTS HD 1-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-bein1/liveorigin/epl-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://i.pinimg.com/originals/15/7b/b5/157bb52fbcc87ff33aca65eae3e495e2.png",beIN SPORTS HD 2-1
+http://103.208.24.234:1935/thaisport/epl-bein2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://i.pinimg.com/originals/15/7b/b5/157bb52fbcc87ff33aca65eae3e495e2.png",beIN SPORTS HD 2-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-bein2/liveorigin/epl-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://3.bp.blogspot.com/-w7LCzcaoQnw/WlPXiU4SfkI/AAAAAAAAAck/hNyDhWdUWLYqJaYjUce2hq7VTFDuiFoAwCLcBGAs/s1600/7-HD.png",beIN SPORTS7 HD
+https://streaming.livescorethai.net/iptv/hd-bein7.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT2 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT3 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT4 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT44 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT45 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT46 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT48 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCW",EUROSPORT50 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport1.png",SuperSport1
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport1_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport2.png",SuperSport2
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport2_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport3.png",SuperSport3
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport3_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport4.png",SuperSport4
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport4_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport5.png",SuperSport5
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport5_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport6.png",SuperSport6
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport6_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport7.png",SuperSport7
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport7_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport8.png",SuperSport8
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport8_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport9.png",SuperSport9
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport9_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport10.png",SuperSport10
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport10_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport11.png",SuperSport11
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport11_480/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/af-supersport12.png",SuperSport12
+https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport12_480/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sports 1-1
+http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg",Fox Sports 1-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-foxsports1/liveorigin/hd-foxsports1_1080/chunks.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_010.jpg",Fox Sports 2-1
+http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_010.jpg",Fox Sports 2-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-foxsports2/liveorigin/sd-foxsports2_480/chunks.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_146.jpg",Fox Sports 3-1
+http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_146.jpg",Fox Sports 3-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-foxsports3/liveorigin/sd-foxsports3_480/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",Sky Sports PML 
+http://160.119.77.50/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",Sky Sports Arena
+http://160.119.77.50/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-f1.png",Sky Sports F1
+http://160.119.77.50/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",BT SPORTS 1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png",BT SPORTS 2
+http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/us-espn1.png",SPORTS ESPN
+http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsportshd.png",Skynet Sport HD
+http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCt",Skynet Sport +
+http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports1.png",Skynet Sport 1
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports2.png",Skynet Sport 2
+http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports3.png",Skynet Sport 3
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports4.png",Skynet Sport 4
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports5.png",Skynet Sport 5
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-skynetsports6.png",Skynet Sport 6
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp1hd.png",ASTRO 1
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/my-asp1hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp2hd.png",ASTRO 2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/my-asp2hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp3hd.png",ASTRO 3
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/my-asp3hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp4.png",ASTRO 4
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/my-asp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_NBATV.jpg",NBA 1-1
+http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_NBATV.jpg",NBA 1-2
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-nba/liveorigin/hd-nba_720/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://wst.tv/wp-content/uploads/2020/01/WST-Main-Logo.jpg",World Snooker
+http://203.154.243.31:8081/live/snooker/index.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCD",Redbull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="http://tvsmagazine.com/images/channels/lrg_TRTEN.jpg",TENNIS
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tennis/liveorigin/hd-tennis_720/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/se-viasatsport-premium.png",S1 HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwi/master570.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/se-viasatsport-premium.png",S2 HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyi/master570.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/se-viasatsport-premium.png",S3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/se-viasatsport-premium.png",S5 HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master570.m3u8
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/se-viasatsport-premium.png",SOnline
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-edge.png",Edge Sports
+http://160.119.77.50/iptv/hd-edge.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.9tana.com/wp-content/uploads/2019/08/idstation.jpg",ID Station
+http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://uppic.cc/d/ywCb",TSPORT
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-tsports/liveorigin/sd-tsports_480/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg",CH 5
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg",CH 5(FHD)
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://th.kku.ac.th/wp-content/uploads/2019/10/nbt_hd.jpg",NBT
+http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://uppic.cc/d/yxpZ",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://uppic.cc/d/ywBf",Thai PBS (FHD)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tnn24.png",TNN HD
+http://dootvthai-hd.com/cmd/true/TNN-16/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://resource.nationtv.tv/assets/images-v4/nation_digitaltv_logo4.jpg",NATION
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/9/99/Workpoint_TV.png/1200px-Workpoint_TV.png",WORKPOINT HD
+http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True4U HD
+http://dootvthai-hd.com/cmd/true/True4u/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://www.isranews.org/images/2019/thaireform/5/GMM25150562.jpg",GMM
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://uppic.cc/d/yxPN",CH 8
+http://27.254.130.64/live01/ch15.m3u8?p=st
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",MONO
+https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",MONO (FHD)
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mcot.png",MCOT HD
+http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mcot.png",MCOT (FHD)
+http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8 
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE
+http://dootvthai-hd.com/cmd/true/ONE-HD/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath (FHD)
+http://203.154.243.31:8081/live/thairath/index.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3 HD
+http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",AMARIN TV
+http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV"tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7 HD
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+https://cdn161.cloud-streaming.com/ilike4kin_x6/pptv_720p/chunks.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yx2N",HI-DEF 1 (TH)
+https://www.we-play.tv/videos/tv-entertainment/hi-def-1/
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxpu",IZaaHd (TH)
+http://203.154.243.89:1202
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxpT",Sky Movies (TH)
+http://27.254.149.109:8081/tumlive/GG03/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yw8S",MOVIE 1 (TH)
+http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/ywCY",BOX FILM
+http://27.254.149.109:8081/tumlive/GG01/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yw8J",UP MOVIES
+http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxp2",FWMOV (TH)
+https://www.fwiptv.cc/player_demo.php?channel=89782
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxp3",FWSOV (TH)
+https://www.fwiptv.cc/player_demo.php?channel=89781
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://uppic.cc/d/yxEn",LIVESKY 1 (SUB.TH)
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxEn",LIVESKY 2 (SUB.TH)
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://uppic.cc/d/yxEn",LIVESKY 3 (TH)
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxEn",LIVESKY 4 (TH)
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8 
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxTi",FilmBox  (SUB.TH)
+http://203.154.243.89:1423
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yxTi",FilmBox  (TH)
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/ywcx",SERiES+HD (TH)
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yx2w",FOXMOVIES PREMIUM (TH)
+ https://www.we-play.tv/videos/tv-entertainment/fox-movies-premium/
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/yx2w",FOXMOVIES PREMIUM (SUB.TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-foxpremium/liveorigin/hd-foxpremium_720/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",FOX ACTION (SUB.TH)
+http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg",HBO HD (TH)
+https://ztvthai.online/izeetv/forapptreev/hbo-hd.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg",HBO (SUB.TH)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://ztvthai.online/uploads/tv_image/hbo-hits.jpg",HBOHits HD(SUB.TH)
+https://ztvthai.online/izeetv/forapptreev/hbo-hits.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS(SUB.TH)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://ztvthai.online/uploads/tv_image/hbo-family.jpg",HBOFamily HD(SUB.TH)
+https://ztvthai.online/izeetv/forapptreev/hbo-fam.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.iptvhero.com/channel/hd-hbofamily.png",HBOFAMILY(SUB.TH)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://ztvthai.online/uploads/tv_image/hbo-signature.jpg",HBOSignature HD(SUB.TH)
+https://ztvthai.online/izeetv/forapptreev/hbo-sig.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO SIGNATURE(SUB.TH)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://ztvthai.online/uploads/tv_image/hbo-red.jpg",HBORed (TH)
+https://ztvthai.online/izeetv/forapptreev/hbo-red.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://ztvthai.online/uploads/tv_image/hbo-cinemax.jpg",HBOcinemax (SUB.TH)
+https://ztvthai.online/izeetv/forapptreev/cinemax.m3u8
+
+
+
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.paramount.com/assets/img/og-meta.png",PARAMOUNT (SUB.TH)
+http://139.99.17.52:8081/liveorigin/hd-paramount_720/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doofree88.com/storage/live/warner-tv-hd.png", Warner TV (SUB.TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-warnertv/liveorigin/hd-warnertv_720/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://images.iptvhero.com/channel/sd-fox.png",Fox Thai
+http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="http://tvsmagazine.com/images/channels/lrg_FILMHD.jpg",True Film HD
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tfilm/liveorigin/hd-tfilm_1080/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://www.doofree88.com/storage/live/pGi0l8Sh2X4kKwII7p23aqyX58nhiIAFAKL5a9C1.png",TRUE FlIm HD 2
+https://www.we-play.tv/videos/tv-entertainment/true-film-hd-2
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",TRUE THAIFILM
+http://160.119.77.50/iptv/sd-thaifilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://teevee-hd.com/img/truefilmasia.png",True Film Asia
+http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8 
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://teevee-hd.com/img/truemoviehits.png",True Movie Hits
+http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-asianseries.png",TRUE ASIANSERIES
+http://139.99.17.52:8081/liveorigin/hd-asian_720/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE"tvg-logo="https://uppic.cc/d/ywBo",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_HIST.jpg",HISTORY (TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-history/liveorigin/hd-history_720/chunks.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_H2.jpg",HISTORY 2 (TH)
+http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/30/372c7a74-9900-4e7a-8e7b-62e13cf86ed3.png",Lovenature-4k
+https://www.we-play.tv/videos/สารคดี/lovenature-4k/
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://www.pngitem.com/pimgs/m/212-2127140_transparent-national-geographic-png-nat-geo-channel-logo.png",National Geographic (SUB.TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-natgeo/liveorigin/hd-natgeo_1080/chunks.m3u8
+
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://images.ufoiptv.com/channels/hd-natgeowild.jpg",NatGeo Wild (TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-natgeowild/liveorigin/hd-natgeowild_720/chunks.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg",DISCOVERY Asia (TH)
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-discovery/liveorigin/hd-discovery_1080/chunks.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",สํารวจโลก
+http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_EXPL.jpg",Explorer LIFE (TH)
+http://139.99.17.52:8081/liveorigin/sd-explife_480/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_EXPSC.jpg",Explorer SCI FI (TH)
+http://139.99.17.52:8081/liveorigin/sd-expsci_480/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://f.ptcdn.info/334/056/000/p4ow9vaci97tTpCwuD0-o.png",Explorer WILD (TH)
+http://139.99.17.52:8081/liveorigin/sd-expwild_480/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",AnimalPlanet (TH)
+https://www.we-play.tv/videos/สารคดี/animal-planet/
+
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://uppic.cc/d/yxDF",World Animal
+http://203.154.243.89:1201
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_214.jpg",Asian Food Network
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-asianfood/liveorigin/sd-asianfood_480/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="http://tvsmagazine.com/images/channels/lrg_RTLENT.jpg",BLUE ANT (SUB.TH)
+http://139.99.17.52:8081/liveorigin/hd-rtlcbs_720/playlist.m3u8
+
+#EXTINF:-1 group-title="EDUCATION"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="http://tvsmagazine.com/images/channels/lrg_XZYTE.jpg",XZYTE HD (TH)
+http://139.99.17.52:8081/liveorigin/hd-xzyte_720/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music
+http://dootvthai-hd.com/cmd/api/true/TRUE-MUSIC-HD/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1482.1508556245.png",MTV LiveHD
+http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/yx3B",MTV Now
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png",Channel V (CN)
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://kliktv.rs/channels/pink_hits.png",Pink HITS
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/812
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://upload.wikimedia.org/wikipedia/th/5/52/Very-Logo.png",True Very
+http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb1E_kXaYNL4Z01FXB5E4YXtGCrvjr2Q_X7Q&usqp=CAU",DEE JAY
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/yx3m",FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/yxus",Modeling
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/yx3f",AMAZING HD
+https://ktu.ktuiptvapp.com/8888/amazing.mkv
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Lifetime_logo_2020.svg/1280px-Lifetime_logo_2020.svg.png",LIFE TIME
+http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3c46870c-8069-494f-a3c4-4f878e7c348e.png",ThaiThai
+http://160.119.77.50/iptv/sd-thaithai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/ywBc",Sabaidee Tv
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo="https://uppic.cc/d/ywCw",Fan Tv
+http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://cartoon.mthai.com/app/uploads/2012/02/anigif.gif",Cartoon Club (TH)
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://uppic.cc/d/yx2Y",Gang Cartoon (TH)
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://uppic.cc/d/yx2e",Boomerang (TH)
+http://203.154.243.31:8081/live/boomerrang/index.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-disneyxd.png",Disney XD (TH)
+http://160.119.77.50/iptv/hd-disneyxd.stream/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/30cb13b7-d265-44f7-9ad4-55395469bb0a.png",TRUE SPARKJUMP (TH)
+http://160.119.77.50/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",True Spark Play (TH)
+http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://img.favpng.com/6/2/22/cartoon-network-logo-television-animation-png-favpng-jF9k1jvBqM6MHRGhfccY0VccJ.jpg",CartoonNetwork HD(TH)
+http://27.254.149.109:8081/tumlive/Cartoonnetwork/chunks.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png",CBeebies 
+http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="CARTOON"tvg-logo="https://uppic.cc/d/yx2X",FWTOON
+https://www.fwiptv.cc/player_demo.php?channel=89780
+
+
+
+
+
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw71",EFM
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://greenwave.fm/2018/images/share/default.jpg",Greenwave
+http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yxnY",BIG FM
+https://cdn-th.login.in.th/bigfm/bigfm/chunklist_w1948352313.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7j",Virgin Hitz
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-High/chunklist_w1373688195.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7g",Chill FM
+http://real4.atimemedia.com/chill
+#EXTINF:-1 group-title="Radio"tvg-logo="https://1.bp.blogspot.com/-F43aAt-NRus/V_DVPaWUHKI/AAAAAAAAACo/FlRs9LQNhKkaDCREqdfILD_DKt2dgpHwQCLcB/s1600/930-cool-fm-full.jpg",Cool 93FM
+http://111.223.51.7:8100/;stream/1
+#EXTINF:-1 group-title="Radio"tvg-logo="https://www.coolzaa.com/wp-content/uploads/2018/06/98-EDS.jpg",EDS
+https://cdn-th2.login.in.th/shoutcast/1290
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw72",FMone
+https://fmone.plathong.net/7010/;stream.mp3
+#EXTINF:-1 group-title="Radio"tvg-logo="https://img.youtube.com/vi/9ryd1wPtxaE/0.jpg",CAT RADIO
+http://111.223.37.195/CatRadio/CatRadio-High/chunklist_w913767954.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/fung-fung-fung.png",FUNG X 3
+http://link2.onair.network:8006/stream/1/
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yx1r",NEW SONGS
+http://112.121.150.133:8020/stream
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yx1P",OLD SONGS
+http://112.121.150.133:8022/stream
+
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7H",met107
+https://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/chunklist_w136409516.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7o",Flex 102.5
+https://wzorigin.becteroradio.com/Flex/flex-radio2/playlist.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7n",Mellow 97.5
+https://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio"tvg-logo="https://uppic.cc/d/yw7p",Eazy FM
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-High/chunklist_w1159801034.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Radio HATYAI"tvg-logo="https://i.ibb.co/xmqhLvb/art-41942416.jpg",BAANMAI RADIO 
+https://radio11.plathong.net/7590/;stream.mp3
+#EXTINF:-1 group-title="Radio HATYAI"tvg-logo="https://i.ibb.co/1Rk8FWh/unnamed.jpg",94FM club
+http://ns13.revoproject.com:8000/94fmclub
+#EXTINF:-1 group-title="Radio HATYAI"tvg-logo="https://i.ibb.co/VSxX790/unnamed.png",Color Music
+http://stream.radiojar.com/argepg185qzuv
+#EXTINF:-1 group-title="Radio HATYAI"tvg-logo="https://uppic.cc/d/yw7V",Smart Radio
+http://live3.smartbomb.co.th:8842/;stream.mp3?1597740879529
+#EXTINF:-1 group-title="Radio HATYAI"tvg-logo="https://www.fungplern.com/uploads/webbanner/d69Rn1540454606.jpg",93MASS FM
+http://112.121.150.133:9390/live
+
+
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582525994_frozen-ii_4k.jpg",ผจญภัยปริศนาราชินีหิมะ 4K Frozen II 4K
+
+https://cache-movie.akaanime.com/hls/content/nas01/mvc/m/4k/Frozen-Ii/Frozen-Ii_T.mp4/index.m3u8?st
+
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1585899225_bloodshot_cover.jpg",จักรกลเลือดดุ 4K Bloodshot 4K
+
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Bloodshot/Bloodshot_T.mp4/index.m3u8?st
+
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1597748190_12-monkeys_covdf.jpg",โปรเจคท์ พาวเวอร์ พลังลับพลังฮีโร่ 4K Project Power 4K
+
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Project-Power_2020/Project-Power_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1552979089_edge-of-tomorrow_4k.jpg",ซูเปอร์นักรบดับทัพอสูร 4K Edge of Tomorrow 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Edge-Of-Tomorrow/Edge-Of-Tomorrow_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1593676340_in-the-heart-of-the-sea_cover.jpg",หัวใจเพชฌฆาตวาฬมหาสมุทร 4K In the Heart of the Sea 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/In-The-Heart-Of-The-Sea/In-The-Heart-Of-The-Sea_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569471478_cold-pursuit_cover.jpg",แค้นลั่นนรก 4K Cold Pursuit 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Cold-Pursuit/Cold-Pursuit_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/06a4677505c84de3e747f0ba8cbc041c.jpg",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์ 4K The Martian 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/The-Martian/The-Martian_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1588665622_ip-man-4_cover4.jpg",ยิปมัน 4 4K Ip Man 4 The Finale 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Ip-Man-4-The-Finale/Ip-Man-4-The-Finale_T.mp4/index.m3u8?st#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1591685803_top-gun-1986_into.jpg",ท็อปกัน ฟ้าเหนือฟ้า 4K Top Gun (1986) 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Top-Gun-1986/Top-Gun_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1590741995_u-establish_cover.jpg",นาจา 4K Ne Zha 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/Ne-Zha/Ne-Zha_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1590741769_the-invisible-man_cover.jpg",มนุษย์ล่องหน 4K The Invisible 4K
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/4K/The-Invisible-Man/The-Invisible-Man_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1590129113_sonic-the-hedgehog_cover4.jpg",โซนิค เดอะ เฮดจ์ฮ็อก 4K Sonic the Hedgehog 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Sonic-the-Hedgehog/Sonic-the-Hedgehog_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580366997_troop-zero_cover21.jpg",Troop Zero 4K Troop Zero 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Troop-Zero/Troop-Zero_eng.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1583825549_up-2009_cover.jpg",ปู่ซ่าบ้าพลัง up 2009 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Up-2009/Up-2009_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580367216_james-bond-007-tomorrow-never-dies_cover4.jpg",พยัคฆ์ร้ายไม่มีวันตาย 1997 4K Tomorrow Never Dies 007 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Tomorrow-Never-Dies/Tomorrow-Never-Dies_eng.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580800789_boyz-n-the-hood_cdf2.jpg",ลูกผู้ชายสายพันธุ์ระห่ำ 4K Boyz n the Hood 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Boyz-N-The-Hood/Boyz-N-The-Hood_eng.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1583825961_beauty-and-the-beast_cover.jpg",โฉมงามกับเจ้าชายอสูร 4K Beauty And The Beast
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Beauty-And-The-Beast/Beauty-And-The-Beast_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580974234_ford-v-ferrari_cover.jpg",ใหญ่ชนยักษ์ ซิ่งทะลุไมล์ 4K ford v ferrari 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Ford-V-Ferrari/Ford-V-Ferrari_eng.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579503967_gemini-man_cover.jpg",เจมิไนแมน 4K Gemini Man 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Gemini-Man/Gemini-Man_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1583901261_knives-out_cover4.jpg",ฆาตกรรมหรรษา ใครฆ่าคุณปู่ 4K Knives Out 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Knives-Out/Knives-Out_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579504200_joker_cover4k.jpg",โจ๊กเกอร์ 4K Joker 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/joker/joker_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584087470_a-bug_civer.jpg",ตัวบั๊กส์ หัวใจไม่บั๊กส์ 4K A Bug s Life 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/A-Bugs-Life-1998/A-Bugs-Life-1998_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579504670_different-directions_cover.jpg",มาเลฟิเซนต์ นางพญาปีศาจ 2 4K Maleficent Mistress of Evil 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Maleficent-Mistress-of-Evil/Maleficent-Mistress-of-Evil_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579502853_reedo_cover.jpg",6 ลับดับโหด 4K 6 Underground 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/6-Underground/6-Underground_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579502621_gods-of-egypt_cover4.jpg",สงครามเทวดา 4K Gods of egypt 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Gods-Of-Egypt/Gods-Of-Egypt_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580366772_terminator_cover4.jpg",ฅนเหล็ก วิกฤตชะตาโลก 4K Terminator Dark Fate 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Terminator-Dark-Fate/Terminator-Dark-Fate_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584087755_jumanji-3-the-next-level_cover.jpg",เกมดูดโลก ตะลุยด่านมหัศจรรย์ 4K Jumanji The Next Level 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Jumanji-The-Next-Level/Jumanji-The-Next-Level_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579502964_the-5th-wave_cover.jpg",อุบัติการณ์ล้างโลก 4K The 5th Wave 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-5Th-Wave/The-5Th-Wave_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579503767_mild_cover.jpg",เมซ รันเนอร์ ไข้มรณะ 4K Maze Runner 3 The Death Cure 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-Maze-Runner-1-3/Maze-Runner-3_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579503472_-maze-runner-cvoer.jpg",เมซ รันเนอร์ สมรภูมิมอดไหม้ 4K Maze Runner The Scorch Trials 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-Maze-Runner-1-3/Maze-Runner-2_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582188441_dragged-across-concrete_clver4k.jpg",สองระห่ำ ล่าปล้นโหด 4K Dragged Across Concrete 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Dragged-Across-Concrete/Dragged-Across-Concrete_eng.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582526193_doctor-sleep_cover.jpg",ลางนรก 4K Doctor Sleep 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Doctor-Sleep/Doctor-Sleep_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582606420_midway_cover.jpg",อเมริกา ถล่ม ญี่ปุ่น 4K Midway 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Midway/Midway_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579766246_the-jungle-book_cover.jpg",เมาคลีลูกหมาป่า 2016 4K The Jungle Book 2016 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-Jungle-Book/The-Jungle-Book_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582606217_jojo-rabbit-poster.jpg",Jojo Rabbit 4K Jojo Rabbit 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Jojo-Rabbit/Jojo-Rabbit_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584513933_spies-in-disguise_cover.jpg",ยอดสปายสายพราง 4K Spies in Disguise 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Spies-In-Disguise/Spies-In-Disguise_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1582871588_interest_cover.jpg",ชนชั้นปรสิต 4K Parasite 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Parasite/Parasite_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579854289_the-accountant_cover.jpg",อัจฉริยะคนบัญชีเพชฌฆาต 4K The Accountant 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-Accountant/The-Accountant_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579854473_the-aeronauts_over5.jpg",The Aeronauts 4K The Aeronauts 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/The-Aeronauts/The-Aeronauts_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1586343408_birds-of-prey_cover.jpg",ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Birds-Of-Prey/Birds-of-Prey_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584514177_motherless-brooklyn_xover2.jpg",สืบกระตุก โค่นอิทธิพลมืด 4K Motherless Brooklyn 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Motherless-Brooklyn/Motherless-Brooklyn_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1583315746_charlie_cover.jpg",นางฟ้าชาร์ลี 2019 4K Charlies Angels	2019 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/move/Charlie-s-Angels/Charlies-Angels_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1589355114_47-ronin_cover4.jpg",มหาศึกซามูไร 4K 47 Ronin 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/47-Ronin/47-Ronin_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1580367486_i-am-legend_cover.jpg",ข้าคือตำนานพิฆาตมหากาฬ 4K I Am Legend 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/I-Am-Legend/I-Am-Legend_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1588668260_man-of-steel_bg4.jpg",บุรุษเหล็กซูเปอร์แมน 4K Man of Steel 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Man-Of-Steel/Man-Of-Steel_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1585899398_dolittle_cover.jpg",ด็อกเตอร์ ดูลิตเติ้ล 4K Dolittle 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Dolittle/Dolittle_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1586234253_untitled-1bad-boys-for_cover.jpg",คู่หูตลอดกาล ขวางทางนรก 4K Bad Boys For Life 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Bad-Boys-For-Life/Bad-Boys-for-Life_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584685414_mary-poppins-returns_cover.jpg",แมรี่ ป๊อบปิ้นส์ กลับมาแล้ว 4K Mary Poppins Returns 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Mary-Poppins-Returns/Mary-Poppins-Returns_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584685084_star-wars-ix-the-rise-of-skywalker_cover4.jpg",สตาร์ วอร์ส กำเนิดใหม่สกายวอล์คเกอร์ 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Star-Wars-Episode-Ix/The-Rise-Of-Skywalker_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1586772135_starship-troopers_cover.jpg",สงครามหมื่นขา ล่าล้างจักรวาล 1997 4K Starship Troopers 1997 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Starship-Troopers-1997_eng/Starship-Troopers-1997_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1584685251_egimen_cover.jpg",1917 4K 1917 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/1917/1917_S-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575364280_pursued_cover.jpg",ผ่ายุทธการ ดับแผนอหังการ์ 4K Angel Has Fallen 4K
+https://cache-movie.akaanime.com/hls/content/nas01-1/mvc/m/4k/Angel-Has-Fallen/Angel-Has-Fallen_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1553675196_triple-frontier.jpg",ปล้น ล่า ท้านรก 4K Triple Frontier 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Triple-Frontier/Triple-Frontier_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1579766626_volved-zombie_cover.jpg",ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้ 4K Zombieland Double Tap 4K
+http://43.255.241.165:1935/4k/Zombieland4K-th.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575873318_tt0076786_cover.jpg",ดวงอาถรรพ์ 4K Suspiria 1977 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Suspiria-1977/Suspiria-1977_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575873020_it-chapter-two_cover.jpg",อิท โผล่จากนรก 2 4K It Chapter Two 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/It-Chapter-Two/It-Chapter-Two_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575442719_once-upon-a-time-in-hollywood_cover.jpg",กาลครั้งหนึ่งใน...ฮอลลีวู้ด 4K Once Upon a Time in Hollywood 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Once-Upon-A-Time-In-Hollywood/Once-Upon-A-Time-In-Hollywood_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575364480_the-irishman_cover.jpg",คนใหญ่ไอริช 4K The Irishman 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Irishman/The-Irishman_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1575364004_midsommar-scene_cover.jpg",เทศกาลสยอง 4K Midsommar 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Midsommar/Midsommar_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574838736_testetttest.jpg",จูแมนจี้ เกมดูดโลกมหัศจรรย์ 1995 4K Jumanji 1995 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Jumanji-1995/Jumanji-1995_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574838669_vfvfvvf.jpg",มีอากับมิตรภาพมหัศจรรย์ 4K Mia and the White Lion 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Mia-And-The-White-Lion/Mia-And-The-White-Lion_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574838645_fddffdsdfdfdf.jpg",ไต่ระห่ำนรก 1993 4K Cliffhanger 1993 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Cliffhanger-1993/Cliffhanger-1993_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1537844392_batman-v-superman_cover.jpg",ซูเปอร์แมน แสงอรุณแห่งยุติธรรม 4K Batman v Superman Dawn of Justice 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Batman-V-Superman/Batman-V-Superman_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574055279_fast-and-furious-hobbs-and-shaw-psoter_cover.jpg",เร็ว...แรงทะลุนรก ฮ็อบส์ & ชอว์ 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Hobbs-And-Shaw/Hobbs-And-Shaw_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574054956_in-time_cdor.jpg",ล่าเวลาสุดนรก 4K in time 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/in-time/in-time_T.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573533646_tron-legacy_cover.jpg",ทรอน ล่าข้ามโลกอนาคต 4K TRON Legacy 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Tron-Legacy/Tron-Legacy_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574054711_the-mummy_cddfff5.jpg",เดอะ มัมมี่ คืนชีพจักรพรรดิมังกร ภาค 3 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Mummy-Tomb-Of-The-Dragon-Emperor/The-Mummy-Tomb-Of-The-Dragon-Emperor_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574054609_the-mummy_cd5f5d.jpg",เดอะมัมมี่ รีเทิร์น ฟื้นชีพกองทัพมัมมี่ล้างโลก ภาค 2 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Mummy-Returns-2001/The-Mummy-Returns-2001_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1574054486_the-mummy-2017_bg.jpg",เดอะ มัมมี่ 2017 4K The Mummy 2017 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Mummy-2017/The-Mummy-2017_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573631949_the-mummy-199c_over.jpg",เดอะ มัมมี่ คืนชีพคำสาปนรกล้างโลก ภาค 1 1999 4K The Mummy 1999 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Mummy-1999/The-Mummy-1999_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573631816_big-hero-6_cover.jpg",บิ๊กฮีโร่ 6 4K Big Hero 6 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Big-Hero-6/Big-Hero-6_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573631369_the-shallows_cover.jpg",นรกน้ำตื้น 4K The Shallows 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Shallows/The-Shallows_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573631190_the-king2_cover.jpg",เดอะ คิง 4K The King 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-King-2019/The-King-2019_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571898383_stuber_cover1.jpg",สตูเบอร์ เรียกเก๋งไปจับโจร 4K Stuber 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Stuber/Stuber_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1573197434_san-andreas_cover.jpg",ซานแอนเดรส มหาวินาศแผ่นดินแยก 4K San Andreas 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/San-Andreas/San-Andreas_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572927287_terminator-4-salvation_cover.jpg",ฅนเหล็ก 4 มหาสงครามจักรกลล้างโลก 4K Terminator 4 Salvation 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Terminator-Salvation-2009/Terminator-Salvation-2009_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572927086_zero-dark-thirty_cover.jpg",ยุทธการถล่ม บิน ลาเดน 4K Zero Dark Thirty 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Zero-Dark-Thirty/Zero-Dark-Thirty_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572580379_fddsfdf_coverfd.jpg",เยสเตอร์เดย์ 4K yesterday 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Yesterday/Yesterday_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572507939_red-heat_cover4k.jpg",คนแดงเดือด 4K Red Heat 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Red-Heat/Red-Heat-1988_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572507758_zootopia_xcover.jpg",ซูโทเปีย นครสัตว์มหาสนุก 4K Zootopia 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Zootopia/Zootopia_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1572507606_official_cover.jpg",นางฟ้าชาร์ลี 4K Charlies Angels 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Charlies-Angels/Charlies-Angels_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571998590_untitled-144444.jpg",โคตรคนตัดคมมาเฟีย 4K American Gangster 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/American-Gangster/American-Gangster_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571985264_the-lion-king-2019_cover.jpg",เดอะ ไลอ้อน คิง 4K The Lion King 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Lion-King/The-Lion-King_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571905703_io-2019_cover.jpg",ผู้ยืนหยัดคนสุดท้าย 4K IO 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Io-2019/Io-2019_S.mp4/index.m3u8?st#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571726491_in-the-shadow-of-the-moon_cover1.jpg",ย้อนรอยจันทรฆาต 4K In the Shadow of the Moon 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/In-The-Shadow-Of-The-Moon/In-The-Shadow-Of-The-Moon_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571726205_el-camino_cover.jpg",เอล คามิโน่ ดับเครื่องชน คนดีแตก 4K El Camino A Breaking Bad Movie 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/El-Camino/El-Camino_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571725907_justice-league_cover.jpg",จัสติซ ลีก 4K Justice League 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Justice-League/Justice-League_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571286420_scarface_cover.jpg",มาเฟียหน้าบาก 4K Scarface 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Scarface/Scarface_T.mp4/index.m3u8?st#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571286149_shaft_cover.jpg",แชฟท์ เลือดตำรวจพันธุ์ดิบ 4K Shaft 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Shaft/Shaft_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571284698_apollo-13-movie_cover.jpg",อพอลโล 13 ผ่าวิกฤตอวกาศ 4K Apollo 13 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Apollo-13/Apollo-13_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571121746_pans-labyrinth_cover.jpg",อัศจรรย์แดนฝัน มหัศจรรย์เขาวงกต 4K Pans Labyrinth 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Pans-Labyrinth/Pans-Labyrinth_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571116051_the-dark-knight-rises_cover.jpg",แบทแมน อัศวินรัตติกาลผงาด 4K Batman The Dark Knight Rises 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Dark-Knight-Rises/The-Dark-Knight-Rises_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1571115747_the-dark-knight-2008_cover.jpg",แบทแมน อัศวินรัตติกาล 4K Batman The Dark Knight 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-Dark-Knight/The-Dark-Knight_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570682512_toy-story-4_cover.png",ทอย สตอรี่ 4 4K Toy Story 4 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Toy-Story-4/Toy-Story-4_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569997030_the-legend-of-tarzancvoer.jpg",ตำนานแห่งทาร์ซาน 4K The Legend of Tarzan 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/The-legend-of-tarzan/The-legend-of-tarzan_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570682795_untitled-187787dfdf.jpg",ล็อคอำมหิต 4K Lock Up 1989 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Lock-Up-1989/Lock-Up-1989_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570602674_gremlins-1984_cover.jpg",เกรมลินส์ ปีศาจซน 4K Gremlins 1984 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Gremlins-1984/Gremlins-1984_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569471680_hot-fuzz_cover.jpg",อัจฉริยะหน้าเห่ย 4K Hot Fuzz 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Hot-Fuzz/Hot-Fuzz_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570508866_doctor-strange-4k_cover.jpg",ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ 4K Doctor Strange 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Doctor-Strange/Doctor-Strange_T-1.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1570096982_anna-4k.jpg",แอนนา สวยสะบัดสังหาร 4K Anna 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/anna/anna_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569997460_dunkirk_cover.jpg",ดันเคิร์ก 4K Dunkirk 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Dunkirk/Dunkirk_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569997184_suicide-squad_cover.jpg",ทีมพลีชีพมหาวายร้าย 4K Suicide Squad 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Suicide-squad/Suicide-squad_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569996917_jigsaw_cover.jpg",เกมต่อตัดตาย 4K Jigsaw 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Jigsaw/Jigsaw_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569471764_interstellar.jpg",อินเตอร์สเตลลาร์ ทะยานดาวกู้โลก 4K Interstellar 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Interstellar/Interstellar_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1569219842_spider-man-far-from-home_cover.jpg",สไปเดอร์-แมน ฟาร์ ฟรอม โฮม 4K Spider-Man Far From Home 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Spider-man-far-from-hom/Spider-man-far-from-hom_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568960505_braveheart_covret.jpg",วีรบุรุษหัวใจมหากาฬ 1995 4K Braveheart 1995 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Braveheart/Braveheart_S.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1566889409_brightburn_cover2.jpg",เด็กพลังอสูร 4K Brightburn 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Brightburn/Brightburn_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568961197_john-wick-chapter-3_cover.jpg",จอห์น วิค แรงกว่านรก 3 4K John Wick Chapter 3 Parabellum 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/John-wick-chapter-3/John-wick-chapter-3_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568960954_nick-frost_cvd.jpg",รุ่งอรุณแห่งความวาย 4K shaun of the dead 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Shaun-of-the-Dead/Shaun-of-the-Dead_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568960651_daybreakers_cover.jpg",วันแวมไพร์ครองโลก 4K Daybreakers 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Daybreakers/Daybreakers_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568960398_hellboy-2019_cover.jpg",เฮลล์บอย 4K Hellboy 2019 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Hellboy/Hellboy_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568276173_dfddgfdgfdgf.jpg",x-เม็น ดาร์ก ฟีนิกซ์ 4K X-Men Dark Phoenix 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/X-MenDark-Phoenix/X-MenDark-Phoenix_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568275498_aladdin_cover.jpg",อะลาดิน 2019 4K Aladdin 2019 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Aladdin/Aladdin_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",เซฟวิ่ง ไพรเวท ไรอัน ฝ่าสมรภูมินรก 4K Saving Private Ryan 1998 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Saving-private-ryan/Saving-private-ryan_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1567581186_kingsman-the-golden-circle_cover.jpg",คิงส์แมน รวมพลังโคตรพยัคฆ์ 4K Kingsman The Golden Circle 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Kingsman-The-Golden-Circle/Kingsman-The-Golden-Circle_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1567155780_godzilla-king-of-the-monsters_cover.jpg",Godzilla II King of the Monsters 4K ก็อดซิลล่า 2 ราชันแห่งมอนสเตอร์ 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Godzilla-king-of-the-monsters/Godzilla-king-of-the-monsters_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1567155535_men-in-black-international_cover.jpg",เอ็มไอบี หน่วยจารชนสากลพิทักษ์โลก 4K Men in Black International 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Men-in-black-international/Men-in-black-international_T.mp4/index.m3u8?st
+#EXTINF:-1 group-title="MOVIE 4K"tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1566889588_rocketma_cover2.jpg",ร็อคเกตแมน 4K Rocketman 4K
+https://cache-movie.akaanime.com/hls/content/nas04/mvc/m/4k/Rocketman/Rocketman_T.mp4/index.m3u8?st
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/14zp2m7y2g3k040cg8.jpg",The Swan Princess: A Royal Wedding
+https://www.doonung1234.com/movie/view/1344/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1syej3zyjz1cgsk08.jpg",Scoob! (2020)
+https://www.doonung1234.com/movie/view/1343/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1xgqqlo22plw00kogg.jpg",ดราก้อน เควสท์: ชี้ชะตา
+https://www.doonung1234.com/movie/view/1333/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/12qa92pm69pw8cksso.jpg",STARDOG AND TURBOCAT
+https://www.doonung1234.com/movie/view/1330/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2007vqt9zu3o00g0s0.jpg",ซุมิกโกะ ผจญภัยมหัศจรรย์ในโลกนิทาน
+https://www.doonung1234.com/movie/view/1323/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2ubh7yuxad4w0okocg.jpg",ชินจัง เดอะมูฟวี่ ตอน ฮันนีมูนป่วนแดนจิงโจ้
+https://www.doonung1234.com/movie/view/1318/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ophbq9xtm4gw0owwcs.jpg",The Hater เดอะ เฮทเตอร์
+https://www.doonung1234.com/movie/view/1316/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/t6p4q0rltq84skgkwo.jpg",ลาเต้ผจญภัยกับศิลาแห่งสายน้ำ
+https://www.doonung1234.com/movie/view/1315/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/98bss7016i8sossoo.jpg",Hello World เธอ.ฉัน.โลก.เรา
+https://www.doonung1234.com/movie/view/1313/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2tzv1lmts4yskws4ks.jpg",ลาร์วาผจญภัยบนเกาะหรรษา
+https://www.doonung1234.com/movie/view/1301/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/paa83gsh2mo808g8.jpg",Animal Crackers มหัศจรรย์ละครสัตว์
+https://www.doonung1234.com/movie/view/1300/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2e7od60q8bk0soswoo.jpg",Trolls World Tour โทรลล์ส เวิลด์ ทัวร์
+https://www.doonung1234.com/movie/view/1290/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/opgthxxbso0kkkswg.jpg",My Hero Academia: Heroes Rising
+https://www.doonung1234.com/movie/view/1289/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/60w2f2579ososw8080.jpg",Children of the Sea
+https://www.doonung1234.com/movie/view/1287/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/104571ih6gjkw4c8g0.jpeg",Ne Zha นาจา
+https://www.doonung1234.com/movie/view/1244/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/fdu9h7mhylsss004kw.jpg",ฤดูฝัน ฉันมีเธอ
+https://www.doonung1234.com/movie/view/1222/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/7urg1y24vxsskg4w4c.jpeg",Onward คู่ซ่าล่ามนต์มหัศจรรย์
+https://www.doonung1234.com/movie/view/1215/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9x2nr0xie0owk88gc4.jpg",วิลโลบี้ สี่พี่น้องผจญภัย
+https://www.doonung1234.com/movie/view/1210/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/16hw8lu025c08wocs8.png",เลโก้ จูราสสิค เวิลด์ : ผจญภัยไดโนเสาร์ตัวร้าย
+https://www.doonung1234.com/movie/view/1163/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/7tds1ywlmbcw08sk8s.jpg",ทอยสตอรี่ ตอนพิเศษ คริสมาสต์ 2014
+https://www.doonung1234.com/movie/view/1141/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/34n4457c0m4g08c4sg.png",Toy Story of Terror 2013
+https://www.doonung1234.com/movie/view/1133/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ny7v1phpvo08ks04c.png",Toy Story 2
+https://www.doonung1234.com/movie/view/1132/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/bx23mfyajrscc0c8s4.png",Toy Story 1
+https://www.doonung1234.com/movie/view/1131/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3dnzdx1oqni88g4k08.jpg",วันพีซ เดอะมูฟวี่ สแตมปีด
+https://www.doonung1234.com/movie/view/1068/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/36n0sxgr0ask8k0ogg.png",Godzilla: The Planet Eater
+https://www.doonung1234.com/movie/view/1027/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2xrgjmkkd9wkcg44w4.png",Smallfoot สมอลล์ฟุต
+https://www.doonung1234.com/movie/view/1019/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/mpnmnyooy5wcccsk4c.png",Mazinger Z Infinity สงครามหุ่นเหล็กพิฆาต
+https://www.doonung1234.com/movie/view/999/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/de6hqi3m3zwcc440ww.png",Constantine City of Demons
+https://www.doonung1234.com/movie/view/973/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/mw0bxh5c0ms8wg4g4w.png",The Guardian Brothers พี่น้องผู้พิทักษ์
+https://www.doonung1234.com/movie/view/959/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2yizlghnhnokkwoc8w.png", โดราเอมอน ตอน คาชิ-โคชิ การผจญภัย
+https://www.doonung1234.com/movie/view/950/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1lz7a85sub404g8k8w.png",Incredibles 2 รวมเหล่ายอดคนพิทักษ์โลก 2 
+https://www.doonung1234.com/movie/view/948/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/26ngejbvastcccskwo.png",Batman Ninja แบทแมน นินจา
+https://www.doonung1234.com/movie/view/945/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/26ngejbvastcccskwo.png",Hotel Transylvania 3
+https://www.doonung1234.com/movie/view/940/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/57px8d7vozs44wcow.png",Zootopia ซูโทเปีย
+https://www.doonung1234.com/movie/view/924/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/x645le8vbxcgs4wk0s.png",The Snow Queen (2012) สงครามราชินีหิมะ
+https://www.doonung1234.com/movie/view/922/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/718gb6ozxpgk4k080c.png",Monster Family ครอบครัวตัวป่วนก๊วนปีศาจ
+https://www.doonung1234.com/movie/view/895/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/40o7nrqyrmgwsss4w8.png",Next Gen
+https://www.doonung1234.com/movie/view/889/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1ek8vazmndokkkssgc.png",Muay Thai: 9 Satra | 9 ศาสตรา
+https://www.doonung1234.com/movie/view/886/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3iddsutc85wk4k48go.png",ทีมฆ่าตัวตาย: นรกจ่าย
+https://www.doonung1234.com/movie/view/880/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/31qbkbybpuw488ss8k.png",ก็อดซิลล่า สงครามใกล้ปะทุ
+https://www.doonung1234.com/movie/view/878/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qif3gbpy0j4oc4gcgc.png",Sherlock Gnomes เชอร์ล็อค โนมส์
+https://www.doonung1234.com/movie/view/872/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/6e4dmgqpchs0w84g0o.png",ไอลย์ ออฟ ด็อกส์ เกาะเซ็ตซีโร่หมา
+https://www.doonung1234.com/movie/view/853/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1zsik9d6rtlws4g8gk.png",Fireworks ระหว่างเรา และดอกไม้ไฟ
+https://www.doonung1234.com/movie/view/850/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/34zpgoq6anwg8gw44s.png",ภาพสุดท้ายของแวนโก๊ะ
+https://www.doonung1234.com/movie/view/844/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/34pr1s40u2qscwk0c4.png",ความตายของซูเปอร์แมน
+https://www.doonung1234.com/movie/view/829/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/igzn187ckqo0sgo88g.png",บิ๊กฟุต ภารกิจเซฟพ่อ
+https://www.doonung1234.com/movie/view/821/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3rr6sv66weg4kcw0ok.png",Duck Duck Goose
+https://www.doonung1234.com/movie/view/820/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/kza85x9u4e8w44c4wc.png",White Fang
+https://www.doonung1234.com/movie/view/807/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/idpkve39mm0wws0ckg.png",แก๊งค์สาว ดีซีซูเปอร์ฮีโร่: ศึกกีฬาแห่งจักรวาล
+https://www.doonung1234.com/movie/view/805/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2piya9lj6g008ocgwc.png",สคูบี้-ดู กับ 13 ผีคดีกุ๊ก ๆ กู๋
+https://www.doonung1234.com/movie/view/604/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/w3yaqohrez48gss4w.png",Ralph 2 ราล์ฟตะลุยโลกอินเทอร์เน็ต
+https://www.doonung1234.com/movie/view/601/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/68pysdwboh8o0sgcs.jpg",ทีมมังกรผู้พิทักษ์: ล่ามังกรทองคำ
+https://www.doonung1234.com/movie/view/574/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/cqhnlv0nq28sc44sss.jpg",ยอดสปายสายพราง
+https://www.doonung1234.com/movie/view/573/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/etnpvryr75s08o0k44.jpg",ซูปเปอร์แมน: เรดซัน บุรุษเหล็กเผด็จการ
+https://www.doonung1234.com/movie/view/572/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/iawfqj5tep4ogc4w0g.jpg",เจ้าหนูกังฟูดุ๊กดิ๊กพิชิตสงครามราเม็ง
+https://www.doonung1234.com/movie/view/537/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ucigqdan6xw4s08kgw.jpeg",Frozen II โฟรเซ่น 2 ผจญภัยปริศนาราชินีหิมะ
+https://www.doonung1234.com/movie/view/520/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/grhzohg2e8004ss04c.png",Early Man เออร์ลี่ แมน
+https://www.doonung1234.com/movie/view/475/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/is5uwaaa2lkoskgc8w.png",The Grinch เดอะ กริ๊นช์
+https://www.doonung1234.com/movie/view/470/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8j1uvbj32hcs84cok.png",ทีน ไททันส์ โก ฮีโร่วัยเกรียน
+https://www.doonung1234.com/movie/view/453/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/23oc8v4etfs0g4wk8.png",สไปเดอร์-แมน: ผงาดสู่จักรวาล-แมงมุม
+https://www.doonung1234.com/movie/view/451/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/bvpiu1ybizccw84k4.png",จัสติซ ลีก ปะทะ ห้าอสูรกาย
+https://www.doonung1234.com/movie/view/446/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/rzlwut7tgqo08kwgg.png",โดราเอม่อน เดอะมูฟวี่: ตอน เกาะมหาสมบัติของโนบิตะ
+https://www.doonung1234.com/movie/view/395/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2azwfsdoiklcoogoc4.jpeg",ดราก้อนบอล ซูเปอร์: โบรลี่
+https://www.doonung1234.com/movie/view/366/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/o37svpq8phws4os48.jpeg",เดอะ เลโก้ มูฟวี่ 2
+https://www.doonung1234.com/movie/view/364/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1ybrccb4hie8cg8c8c.jpeg",อภินิหารไวกิ้งพิชิตมังกร 3
+https://www.doonung1234.com/movie/view/352/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/yzlbl75l64g4c488g.jpeg",Mobile Suit Gundam Narrative
+https://www.doonung1234.com/movie/view/291/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2az2dmsc4twkwkkos.jpeg",ซิตี้ฮันเตอร์ สายลับคาสโนเวอร์
+https://www.doonung1234.com/movie/view/274/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1prerkx4e7wg8wgs0k.jpeg",Wonder Park สวนสนุกสุดอัศจรรย์
+https://www.doonung1234.com/movie/view/254/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/b0kpukf2an4gk888og.jpeg",เรื่องลับแก๊งขนฟู 2
+https://www.doonung1234.com/movie/view/192/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2ybw9dsyskqo0okswo.jpeg",Mirai มิไร มหัศจรรย์วันสองวัย
+https://www.doonung1234.com/movie/view/190/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/vh2dtasudhc4ggo8kk.jpeg",ยอดนักสืบจิ๋วโคนัน: ศึกชิงอัญมณีสีคราม
+https://www.doonung1234.com/movie/view/156/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/6rcibduewvswg84kwg.jpeg",วันหนึ่งฉันเจอเพนกวิน
+https://www.doonung1234.com/movie/view/144/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/36i59dmbb1icco4kcs.jpeg",The Queen's Corgi จุ้นสี่ขา หมาเจ้านาย
+https://www.doonung1234.com/movie/view/143/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/b6rutgks9fcw4g000o.jpeg",The Lion King เดอะ ไลอ้อน คิง
+https://www.doonung1234.com/movie/view/140/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/u42mo6c13y844koo8c.jpeg",Toy Story 4 ทอย สตอรี่ 4 
+https://www.doonung1234.com/movie/view/130/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/aje02pbbs0wg4s0kw.jpeg",Klaus มหัศจรรย์ตำนานคริสต์มาส
+https://www.doonung1234.com/movie/view/108/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/deg4l6rorb40c408sk.jpg",Trouble ตูบทรอเบิล ไฮโซจรจัด
+https://www.doonung1234.com/movie/view/61/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/33jo4vfq7ag4sogskg.jpg",Abominable เอเวอเรสต์ มนุษย์หิมะเพื่อนรัก
+https://www.doonung1234.com/movie/view/36/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9odglvxe8vswc4koco.jpeg",Playmobil: The Movie เพลย์โมบิล เดอะ มูฟวี่
+https://www.doonung1234.com/movie/view/27/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/aas2hwf0uw0gkw4k04.jpeg",The Addams Family ตระกูลนี้ผียังหลบ
+https://www.doonung1234.com/movie/view/4/
+#EXTINF:-1 group-title="Movie Animation"tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/5e1rgw1fb544cocog0.jpg",แอ็งกรี เบิร์ดส เดอะ มูวี่ 2
+https://www.doonung1234.com/movie/view/1/
