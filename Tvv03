@@ -1,0 +1,1021 @@
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nation.png",NATION CHANNEL
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thairath.png",THAIRATH
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV HD
+http://27.254.130.64/live01/ch2.m3u8?p=st
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+http://27.254.130.64/live01/chsd_TNN_5.m3u8?p=st
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE HD
+http://dootvthai-hd.com/cmd/api/true/ONE-HD/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://mpics.mgronline.com/pics/Images/562000008783902.JPEG",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/amarin.png",AMARIN
+http://27.254.130.64:80/feed/chamarin/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://iptv36.my.to/logo/news1.png" group-title="SAT & CABLE", NEWS 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",CH3
+http://27.254.130.64/live01/ch0.m3u8?p=st
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/ch7.png",CH7
+http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
+http://dootvthai-hd.com/cmd/api/true/9MCOT-HD/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/nbt.png",NBT
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-nbt/liveorigin/sd-nbt_480/chunks.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAIPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",WORK POINT
+http://27.254.130.64/live01/ch7.m3u8?p=st
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/gmm.png",GMM25
+http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/true4u.png",TRUE4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
+http://110.164.95.230:1935/Edge_Cloudiptv_Authen/cloudiptv_monoplus_live1.stream/chunklist_w282266064.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/foxthai.png",Fox Thai
+http://tv10.chang55.com/ch08-foxthai/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxp-thai.png",FOX MOVIES PREMIUM
+http://ip2121.com:8081/live2/foxpre/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxcrime.png",FOX CRIME
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxlife.png",FOX LIFE
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxfamily.png",FOX FAMILY TH
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/foxactionmovie.png",FOX ACTION TH
+http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/axn.png",AXN
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/hbohdth.png",HBO TH
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.iptvhero.com/channel/hd-hbofamily.png",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BlueAnt Red
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://img.gta5-mods.com/q75/images/universal-pictures-intro-video/ccd069-Uten%20navn.png",Universal
+
+#EXTINF:0 group-title="Digital TV"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",WARNER TV
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.vocespettacolo.com/wp-content/uploads/2016/11/paramount.png",Paramout
+
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doohdbox.com/assets/201707090857051374451571.jpg",KIX
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg",Thrill
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://images.ufoiptv.com/channels/ch8hd.jpg",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://images.ufoiptv.com/channels/sd-mchannel.jpg",M Channel 
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",THAI Drama
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-22-061006.jpg",Zeenang
+http://27.254.130.64/live99//////////46/zeenung.m3u8?p=%20zeenung
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/truemoviehits.png", True Movie Hits
+http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True film hd
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg",True film hd2
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/truethaifilm.png",True thai film
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F6422ad5a-27f3-4d0e-b0d0-d811c1e652e0.png&w=320&h=240",True Film Asia
+http://27.254.149.109:8081/tumlive/FLA/playlist.m3u8 
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2018/12/17/afa0264a-73ac-490b-b2ce-9d8e9e372759.png&w=320&h=240",True Asian Series
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/Sky_series.jpg",SERiES+HD
+http://27.254.149.109:8081/tumlive/ipmaser.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/Sky1.jpg",Live Sky1
+http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/Sky2.jpg",Live Sky2
+http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://teevee-hd.com/img/Sky3.jpg",Live Sky3
+http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://teevee-hd.com/img/Sky4.jpg",live SKY4
+http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://sv1.picz.in.th/images/2020/07/10/5oVGub.png",UP MOVIES
+http://27.254.149.109:8081/tumlive/upmovie.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/history.png",History
+http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/h2hd.png",H2
+http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natgeo.png",NATIONAL GEOGRAPHIC
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natwild.png",NAT GEO WILD
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/natpeople.png",NAT GEO PEOPLE
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery
+http://ip2121.com:8081/live2/DISCOVERY/chunks.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg",Discovery Asia
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg",Discovery History
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg",Discovery Turbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/2017070817274340453022.jpg",Discovery Sci
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/20170721182319325982392.jpg",Mysci
+
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg",Samrujlok
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI Saradee
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbcearth.png",BBC EARTH
+http://139.99.17.52:8081/liveorigin/sd-bbcearth_720/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/42adbeee-622d-4f7e-8999-f274859fd9d6.png",True Explore Wild
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/88fdbeeb-ffbb-477f-aa10-299fde2a3707.png",True Explore Life
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://images.iptvhero.com/channel/sd-expsci.png",True Explore Science
+
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://i.pinimg.com/originals/dd/d6/d3/ddd6d3583944ecf0ef6afcc4374cd4c0.png",CNN World
+
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://static-s.aa-cdn.net/img/ios/520773971/6c5cc747ac014da70c0fb41b6101b400",CNN Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://th.bing.com/th?id=OIP.nlZTiSDYA-ZWrYdShExbBQHaHa&pid=PersonalBing&rs=1",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-bloomberg.png",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://www.doohdbox.com/assets/201707201843301291824107.jpg",Fox News
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte
+http://dootvthai-hd.com/cmd/true/true-x-zyte-hd/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/363ce850-9276-412d-b997-d1b9e8b94a8c.png",True Very
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",Fashion Show
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png",CARTOON NETWORK
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/disneyxd.png",DISNEY XD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kid" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
+#EXTINF:-1 group-title="Kid"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-nickjr.png",Nick Jr
+
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/jump.png",TRUE SPARK JUMP
+
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/play.png",TRUE SPARK PLAY
+
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/cartoonclub.png",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/gangcartoon.png",GANG CARTOON
+https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
+#EXTINF:-1 group-title="Kid"tvg-logo="https://teevee-hd.com/img/toonee.png",Toonee
+http://119.59.125.74/stream/totnew.php?channel_id=78217987edf04cc5bf92924e9666e520
+#EXTINF:-1 group-title="Kid"tvg-logo="https://www.doohdbox.com/assets/20170707172140156012597.jpg",Boomerang
+http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
+
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",PREMIER FOOTBALL HD1
+http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",PREMIER FOOTBALL HD2
+http://ip2121.com:8081/at1/ENG2/chunks.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",PREMIER FOOTBALL HD3
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",PREMIER FOOTBALL HD4
+http://ip2121.com:8081/at1/ENG4/chunks.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",PREMIER FOOTBALL HD5
+http://ip2121.com:8081/at1/ENG5/chunks.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",Bein Sports HD 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",Bein Sports HD 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsphd1.png",TRUESPORT HD
+http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsphd2.png",TRUESPORT HD2
+http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsphd3.png",TRUESPORT HD3
+http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsphd4.png",TRUESPORT HD4
+http://dootvthai-hd.com/cmd/true/truesport-HD4/playlist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsp2.png",TRUE SPORT 2
+http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsp5.png",TRUE SPORT 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsp6.png",TRUE SPORT 6
+http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://teevee-hd.com/img/tsp7.png",TRUE SPORT 7
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",ATP tennis
+http://203.154.243.89:11739/
+#EXTINF:-1 group-title="Sport"tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
+
+#EXTINF:-1 group-title="Sport"tvg-logo="https://software.thaiware.com/upload_misc/software/2017_04/thumbnails/13117_17041910254554.jpg",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Sport"tvg-logo="http://www.solarentertainmentcorp.com/solar_uploads/show_banners/World_of_Freesports_-_Logo.jpg",World Of Free sports
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://www.hdmoviesource.com/v/vspfiles/photos/12993-1.jpg",Birds Of Prey(2020)
+https://cdn175.cloud-streaming.com/4k/atmos/Birds.of.Prey.2020.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/03/4K-TheBanker.jpg",The Banker
+https://cdn175.cloud-streaming.com/4k/atmos/The.Banker.2020.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2020/03/4K-OnwardAlt3.jpg",Onward(2020
+https://cdn175.cloud-streaming.com/4k/atmos/Onward.2020.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-1917Alt.jpg",1917(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/1917.4K.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/03/4K-RiseofSkywalkerAlt5.jpg",Star Wars: The Rise of Skywalker(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Star.Wars.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-KnivesOut.jpg",Knives(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Knives.Out.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2020/03/4K-JumanjiNextLevelAlt5.jpg",Jumanji The Next Leven(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Jumanji.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-SpiesinDisguise.jpg",Spies In Disguise(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Spies.in.Disguise.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2017/12/4K-Fury.jpg",Fury(2014)
+https://cdn175.cloud-streaming.com/4k/atmos/Fury.2014.mkv
+#EXTINF:-1 goup-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-Up.jpg",Up(2009)
+https://cdn175.cloud-streaming.com/4k/atmos/Up.2009.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2019/09/4K-DaybreakersAlt.jpg",Daybreakers(2009)
+https://cdn175.cloud-streaming.com/4k/atmos/Daybreakers.2009.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-CharliesAngels2019Alt3.jpg",Charlies(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Charlies.Angels.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i2.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-Parasite.jpg",Parasite(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Parasite.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-FrozenIIAlt2.jpg",Frozen 2(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Frozen.II.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2020/01/4K-DoctorSleepAlt2.jpg",Doctor Sleep(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Sleep.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-MonstersUniversityAlt2.jpg",Monsters University(2013)
+https://cdn175.cloud-streaming.com/4k/atmos/Monsters.University.2013.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2020/01/4K-TOGOAlt.jpg",Togo(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Togo.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i0.wp.com/customcovers.me/wp-content/uploads/2019/11/4K-OnceUponHollywoodAlt.jpg",Once Upon A Time In Hollywood(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Once.Upon.a.Time.in.Hollywood.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2018/01/4K-Dredd.jpg",Dredd(2012)
+https://cdn175.cloud-streaming.com/4k/atmos/Dredd.2012.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://i1.wp.com/customcovers.me/wp-content/uploads/2020/02/4K-MidwayAlt2.jpg",Midway(2019)
+https://cdn175.cloud-streaming.com/4k/atmos/Midway.2019.mkv
+
+
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/9169UmKcn-L._AC_SL1500_.jpg",Pacific Rim(2013)
+https://4kmovie2.cloud-streaming.com/content/Pacific.Rim.2013.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/810wevRCZkL._AC_SL1500_.jpg",Pacific Rim Uprising(2018)
+http://191.96.77.198:8081/4kmovie/i/Pacific.Rim.Uprising.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/917U-oahX-L._AC_SL1500_.jpg",Transformers 1 (2007)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Transformers.2007.4K.2160p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91w7squJjnL._AC_SL1500_.jpg",Transformers 2 Revenge Of The Fallen(2009)
+https://4kmovie2.cloud-streaming.com/content/Transformers2.2009.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Hs-gVcliL._AC_SL1500_.jpg",Transformers 3 Dark Of The Moon(2011)
+https://4kmovie2.cloud-streaming.com/content/Transformers.Dark.of.the.Moon.2011.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91p46aesvML._AC_SL1500_.jpg",Transformers 4 Age Of Extinction(2014)
+https://4kmovie2.cloud-streaming.com/content/Transformers.4.2014.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91DSnFSUMAL._AC_SL1500_.jpg",Transformers 5 The Last Knight(2017)
+https://4kmovie2.cloud-streaming.com/content/Transformers.The.Last.Knight.2017.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1wEaVoiR0L._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men(2000)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/X-Men-2000-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1-7lOvDXqL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men The Last Stand(2006)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/X-Men-The-Last-Stand-2006-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1PtaeEJD0L._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men Origins Wolverine(2009)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/X-Men-4-Origins-Wolverine-2009-th-en-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91IDdtEUYfL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Man First Class(2011)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/X-Men-First-Class-2011-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1EQ7gXIzjL._AC_SX354_SY510_FMwebp_QL65_.jpg",The Wolverine(2013)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Wolverine-2013-Extended-Cut-th-en-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1TBm3QfH1L._AC_SX354_SY510_FMwebp_QL65_.jpg", X-Men Day Of Future Past(2014)
+http://cdnstream1.podzone.net:443/bluray1/4k2017/X-men-Days-of-Future-Past-2014-TH-EN-2160p-4K.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91CZs9BjGeL._AC_SX354_SY510_FMwebp_QL65_.jpg",X-Men Apocalypse(2016)
+https://4kmovie2.cloud-streaming.com/content/X-Men.Apocalypse.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91tOpnKSupL._AC_SL1500_.jpg",X-Men Dark Phoenix(2019)
+https://4kmovie2.cloud-streaming.com/content/Dark.Phoenix.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XoqHVzG1L._AC_SL1500_.jpg",Spider Man1(2002)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2002-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zcFC%2BLjfL._AC_SL1500_.jpg",Spider Man2(2004)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-2-2004-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915vKy4FdyL._AC_SL1500_.jpg",Spider Man3(2007)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-3-2007-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8132WAye7mL._AC_SL1500_.jpg",The Amazing Spider-Man(2012)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Amazing-Spider-Man-2012-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81OaKpG2pYL._AC_SL1500_.jpg",Spider Man Homecoming(2017)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Spider-Man-Homecoming-2017-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91LIALr0peL._AC_SL1500_.jpg",Spider-Man Far From Home(2019)
+https://4kmovie2.cloud-streaming.com/content/Transformers.2007.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71%2BVwyzgaaL._AC_SL1500_.jpg",Iron Man1(2008)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron-Man-2008-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Lye5wWP6L._AC_SL1500_.jpg",Iron Man2(2010)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Iron-Man-2-2010-4K-2160p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jCCBJAV-L._AC_SL1500_.jpg",Iron Man3(2013)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Iron.Man.3.2013.4K.1080p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Oe3YGQhLL._AC_SL1500_.jpg",The Avengers1(2012)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/The-Avengers-2012-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91S8HbxxbTL._SX600_.jpg",Avengers2 Age Of Ultron(2015)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Avengers-Age-of-Ultron-2015-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1aHRPvn5JL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers3 Infinity War(2018)
+https://4kmovie2.cloud-streaming.com/content/Avengers.Infinity.War.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91e9898R7QL._AC_SX354_SY510_FMwebp_QL65_.jpg",Avengers4 Endgame(2019)
+http://191.96.77.198:8081/4kmovie/i/Avengers.Endgame.2019.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91LmsuoBOIL._AC_SX354_SY510_FMwebp_QL65_.jpg", Captain America1 The First Avenger(2011)
+https://4kmovie2.cloud-streaming.com/content/Captain.America.The.First.Avenger.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91JPOLgUj2L._SX600_.jpg", Captain America2 The Winter Soldier(2014)
+http://191.96.77.198:8081/4kmovie/h/Captain.America.The.Winter.Soldier.2014.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91QeHriyBcL._SX600_.jpg",Captain America3 Civil War(2016)
+http://191.96.77.198:8081/4kmovie/h/captain.america.civil.war.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91AAWp-GlVL._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor1(2011)
+https://cdn175.cloud-streaming.com/4k/atmos/Thor.2011.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91166DmXV7L._AC_SX354_SY510_FMwebp_QL65_.jpg",Thor2 The Dark World(2013)
+https://cdn175.cloud-streaming.com/4k/atmos/Thor.The.Dark.World.2013.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DlBh6ZaWL._SX600_.jpg",Ant-Man1(2015)
+http://191.96.77.4/4kmovie/4K_holly_225_E/Ant-man.2015.4K.M.1080.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/911Gc+MRR1L._AC_SX354_SY510_FMwebp_QL65_.jpg",Ant-Man2 And The Wasp(2018)
+https://4kmovie2.cloud-streaming.com/content/Ant.Man.and.the.Wasp.2018.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/61DECJRLJfL._AC_SX354_SY510_FMwebp_QL65_.jpg",Hulk1(2003)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Hulk-2003-Bluray-1080p.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91wFHajfFpL._AC_SX354_SY510_FMwebp_QL65_.jpg",Hulk2(2008) The Incredible
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/The-Incredible-Hulk-2008-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91BAMbEQHKL._AC_SX354_SY510_FMwebp_QL65_.jpg",Doctor Strange(2016)
+https://cdn175.cloud-streaming.com/4k/atmos/Doctor.Strange.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A124DSU-5HL._AC_SL1500_.jpg",Suicide Squad(2016)
+http://cdnstream1.podzone.net:443/bluray1/bluray2016/Suicide.Squad.2016.4K.2160p.TH.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91331R4Xc3L._AC_SL1500_.jpg",Justice League(2017)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Justice-League-2017-4K-2160p-DTS-HD.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91rcZWDAVIL._AC_SL1500_.jpg",Black Panther(2018)
+http://cdnstream1.podzone.net:443/bluray2/bluray2018/Black-Panther-2018-4K-2160p-DTS-HD-NEW.mp4
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51bF2a%2BE4LL._AC_SL1500_.jpg",Captain Marvel(2019)
+http://191.96.77.198:8081/4kmovie/h/Captain.Marvel.2019.2160p.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/91l5eYrJJhL._AC_SX354_SY510_FMwebp_QL65_.jpg",Batman v Superman(2016)
+https://4kmovie2.cloud-streaming.com/content/Batman.Superman.Dawn.of.Justice.2016.mkv
+#EXTINF:-1 group-title="Movie-4k"tvg-logo="https://m.media-amazon.com/images/I/A1t7EBA+qvL._AC_SX354_SY510_FMwebp_QL65_.jpg",Aquaman(2018)
+https://4kmovie2.cloud-streaming.com/content/Aquaman.2018.mkv
+ 
+#EXTM3U 
+
+#EXTINF:-1 group-title="NEWMOVIES"tvg-logo="https://doonungdee.online/cover/1588857709.png",ขุนแผน ฟ้าฟื้น Khun Phaen Begins (2019)
+https://cdn1.cdn9x.com/8ledaqa7/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588567598.jpg",Bull (2019) บลู
+https://cdn1.cdn9x.com/vc464qj9/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588567415.jpg",Booksmart (2019)
+https://cdn1.cdn9x.com/kc889o4u/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588567119.jpg",โจรปล้นโจร The Exchange (2019)
+https://cdn1.cdn9x.com/3qnu8qcs/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588566708.jpg",Domino (2019)
+https://cdn1.cdn9x.com/i7kr1nl0/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588566046.jpg",Fall in Love at First Kiss (2019) แกล้งจุ๊บให้รู้ว่ารัก
+https://cdn1.cdn9x.com/m7o227m1/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588566000.jpg",What Men Want (2019)
+https://cdn1.cdn9x.com/a0vh14dv/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://occ-0-2954-2567.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABbd3w0rrjj1ojlLM43qm8wwvoFL2U7AKBNFxGJwbtl0oaYj3uhRoWdVCLhA1Iv2aUdXpUEH6IYaPFSAr7ZZY_XgK8zUygnF4CvPZ6f4JLGa2aFPQ5-Yy.jpg",Joy (2018)
+https://cdn.jebriko.ru/vod/disk4/yhgiko.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Iron-Sky-2-The-Coming-Race.jpg",Iron Sky 2 The Coming Race (2019) ทัพเหล็กนาซีถล่มโลก 2
+https://cdn.jebriko.ru/vod/disk4/irosnky2.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/The-Dare.jpg",The Dare (2019)
+https://cdn.jebriko.ru/vod/disk4/thedare.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873406.jpg",Escape Plan 3 The Extractors (2019)
+https://cdn1.cdn9x.com/btnmvfpu/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873465.jpg",Greta เกรต้า ป้า บ้า เวียร์ด (2018)
+https://cdn1.cdn9x.com/gbb13chh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873292.jpg",Between Worlds (2018)
+https://cdn1.cdn9x.com/5643lvla/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873631.png",Serenity (2019)
+https://cdn1.cdn9x.com/v4gso4ds/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873671.jpg",Little Women สี่ดรุณี (2019)
+https://cdn1.cdn9x.com/v0d1gkl2/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873779.jpg",The Kill Team (2019)
+https://cdn1.cdn9x.com/8s21vsff/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587873856.jpg",The Willoughbys วิลโลบี้ สี่พี่น้องผจญภัย (2020) 
+https://cdn1.cdn9x.com/ovunltfa/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588055409.jpg",Richard Jewell (2019)
+https://cdn1.cdn9x.com/oj4q87/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588055429.jpg",The New King of Comedy (2019)
+https://cdn1.cdn9x.com/ftatj5t4/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588055552.jpg",A Witness Out of the Blue (2019)
+https://cdn1.cdn9x.com/uv0fve4e/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588055632.jpg",Bodies at Rest (2019)
+https://cdn1.cdn9x.com/2nebk1pl/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1588335277.jpg",Hollow Point (2019)
+https://cdn1.cdn9x.com/0m7vhluc/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/589ae1afe7b72c92ca9669353a909558.jpg",Extraction (2020)
+https://live.we-play.tv/vod/smil:Extraction.2020.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587723383.jpg",A Beautiful Day in the Neighborhood (2019) : เรื่องเล่าวันฟ้าสวย
+https://cdn1.cdn9x.com/1bahbe46/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587654723.jpg",ไทบ้าน x BNK48 จากใจผู้สาวคนนี้ (2020)
+https://cdn1.cdn9x.com/j7rpi9ks/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587368987.jpg",Sergio เซอร์จิโอ (2020) 
+https://cdn1.cdn9x.com/hqrbsvu8/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587451841.jpg",Final Shot (Silencer) (2018)
+https://cdn1.cdn9x.com/kesgtthq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586668337.jpg",Sleeper (2018)
+https://cdn1.cdn9x.com/5kqe5kar/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3741847f97caf7aab906f43fd81f1019.jpg",1917 (2019)
+https://cdn1.cdn9x.com/5uuv14a7/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586836241.jpg",The Tracker (2019)
+https://cdn1.cdn9x.com/0iemchpf/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587099910.jpg",Candy Corn (2019)
+https://cdn1.cdn9x.com/aq4v7hhn/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
+https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/The-Rhythm-Section.jpg",The Rhythm Section โครตสาวมือมือพระกาฬ (2020) 
+https://cdn.jebriko.ru/vod/disk3/movies/mnseqi.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats แคทส์ (2019)
+https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586498082.jpg",I See You (2019)
+https://cdn1.cdn9x.com/ivk7i90q/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586498212.jpg",Riot Girls (2019)
+https://cdn1.cdn9x.com/jm60b0j2/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586668136.jpg",Genesis: The Fall Of Eden (2018)
+https://cdn1.cdn9x.com/6dmepkd7/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586152250.jpg",Black Christmas คริสต์มาสเชือดสยอง (2019)
+https://cdn5.cdn9x.com/kk641aag/480p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/22-Chaser-249x323.jpg",22 Chaser 22 นักล่า (2018) 
+https://cdn.jebriko.ru/vod/disk3/movies/2ch22i.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586152160.jpg",Project Gutenberg เกมหักเหลี่ยม เฉือนคม (2018)
+https://cdn5.cdn9x.com/08ja6edk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585974318.png",The Good Liar เกมลวง ซ้อนนรก (2019)
+https://cdn5.cdn9x.com/6g2qhk0n/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585974295.jpg",Spider in the Web (2019)
+https://cdn5.cdn9x.com/hlmdmro8/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585802689.jpg",Dragonheart Vengeance ดราก้อนฮาร์ท ศึกล้างแค้น (2020)
+https://cdn5.cdn9x.com/3lrtkkeq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585802627.jpg",Rogue Warfare (2019)
+https://cdn5.cdn9x.com/2vu4dtj4/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585802460.jpg",Daughter of the Wolf (2019)
+https://cdn5.cdn9x.com/2v0ulpdt/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585718905.jpg",The Platform (El hoyo) เดอะ แพลตฟอร์ม (2019)
+https://cdn5.cdn9x.com/kkktldv5/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585718724.png",The Call of the Wild เสียงเพรียกจากพงไพร (2020) 
+https://cdn5.cdn9x.com/eg2cladv/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/The-Kill-List.jpg",The Kill List (2020) ล่า ล้าง บัญชี
+https://cdn.jebriko.ru/vod/disk3/movies/theklst.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
+https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585572626.jpg",The Murder of Nicole Brown Simpson (2020)
+https://cdn5.cdn9x.com/2eqqq069/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585543881.png",Motherless Brooklyn สืบกระตุก โค่นอิทธิพลมืด (2019)
+https://cdn5.cdn9x.com/2h6b8f52/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585543782.jpg",Superman: Red Son (2020)
+https://cdn5.cdn9x.com/pp5a5qvq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585543721.jpg",Honey Boy (2019)
+https://cdn5.cdn9x.com/4vddb72d/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585543668.jpg",Downton Abbey ดาวน์ตัน แอบบีย์ เดอะ มูฟวี่ (2019)
+https://cdn5.cdn9x.com/tqb24n5o/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585284262.jpg",The Gentlemen (2020) สุภาพบุรุษมาหากัญ
+https://cdn5.cdn9x.com/uj97be54/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585284072.jpg",Lucy in the Sky (2019)
+https://cdn5.cdn9x.com/g3ghlbjk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585215339.jpg",ฮาวทูทิ้ง..ทิ้งอย่างไรไม่ให้เหลือเธอ Happy Old Year (2019)
+https://cdn5.cdn9x.com/ojc4ph6q/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585194138.jpg",The Domestics (2018)
+https://cdn5.cdn9x.com/vku7fr1f/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585193378.png",The Peanut Butter Falcon (2019) : คู่ซ่าบ้าล่าฝัน
+https://cdn5.cdn9x.com/ksfvnjik/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585110759.jpg",Bloodshot (2020) จักรกลเลือดดุ
+https://cdn5.cdn9x.com/72q1p3dn/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585110515.jpg",Judy (2019) จูดี้
+https://cdn5.cdn9x.com/kdvdakco/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585022124.jpg",Onward คู่ซ่าล่ามนต์มหัศจรรย์ (2020)
+https://cdn5.cdn9x.com/j8pm9c97/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585021763.jpg",ANGEL HAS FALLEN (2019) ผ่ายุทธการ ดับแผนอหังการ์
+https://cdn5.cdn9x.com/hfikbt57/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584851499.jpg",American Animals รวมกันปล้น อย่าให้ใครจับได้ (2018)
+https://cdn5.cdn9x.com/jqcsqd1d/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584851576.png",The Lighthouse เดอะ ไลท์เฮาส์ (2019)
+https://cdn5.cdn9x.com/8rto6afp/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584851665.png",UFO พลิกมิติยูเอฟโอ (2018)
+https://cdn5.cdn9x.com/j9ubtmci/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584599613.jpg",Go Karts (2020)  กล้าฝันพลังโกคาร์ท
+https://cdn5.cdn9x.com/bbj88fqk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584596877.jpg",Bad Boys For Life (2020) แบดบอยส์ คู่หูตลอดกาล ขวางทางนรก 
+https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584596812.jpg",Star Wars: The Rise of Skywalker (2019) สตาร์ วอร์ส กำเนิดใหม่สกายวอล์คเกอร์
+https://cdn5.cdn9x.com/ctibj79k/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584245349.jpg",ดิว ไปด้วยกันนะ Dew (2019)
+https://cdn5.cdn9x.com/8e4u2jen/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1584070500.jpg",Night Hunter (2019) ล่า เหี้ยม รัตติกาล
+https://cdn5.cdn9x.com/02rn5cj5/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1583554339.png",Tootsies & The Fake (2019) ตุ๊ดซี่ส์ & เดอะเฟค
+https://cdn5.cdn9x.com/7fjc8hto/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1583638122.png",Master Z The IP Man Legacy ยิปมัน ตำนานมาสเตอร์ Z (2018)
+https://cdn5.cdn9x.com/t667m8v5/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1583638241.png",Spenser Confidential (2020) สเปนเซอร์ ลุย ล่า ปราบทรชน
+https://cdn5.cdn9x.com/avn77um2/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1583638373.png",Birds of Prey ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด (2020)
+https://cdn5.cdn9x.com/q48s3335/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1583638465.jpg",Vice รองประธานาธิดีเขย่าโลก (2018)
+https://cdn5.cdn9x.com/efaltkde/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hna9on307c8oc8ko44.jpg",47 Meters Down Uncaged 47 ดิ่งลึกสุดนรก (2019)
+http://191.96.77.236/video/2019/47.Meters.Down.Uncaged.2019.1080p.bdrip.th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/869z63py8j0o0o44o.jpg",Jumanji The Next Level เกมดูดโลก ตะลุยด่านมหัศจรรย์ (2019)
+http://191.96.77.236/video/2019/Jumanji.the.next.level.2019.1080p.bluray.submas-4k.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/re3fsae3z6okg8c04w.jpg",Villains บ้านซ่อนเพี้ยน (2019)
+http://191.96.77.236/video/2019/Villains.2019.1080p.web.thm-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/39f7ezhs4buogkkwcw.jpg",Black and Blue แบล็คแอนด์บลู พลิกแผนลับ สับตำรวจ (2019)
+http://191.96.77.236/video/2019/Black.and.blue.2019.1080p.bluray.thm-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/vuj3wknvnoggc0gog8.jpg",The last thing he wanted (2020)
+http://191.96.77.236/video/movie_sound2019/The.last.thing.he.wanted.2020.1080p.web-dl.subnf-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/q2y35mayxfkwcw08wg.jpg",Countdown (2019) 
+http://191.96.77.236/video/2019/Countdown.2019.1080p.BrRip.th-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1582265034.png",Midway อเมริกาถล่มญี่ปุ่น (2019) 
+https://cdn5.cdn9x.com/v8gl2oe6/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1582086595.png",The Addams Family ตระกูลนี้ผียังหลบ (2019)
+https://cdn5.cdn9x.com/mbgiuj66/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.webdoonung.com/images/movie/xYMv9tlJp4KM2p0IUdRmboSlRDnI7V7mibwwsj9dgmjjxjab1ugiaouegf7k4c6no2jglsu2fdlcxwoyq4h1scf8rnsv0zj.png",Zombieland Double Tap ซอมบี้แลนด์ 2 แก๊งซ่าส์ล่าล้างซอมบี้ (2019)
+https://cdn-3.vip-streaming.com:30443/ssd/vod/movie-store/movie-1/Zombieland_Double_Tap_2019_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2bwo83j9xym8scswgc.jpg",Jarhead 4: Law Of Return (2019) : จาร์เฮด: พลระห่ำสงครามนรก 4
+http://191.96.77.236/video/2019/Jarhead.law.of.return.2019.1080p.brrip.th.4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2fk3f5af1izocsg04k.jpeg",Rambo 5 Last Blood แรมโบ้ 5 นักรบคนสุดท้าย ( 2019) [ บรรยายไทยแปล ]
+http://191.96.77.236/video/movie_sound2019/Rambo.last.blood.2019.1080p.bd.subtht-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.webdoonung.com/images/movie/KsNQ573MqoNgQTTJrJI6bfKcMVbwYeXTroop-Zero-poster-600x889.jpg",Troop Zero กองทหารศูนย์
+https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-24/Troop_Zero_2019_EN_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/02/last-christmas.jpg",Last Christmas (2019)
+http://file1.mix333.com/3/M07669.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doofree88.com/storage/images/2020/2/nKW62opuKhHE2jcRUP2QylWAhQfLOkAQgn8QFvXL.jpg",Charlie`s Angels นางฟ้าชาร์ลี (2019)
+https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600953.jpg",Frozen II ผจญภัยปริศนาราชินีหิมะ (2019)
+https://cdn5.cdn9x.com/ld4g6i0c/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1576245050.png",he Angry Birds Movie 2 (2019)
+https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3e90d9751c3127122fcb454d62f006e5.jpg",Doctor Sleep (2019)
+http://191.96.77.236/video/2019/Doctor.Sleep.2019.1080p.WEBRip.THm2.0.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/cf59932a6a8f67abbc8b2a342a39e040.png",Terminator Dark Fate (2019)
+http://191.96.77.236/video/2019/Terminator.Dark.Fate.2019.1080p.brrip.TH-4K.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2ff717eac16e9e8dc36257394ea2db6e.jpg",Ford vs Ferrari (2019)
+http://191.96.77.236/video/movie_sound2019/Ford.v.ferrari.2019.1080p.webdl.subthm-4k.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://f.ptcdn.info/598/067/000/q3onmfoqr5OfPd1Dqwq-o.jpg",Primal (2019)
+https://cdn5.cdn9x.com/cuj7val1/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578540536.png",Fighting with My Family (2019)
+https://cdn5.cdn9x.com/2u3iajeh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579323883.jpg",Inside Man Most Wanted (2019)
+https://cdn5.cdn9x.com/7on2lqv6/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405153.jpg",Downton Abbey (2019)
+https://cdn5.cdn9x.com/u19gtj1m/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405196.png",Brave Father Online Our Story of Final Fantasy XIV (2019)
+https://cdn5.cdn9x.com/up68rlqq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405266.jpg",A Fall from Grace (2020)
+https://cdn5.cdn9x.com/fshdu8vm/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524367.jpg",The Gangster, the Cop, the Devil (2019) 
+https://cdn5.cdn9x.com/h0inb4lh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524417.png",A Sun (2019)
+https://cdn5.cdn9x.com/sf5el7ke/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524558.jpg",Airplane Mode (2019)
+https://cdn5.cdn9x.com/c62srjlm/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580781029.png",Playing with Fire (2019)
+https://cdn5.cdn9x.com/h6mbchlk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954561.jpg",Uncut Gems (2019) 
+https://cdn5.cdn9x.com/jqm4d7dk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954621.png",Taylor Swift Miss Americana (2020)
+https://cdn5.cdn9x.com/t72tgf6i/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/02/6-1.jpg",Made in China (2019)
+https://cdn5.cdn9x.com/ieq6ebef/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954782.png",Motichoor Chaknachoor (2019)
+https://cdn5.cdn9x.com/mvgm5d1l/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954832.png",Laal Kaptaan (2019)
+https://cdn5.cdn9x.com/11dqhp7l/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137620.jpg",Detective Di Renjie (2020)
+https://cdn5.cdn9x.com/aeag7lm7/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137914.jpg",Dragged Across Concrete (2018)
+https://cdn5.cdn9x.com/5l77eps1/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137938.jpg",Secret Zoo (2020) 
+https://cdn5.cdn9x.com/kgegude/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221616.jpg",P Storm (2019)
+https://cdn5.cdn9x.com/n1idar97/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221581.jpg",Trading Paint (2019)
+https://cdn5.cdn9x.com/s8rj1m5q/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954501.png",Close Enemies (2018)
+https://cdn5.cdn9x.com/d7paqj9g/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578540651.png",Arctic (2018)
+https://cdn5.cdn9x.com/cdeb5776/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578457243.png",Mary Poppins Returns (2018)
+https://cdn5.cdn9x.com/49hp1v2n/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221502.jpg",Beautiful Boy (2018)
+https://cdn5.cdn9x.com/q4e8r2fp/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221540.png",Ben Is Back (2018)
+https://cdn5.cdn9x.com/753rgqc3/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1568858963.jpg",he Angry Birds Movie (2016)
+https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
+
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589463049.png",ไบค์แมน 2 Bikeman 2 (2019)
+https://cdn1.cdn9x.com/r9j44iar/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589522549.png",Ultimate Justice (2017)
+https://cdn1.cdn9x.com/jp4986ae/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589436726.jpg",Cecil (2019)
+https://cdn1.cdn9x.com/ulnem8rp/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589437069.jpg",Prey (2019)
+https://cdn1.cdn9x.com/6j924csa/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589437272.jpg",The Last Man (2019)
+https://cdn1.cdn9x.com/236la118/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589437664.jpg",You Might Be the Killer (2018)
+https://cdn1.cdn9x.com/l75qe0tr/1080p.m3u8
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1589522520.jpg",Burn (2019)
+https://cdn1.cdn9x.com/jfg7k681/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/228.jpg",Khun Phaen Begins ขุนแผน ฟ้าฟื้น
+https://cdn1.cdn9x.com/8ledaqa7/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es//uploads//video_thumb//4026.jpg",I Origins หนึ่งรักในจักรวาล
+https://cdn1.cdn9x.com/9d8vtnqd/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4027.jpg",Solomon Kane โซโลมอน ตัดหัวผี
+https://cdn1.cdn9x.com/fo104gm/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4025.jpg",Memories of Matsukoเส้นทางฝันของมัตซึโก๊ะ
+https://cdn1.cdn9x.com/8c3anfsd/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/poster_image/4024.jpg",Tokyo Raiders
+https://cdn1.cdn9x.com/1chdi2lp/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://apptvhd.esy.es/uploads/video_thumb/4023.jpg",Brothershttps://cdn1.cdn9x.com/fd2385pq/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/226.jpg",Sweet Boy สวีทบอย เรารักนาย
+https://cdn.badroids.is/vod/disk4/zetylm.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/225.jpg",A Family Tour ทัวร์สนุก สุดเศร้า
+https://cdn.badroids.is/vod/disk4/afmytu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/224.jpg",Curtiz เคอร์ติซ
+https://cdn.badroids.is/vod/disk4/ccurtiz.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/223.jpg",All Day and a Night ตรวนอดีต
+https://cdn.badroids.is/vod/disk4/aldyniht.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/222.jpg",Weathering with You ฤดูฝัน ฉันมีเธอ
+https://cdn.badroids.is/vod/disk4/weigyu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/221.jpg",The Half of It รักครึ่งๆ กลางๆ
+https://freeball95.com/E/M07961.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/220.jpg",More than Blue ถึงวันนั้น ฉันจะบอกรักเธอ
+https://cdn.badroids.is/vod/disk4/mohble.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/219.jpg",The Coldest Game เกมลับสงครามเย็น
+https://cdn.badroids.is/vod/disk4/dgjjle.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/218.jpg",Domino
+https://cdn.badroids.is/vod/disk4/ofjnsns.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/217.jpg",Hollow Point
+https://cdn.badroids.is/vod/disk4/pinjkl.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/216.jpg",โจรปล้นโจร The Exchange
+https://cdn.badroids.is/vod/disk4/ytujgu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/215.jpg",Beastie Boys Story
+https://cdn.badroids.is/vod/disk4/sbbsoue.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/214.jpg",Born Bone Born บอร์น โบน บอร์น
+https://cdn.badroids.is/vod/disk4/bornbn.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/213.jpg",Bodies at Rest
+https://cdn1.cdn9x.com/2nebk1pl/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/212.jpg",A Witness Out of the Blue
+https://cdn1.cdn9x.com/uv0fve4e/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/211.jpg",The New King of Comedy
+https://cdn1.cdn9x.com/ftatj5t4/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/210.jpg",Extraction คนระห่ำภารกิจเดือด
+https://cdn.we-play.tv/app/movies/netflix/content/Extraction.2020.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/209.jpg",สลัมบอย ซอยตื๊ด Slumboy Soi Teeed
+https://cdn.badroids.is/vod/disk4/ddfrg.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/208.jpg",วิลโลบี้ สี่พี่น้องผจญภัย The Willoughbys
+https://cdn1.cdn9x.com/ovunltfa/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/207.jpg",The Kill Team
+https://cdn1.cdn9x.com/8s21vsff/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/206.jpg",Little Women สี่ดรุณี 
+https://cdn1.cdn9x.com/v0d1gkl2/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/205.jpg",ฟอร์มาลีนแมน รักเธอเท่าฟ้า
+https://cdn1.cdn9x.com/r2i06rfi/480p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/204.jpg",Thi-Baan x BNK48
+https://cdn1.cdn9x.com/j7rpi9ks/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/203.jpg",Earth and Blood เลือดและปฐพี
+https://cdn.badroids.is/vod/disk4/eahdo.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/202.jpg",A Shaun the Sheep Movie: Farmageddon
+https://cdn.badroids.is/vod/disk4/ahanum.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/200.jpg",An Affair to Die For
+https://cdn.badroids.is/vod/disk4/dfiope.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/199.jpg",Hustlers ยั่ว สวย รวย แสบ
+https://cdn.badroids.is/vod/disk4/terkjl.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/198.jpg",A.R.C.H.I.E. 2: Mission Impawsible
+https://cdn1.cdn9x.com/3ov9rg8q/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/197.jpg",Occupation
+https://cdn1.cdn9x.com/uj9orls9/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/195.jpg",Candy Corn
+https://cdn.badroids.is/vod/disk4/candrc.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/193.jpg",Shockwave Countdown To Disaster
+https://cdn.badroids.is/vod/disk4/shwact.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/191.jpg",A Doggone Adventure หมาน้อยผจญภัย
+https://cdn.badroids.is/vod/disk4/gokiid.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/189.jpg",Vault แผนปล้นโครตเซฟ
+https://cdn.badroids.is/vod/disk4/vwefiy.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/188.jpg",Cargo คาร์โก้
+https://cdn.badroids.is/vod/disk4/agorcle.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/187.jpg",Fantasy Island เกาะสวรรค์ เกมนรก
+https://cdn.badroids.is/vod/disk4/sasynd.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/184.jpg",The Parting Glass เสี้ยวความทรงจำ ไม่มีวันตาย
+https://cdn.badroids.is/vod/disk4/ekwuop.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/182.jpg",Genesis การล่มสลายของเอเดน
+https://cdn.badroids.is/vod/disk4/gsimki.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/180.jpg",Spark: A Space Tail ลิงจ๋ออวกาศ
+https://cdn.badroids.is/vod/disk4/tazxyi.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/176.jpg",The Call of the Wild เสียงเพรียกจากพงไพร
+https://cdn.badroids.is/vod/disk3/movies/thecawd.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/175.jpg",มิสเตอร์ดื้อ กันท่าเหรียญทอง Love and Run
+https://cdn.mv032.se/vod/disk3/movies/lovadu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/170.jpg",Masked Rider Chaser มาสค์ไรเดอร์ไดรฟ์ซาก้า : เชสเซอร์?
+http://cdn1.dexclub.com/vod/dex/DRIVESAGA/DRIVESAGA_01.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/169.jpg",Kamen Rider The Movie: Be the One
+http://cdn1.dexclub.com/vod/dex/MRBUILDM/MRBUILDM_01hd.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/168.jpg",The Bad Guys: Reign of Chaos
+https://cdn.we-play.tv/app/movies/asia/content/Bad.Guys.The.Movie.2019.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/167.jpg",Rampant นครนรกซอมบี้คลั่ง
+https://cdn.we-play.tv/app/movies/asia/content/Rampant.2018.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/165.jpg",Cats
+https://cdn.mv032.se/vod/disk3/movies/citspo.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/164.jpg",The Fittest ยอดคนแกร่ง
+https://cdn.mv032.se/vod/disk3/movies/tefiii.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/163.jpg",Like a Boss เพื่อนรักหักเหลี่ยมรวย
+https://cdn.mv032.se/vod/disk3/movies/ssoadb.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/162.jpg",The Rhythm Section โครตสาวมือมือพระกาฬ
+https://cdn.mv032.se/vod/disk3/movies/mnseqi.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/161.jpg",My Spy พยัคฆ์ร้าย สปายแสบ
+https://cdn.mv032.se/vod/disk3/movies/mmyspyn.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/160.jpg",Riot Girls เส้นทางสาวบู๊
+https://cdn.mv032.se/vod/disk3/movies/hiotvb.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/158.jpg",The Little Vampire แวมไพร์ตัวน้อย
+https://cdn.doraino.to/vod/disk3/movies/vltayu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/157.jpg",The Big Take ใหญ่เอา ใหญ่เอา
+https://cdn.chavalit.is/vod/disk3/movies/ekjfgx.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/156.jpg",Dead in a Week (Or Your Money Back) มือปืนสายบ๊อง
+https://cdn.chavalit.is/vod/disk3/movies/mnveek.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/155.jpg",Coffee & Kareem
+https://cdn.chavalit.is/vod/disk3/movies/ncfree.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/154.jpg",Long Live the King ฮีโร่แห่งมกโพจงเจริญ
+https://cdn.chavalit.is/vod/disk3/movies/ivllhe.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/152.jpg",Seberg ต่อต้านศัตรูทั้งหมด
+https://cdn.chavalit.is/vod/disk3/movies/erhjgo.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/150.jpg",Replicas พลิกชะตา เร็วกว่านรก
+https://cdn.we-play.tv/app/movies/inter/content/Replicas.2018.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/92.jpg",IP MAN 1 ยิปมันจ้าวกังฟู สู้ยิบตา
+https://cdn.movietok.is/vod/disk2/movies/im1ymj.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/85.jpg",Master Z The IP Man Legacy ยิปมัน ตำนานมาสเตอร์ Z
+https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-27/Master_Z_Ip_Man_Legacy_2018_TH_1080p.mp4/chunk.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/93.jpg",IP MAN 3  ยิปมัน 3
+https://cdn.movietok.is/vod/disk3/movies/impan3.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/149.jpg",IP Man 4 The Final
+https://doraino.to/vod/disk3/movies/pmanhe4.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/148.jpg",The Current War สงครามไฟฟ้า คนขั้วอัจฉริยะ
+https://cdn.we-play.tv/app/movies/inter/content/The.Current.War.2017.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/147.jpg",Black Christmas คริสต์มาสเชือดสยอง
+https://cdn.we-play.tv/app/movies/inter/content/Black.Christmas.2019.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/145.jpg",เกมหักเหลี่ยม เฉือนคม Project Gutenberg 
+https://cdn5.cdn9x.com/08ja6edk/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/144.jpg", T-34 แหกค่ายประจัญบาน
+https://cdn5.cdn9x.com/mqlnrqc/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/140.jpg",The Decline
+https://cdn.chavalit.is/vod/disk3/movies/llctem.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/138.jpg",Deadsight
+https://cdn.chavalit.is/vod/disk3/movies/htdisv.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/137.jpg",Maska เส้นแบ่งฝัน
+https://cdn.movietok.is/vod/disk3/movies/mateix.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/113.jpg",Your Move มึงต้องหนี
+https://cdn.doraino.to/vod/disk3/movies/hreimi.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/112.jpg",Underwater  มฤตยูใต้สมุทร
+https://cdn.doraino.to/vod/disk3/movies/undewan.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/110.jpg",Lino 
+https://cdn.doraino.to/vod/disk3/movies/linono.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/107.jpg",ช่องส่องผี The Real Ghosts
+https://cdn5.cdn9x.com/gk6v9fvo/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/106.jpg",Contagion สัมผัสล้างโลก
+https://cdn.badroids.is/vod/disk3/movies/8vocta.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/105.jpg",Triple Frontier ปล้น ล่า ท้านรก
+https://cdn.doraino.to/vod/disk3/movies/f3teeq.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/104.jpg",The Platform
+https://cdn.doraino.to/vod/disk3/movies/thpaom.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/103.jpg",Altered Carbon Resleeved
+https://cdn.doraino.to/vod/disk3/movies/rscaad.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/102.jpg",Acceleration 
+https://cdn.doraino.to/vod/disk3/movies/leqqxi.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/101.jpg",Terra Willy 
+https://cdn.doraino.to/vod/disk3/movies/wiltil.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/100.jpg",TOKYO GHOUL 'S'
+https://cdn.doraino.to/vod/disk3/movies/okghsl.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/99.jpg",The Battle Roar to Victory 
+https://cdn.doraino.to/vod/disk3/movies/rrobva.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/97.jpg",The Spirit of Ramayana  บุษบา
+https://cdn.doraino.to/vod/disk3/movies/bueapi.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/96.jpg",The Untamed  ปรมาจารย์ลัทธิมาร ชีวิตแห่งความตาย
+https://cdn.doraino.to/vod/disk3/movies/livadeq.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/95.jpg",Toy Story 4 ทอย สตอรี่ 4
+https://cdn.doraino.to/vod/disk3/movies/toysrys.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/94.jpg",Chaeng แช่ง
+https://cdn.doraino.to/vod/disk3/movies/chnawu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/91.jpg",Vice รองประธานาธิดีเขย่าโลก 
+https://cdn5.cdn9x.com/efaltkde/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/89.jpg",The Cave นางนอน
+http://cdn-vod.kodi-live.com/hls/content/nss4/vod/TH_0532204_720p.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/87.jpg",Primal โคตรคนมหากาฬ
+http://43.255.241.165:1935/farang/Primal-Th.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/86.jpg",ONWARD  คู่ซ่าล่ามนต์มหัศจรรย์ 
+https://cdn5.cdn9x.com/j8pm9c97/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/84.jpg",Timmy Failure Mistakes Were Made 
+https://cdn.badroids.is/vod/disk3/movies/mitkkd.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/83.jpg",The Closet ตู้นรกไม่ได้ผุดไม่ได้เกิด
+https://cdn.badroids.is/vod/disk3/movies/touceu.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/82.jpg",Tootsies And The Fake
+https://cdn.badroids.is/vod/disk3/movies/toisafd.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/81.jpg",47 Meters Down Uncaged
+http://191.96.77.236/video/2019/47.Meters.Down.Uncaged.2019.1080p.bdrip.th.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/80.jpg",Master of Magic ปรมาจารย์จอมเวทย์
+https://cdn.doraino.to/vod/disk3/movies/mjsopp.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/79.jpg",Chasing the Dragon ตามล่ามังกรตอนสารวัตรพันล้านดอลลาร์
+https://cdn.doraino.to/vod/disk3/movies/dxaclb.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/78.jpg",THE LAST THING HE WANTED  คำสั่งตาย
+http://191.96.77.236/video/movie_sound2019/The.last.thing.he.wanted.2020.1080p.web-dl.subnf-4K.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/77.jpg",Countdown
+http://191.96.77.236/video/2019/Countdown.2019.1080p.BrRip.th-4K.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/66.jpg",Spies in Disguise ยอดสปายสายพราง
+https://cdn5.cdn9x.com/ldcipba7/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/65.jpg",Pokemon Mewtwo Strikes Back Evolution
+https://cdn5.cdn9x.com/l7e7t9dg/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/64.jpg",Sonic the Hedgehog
+https://cdn5.cdn9x.com/lbt7bsc8/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/63.jpg",Star War 9 กำเนิดใหม่สกายวอล์คเกอร์
+https://cdn5.cdn9x.com/ctibj79k/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/62.jpg",รัก 2 ปี ยินดีคืนเงิน Love Battle
+http://160.119.77.233/hls/content/nss4/vod/TH_0530097_480p.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/61.jpg",Birds of Prey ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด
+https://cdn5.cdn9x.com/q48s3335/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/58.jpg",47 Meters Down: Uncaged ดิ่งลึกสุดนรก
+https://cdn5.cdn9x.com/1vf1djf3/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/57.jpg",The Body ศพที่หายไป
+https://cdn5.cdn9x.com/c8bqloj3/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/56.jpg",Nha Harn
+https://cdn5.cdn9x.com/mgbkanmo/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/55.jpg",The Rookies ทีมเฟี้ยวตัดเหลี่ยมคน
+https://cdn5.cdn9x.com/6kpb1nf2/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/54.jpg",บางกอก…สยอง Bangkok Dark Tales
+https://cdn5.cdn9x.com/i9te0m5p/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/53.jpg",Steven Universe: The Movie 
+https://cdn5.cdn9x.com/aakef4bd/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/52.jpg",Black and Blue แบล็คแอนด์บลู พลิกแผนลับ สับตำรวจ
+https://cdn5.cdn9x.com/uh0mvk9k/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/51.jpg",Jumanji 3 The Next Level จูแมนจี้ 3 เกมดูดโลก ตะลุยด่านมหัศจรรย์
+https://cdn5.cdn9x.com/lrcr0h11/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/50.jpg",Code 8  ล่าคนโคตรพลัง
+https://cdn5.cdn9x.com/1cctdc3/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/49.jpg",he Angry Birds Movie 2 
+https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/48.jpg",Charlie`s Angels นางฟ้าชาร์ลี
+https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/47.jpg",Troop Zero กองทหารศูนย์
+https://cdn-3.vip-streaming.com:30443/webdoonung/3-ssd/movie/store-24/Troop_Zero_2019_EN_1080p.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/46.jpg",Jarhead 4 : Law Of Return
+http://191.96.77.236/video/2019/Jarhead.law.of.return.2019.1080p.brrip.th.4K.mp4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/45.jpg",The Addams Family ตระกูลนี้ผียังหลบ
+https://cdn5.cdn9x.com/mbgiuj66/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/44.jpg",Midway  อเมริกา ถล่ม ญี่ปุ่น
+https://cdn5.cdn9x.com/v8gl2oe6/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/37.jpg",Joker โจ๊กเกอร์
+https://cdn-3.vip-streaming.com:30443/ssd/vod/movie-store/movie-1/Joker_2019_THR_1080p.mp4/chunk.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/35.jpg",Pokemon Detective Pikachu โปเกมอน ยอดนักสืบพิคาชู
+https://cdn-3.vip-streaming.com:30443/ssd/vod/movie-store/movie-2/Pokemon.Detective.Pikachu.2019.1080p.THBD-4K.mp4/chunk.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/27.jpg", Bad Boys For Life คู่หูขวางนรก ตลอดกาล
+https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/15.jpg",Ne Zha นาจา
+https://cdn5.cdn9x.com/mdush8rp/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/14.jpg",Kingdom ราชอาณาจักร 
+https://cdn5.cdn9x.com/o3pifks3/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/13.jpg",Wonder Woman: Bloodlines
+https://cdn5.cdn9x.com/kettn49q/720p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/12.jpg",Jade Dynasty กระบี่เทพสังหาร 
+https://cdn5.cdn9x.com/lcforgpd/1080p.m3u8
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="http://app.9koh.com/uploads/video_thumb/9.jpg",Terminator : Dark Fate  ฅนเหล็ก : วิกฤตชะตาโลก
+http://160.119.77.233/hls/content/nss4/vod/TH_0529134_720p.mp4/index.m3u8
